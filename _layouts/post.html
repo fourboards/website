@@ -52,13 +52,9 @@ p .reversefootnote:hover, p .reversefootnote:active, p .reversefootnote:focus {
   {{ content }}
 </article>
 
-{% if site.show_sharing_icons %}
-  {% include share_buttons.html %}
-{% endif %}
+<a href="{{page.next.url}}" title="{{page.next.title}}" class="next-project target"></a>
+<a href="{{page.previous.url}}" title="{{page.previous.title}}" class="prev-project target"></a>
 
-{% if site.show_post_footers %}
-  {% include post_footer.html %}
-{% endif %}
 
 {% if site.disqus_shortname != "" and site.disqus_shortname != nil %}
   <div id="disqus_thread"></div>

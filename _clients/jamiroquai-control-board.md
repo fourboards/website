@@ -1,8 +1,44 @@
 ---
-layout: post-wide
-hero-bg-color: '#FFB6C1'
+layout: post
+hero-bg-color: '#FFFFFF'
 uid: jamiroquai-control-board
 title:  'Jamiroquai Control Board'
+tags: portfolio
 ---
 
-<p>{title}</p>
+<img src="{{ site.url }}/images/portfolio/jamiroquai-control-board/IMG_20170719_092749.jpg">
+
+<div class="sqs-html-content">
+ <p class="" style="text-align:center;white-space:pre-wrap;">
+  <strong>
+   Brief:
+  </strong>
+  To redesign an existing controller board for the Jamiroquai – Automaton project with enhanced reliability, ease of use and in a smaller for factor.
+ </p>
+ <p class="" style="text-align:center;white-space:pre-wrap;">
+  <strong>
+   Approach:
+  </strong>
+  Previous versions of the controller had used I2C multiplexing ICs to manage joysticks remotely with as few wires as possible.  However losing I2C communication through bad connections would cause the program to lock up and prevent all functionality of the LED helmet.  To overcome this we opted to use a different communication interface, SPI, in conjunction with reliable 74 series logic ICs to provide the same functionality without the possibility of lock ups.  To achieve the size restraints we opted to use tiny 0402 size resistors in conjunction with QFN logic ICs and some micro SMD joystick modules.  As the current controller boards were causing lock ups mid show this project was considered an emergency and the entire development stage through to final implementation was achieved in a matter of days.
+ </p>
+ <p class="" style="text-align:center;white-space:pre-wrap;">
+  <strong>
+   Outcome:
+  </strong>
+  5 highly reliable, tiny controller boards, as well as embedded c++ software library for easy implementation.  Each board provides 10 input channels over a 5 wire connection requiring just 3 IO pins for control.
+ </p>
+</div>
+
+
+<img src="{{ site.url }}/images/portfolio/jamiroquai-control-board/IMG_20170718_155541.jpg">
+
+<img src="{{ site.url }}/images/portfolio/jamiroquai-control-board/IMG_20170718_154041.jpg">
+
+<img src="{{ site.url }}/images/portfolio/jamiroquai-control-board/IMG_20170718_153951.jpg">
+
+<img src="{{ site.url }}/images/portfolio/jamiroquai-control-board/IMG_20170719_092716.jpg">
+
+<img src="{{ site.url }}/images/portfolio/jamiroquai-control-board/IMG_20170718_154410.jpg">
+
+<img src="{{ site.url }}/images/portfolio/jamiroquai-control-board/IMG_20170718_154342.jpg">
+

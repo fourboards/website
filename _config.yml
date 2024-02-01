@@ -23,7 +23,6 @@ bing_verification:
 ######################################
 animated:             false
 show_related_posts:   false
-show_post_footers:    True
 show_social_icons:    True
 enable_mathjax: false
 extended_fonts: false
@@ -68,36 +67,10 @@ paypal_url:
 flattr_button:
 instagram_username: fr4boards
 
-###################################
-## Post sharing icons            ##
-###################################
-show_sharing_icons: True
-# Change to 'true' to enable individual icons
-share_facebook: True
-share_twitter: True
-share_googleplus: True
-share_linkedin: false
-share_digg: false
-share_tumblr: false
-share_reddit: True
-share_stumbleupon: false
-share_hackernews: True
-
 text:
   pagination:
     newer: 'Newer'
     older: 'Older'
-  share_buttons:
-    text:         'Share this post!'
-    facebook:     'Share on Facebook'
-    twitter:      'Share on Twitter'
-    googleplus:   'Share on Google+'
-    linkedin:     'Share on LinkedIn'
-    digg:         'Share on Digg'
-    tumblr:       'Share on Tumblr'
-    reddit:       'Share on Reddit'
-    stumbleupon:  'Share on StumbleUpon'
-    hackernews:   'Share on Hacker News'
   post:
     updated:        'Updated'
     minute_read:    'minute read'

@@ -1,8 +1,19 @@
 ---
-layout: post-wide
-hero-bg-color: '#FFB6C1'
+layout: post
+hero-bg-color: '#FFFFFF'
 uid: cycle-race-timing-system
 title:  'Cycle Race Timing System'
+tags: portfolio
 ---
 
-<p>{title}</p>
+<img src="{{ site.url }}/images/portfolio/cycle-race-timing-system/IMG_20190402_153322.jpg">
+
+<div class="sqs-html-content">
+ <p class="" style="text-align:center;white-space:pre-wrap;">
+  As part of my Batchelors Degree in Electronic Engineering I designed and built a cycle race timing system.  It uses transponders with a pickup coil at the start/finish line to track riders laps.  The report linked below documents the work.
+ </p>
+</div>
+
+
+<img src="{{ site.url }}/images/portfolio/cycle-race-timing-system/Cycle+Club+Race+Timing+System.PNG">
+
