@@ -1,0 +1,126 @@
+---
+layout: default_design
+title: Home
+tags: home, portfolio
+js:
+- js/util_buttons.js
+---
+
+<div class="index_banner clearfix">
+  <img src="{{ site.url }}/images/banners/IMG_0346.jpg">
+</div>
+
+<a id="personal_projects">
+  <hr>
+</a>
+
+<div class="index_headings">
+<h2>Personal Projects</h2>
+</div>
+
+<ul class="projects clearfix">
+  {% for post in site.projects %}
+    <li>
+      <div class="project"
+           style='background-image: url(/images/thumbs/{{ post.uid }}.jpg)'>
+        <a class="cover" href="{{ post.url }}">
+          <div class="project-details">
+            <span>
+              {{ post.title }}
+            </span>
+          </div>
+        </a>
+
+      </div>
+    </li>
+  {% endfor %}
+</ul>
+
+<a id="products">
+  <hr>
+</a>
+
+<div class="index_headings">
+<h2>Products</h2>
+</div>
+
+<ul class="projects clearfix">
+  {% for post in site.products %}
+    <li>
+      <div class="project"
+           style='background-image: url(/images/thumbs/{{ post.uid }}.jpg)'>
+        <a class="cover" href="{{ post.url }}">
+          <div class="project-details">
+            <span>
+              {{ post.title }}
+            </span>
+          </div>
+        </a>
+
+      </div>
+    </li>
+  {% endfor %}
+</ul>
+
+<a id="client_projects">
+  <hr>
+</a>
+
+<div class="index_headings">
+<h2>Client Projects</h2>
+</div>
+
+<ul class="projects clearfix">
+  {% for post in site.clients %}
+    <li>
+      <div class="project"
+           style='background-image: url(/images/thumbs/{{ post.uid }}.jpg)'>
+        <a class="cover" href="{{ post.url }}">
+          <div class="project-details">
+            <span>
+              {{ post.title }}
+            </span>
+          </div>
+        </a>
+
+      </div>
+    </li>
+  {% endfor %}
+</ul>
+
+<a id="contact_me">
+  <hr>
+</a>
+
+<div class="index_banner clearfix">
+  <img src="{{ site.url }}/images/banners/IMG_5299.jpg">
+</div>
+
+<div class="index_headings">
+  <h2>Contact Me</h2>
+</div>
+
+<div class="projects clearfix">
+    <form action="https://formspree.io/{{ site.email }}" method="POST" class="form-stacked">
+      <input type="text" name="name" class="field-light" placeholder="Name">
+      <input type="text" name="email" class="field-light" placeholder="Email">
+      <input type="text" name="email" class="field-light" placeholder="Subject">
+      <textarea type="text" name="content" class="field-light" rows="5" placeholder="Message" style="resize: vertical"></textarea>
+      <input type="hidden" name="_next" value="{{ site.baseurl }}/thanks/" />
+      <input type="hidden" name="_subject" value="{{ site.text.contact.subject }}" />
+      <input type="text" name="_gotcha" style="display:none" />
+      <div class="circle-button" style="padding-top: 3%;" onclick="this.parentNode.submit()">
+            <div class="top-circle" data-sr-id="80" style="; visibility: visible;  -webkit-transform: scale(1); opacity: 1;transform: scale(1); opacity: 1;-webkit-transition: -webkit-transform 0.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; transition: transform 0.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; ">
+              <img src="{{ site.url }}/images/logos/send.png">
+        </div>
+      </div>
+    </form>
+</div>
+
+<br>
+
+{% for js in page.js %}
+  <script type="text/javascript">
+  {% include {{ js }} %}
+  </script>
+{% endfor %}
