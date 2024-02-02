@@ -6,7 +6,10 @@ title:  'DIY JBC'
 tags: portfolio
 ---
 
-<img src="{{ site.url }}/images/portfolio/diy-jbc/IMG_5667.JPG">
+<a href="{{ site.url }}/images/portfolio/diy-jbc/IMG_5667.JPG">
+<img src = "{{ site.url }}/images/portfolio/diy-jbc/IMG_5667.JPG">
+</a>
+
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -15,7 +18,12 @@ tags: portfolio
 </div>
 
 
-<img src="{{ site.url }}/images/portfolio/diy-jbc/Capture.JPG">
+<hr>
+
+<a href="{{ site.url }}/images/portfolio/diy-jbc/Capture.JPG">
+<img src = "{{ site.url }}/images/portfolio/diy-jbc/Capture.JPG">
+</a>
+
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -44,6 +52,8 @@ tags: portfolio
 </div>
 
 
+<hr>
+
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
   When it came to enclosing this project I wanted to keep it as compact as possible.  Using a toroidal transformer is possibly the least space efficient way to do this, so to make up for it I decided to enclose the entire project in a large acrylic tube matching the dimensions of the transformer.  This worked well and I managed to get the transformer wedged in the tube with no need for proper mounting.  I ordered some acrylic circles to match the outer diameter of the tube on ebay and then made cutouts for the LCD, switches and sockets myself.  I glued the rear panel in place permanently as I wanted to keep the mains part of the project well out of anyones way.  I then cutout and tapped three tabs to allow the front panel to screw into place with M5 machine bolts, allowing for easy maintenance and a solid enclosure.  With this finished I ordered some more acrylic tube on ebay along with some aluminium bar stock matching the inner diameter of the tube for use as an iron holder and tip cleaner .  The aluminium was tough to work but it had to be done as the tip holder needed to be metal for the sleep functionality to work.  With this all done I got everything connected together and started work on the code.
@@ -51,17 +61,41 @@ tags: portfolio
 </div>
 
 
-<img src="{{ site.url }}/images/portfolio/diy-jbc/IMG_20170617_163425.jpg">
+<ul class="projects clearfix">
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/diy-jbc/IMG_20170617_160425.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/diy-jbc/IMG_20170617_160425.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/diy-jbc/IMG_20170617_163425.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/diy-jbc/IMG_20170617_163425.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/diy-jbc/IMG_20170621_130712.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/diy-jbc/IMG_20170621_130712.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/diy-jbc/IMG_20170617_191903.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/diy-jbc/IMG_20170617_191903.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/diy-jbc/IMG_20170621_153150.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/diy-jbc/IMG_20170621_153150.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/diy-jbc/IMG_20170621_131248.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/diy-jbc/IMG_20170621_131248.jpg"></a>
+    </div>
+  </li>
+</ul>
 
-<img src="{{ site.url }}/images/portfolio/diy-jbc/IMG_20170621_131248.jpg">
 
-<img src="{{ site.url }}/images/portfolio/diy-jbc/IMG_20170617_191903.jpg">
-
-<img src="{{ site.url }}/images/portfolio/diy-jbc/IMG_20170621_153150.jpg">
-
-<img src="{{ site.url }}/images/portfolio/diy-jbc/IMG_20170621_130712.jpg">
-
-<img src="{{ site.url }}/images/portfolio/diy-jbc/IMG_20170617_160425.jpg">
+<hr>
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -82,6 +116,8 @@ tags: portfolio
 </div>
 
 
+<hr>
+
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
   This project has been very interesting and I have learnt a lot from it.  The iron works great as it is extremely powerful and has good temperature regulation.  I would definitely recommend it to any hobbyist looking for a premium soldering experience without paying the premium price tag.   However having used the iron for over a month I ended up buying a JBC station anyway, whilst my iron does the job it is missing valuable features such as the quick tip changing bracket and the reliability that comes with the JBC name.  I had initially thought I would be able use the station with the T210 tip and cartidge line too however it turned out to be too powerful and after having melted two tips I decided to bight the bullet and buy the real station.
@@ -89,15 +125,37 @@ tags: portfolio
 </div>
 
 
-<img src="{{ site.url }}/images/portfolio/diy-jbc/IMG_20170622_121032.jpg">
+<ul class="projects clearfix">
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/diy-jbc/IMG_20170622_121051.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/diy-jbc/IMG_20170622_121051.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/diy-jbc/IMG_20170622_121325.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/diy-jbc/IMG_20170622_121325.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/diy-jbc/IMG_20170612_182834.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/diy-jbc/IMG_20170612_182834.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/diy-jbc/IMG_20170622_121335.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/diy-jbc/IMG_20170622_121335.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/diy-jbc/IMG_20170622_121108.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/diy-jbc/IMG_20170622_121108.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/diy-jbc/IMG_20170622_121032.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/diy-jbc/IMG_20170622_121032.jpg"></a>
+    </div>
+  </li>
+</ul>
 
-<img src="{{ site.url }}/images/portfolio/diy-jbc/IMG_20170622_121108.jpg">
-
-<img src="{{ site.url }}/images/portfolio/diy-jbc/IMG_20170612_182834.jpg">
-
-<img src="{{ site.url }}/images/portfolio/diy-jbc/IMG_20170622_121051.jpg">
-
-<img src="{{ site.url }}/images/portfolio/diy-jbc/IMG_20170622_121335.jpg">
-
-<img src="{{ site.url }}/images/portfolio/diy-jbc/IMG_20170622_121325.jpg">
 

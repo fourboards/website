@@ -6,7 +6,10 @@ title:  'LED Card'
 tags: portfolio
 ---
 
-<img src="{{ site.url }}/images/portfolio/led-card/IMG_5059.JPG">
+<a href="{{ site.url }}/images/portfolio/led-card/IMG_5059.JPG">
+<img src = "{{ site.url }}/images/portfolio/led-card/IMG_5059.JPG">
+</a>
+
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -15,9 +18,17 @@ tags: portfolio
 </div>
 
 
-<img src="{{ site.url }}/images/portfolio/led-card/image-asset.png">
+<hr>
 
-<img src="{{ site.url }}/images/portfolio/led-card/image-asset.png">
+<a href="{{ site.url }}/images/portfolio/led-card/image-asset.png">
+<img src = "{{ site.url }}/images/portfolio/led-card/image-asset.png">
+</a>
+
+
+<a href="{{ site.url }}/images/portfolio/led-card/image-asset.png">
+<img src = "{{ site.url }}/images/portfolio/led-card/image-asset.png">
+</a>
+
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -45,6 +56,8 @@ tags: portfolio
 </div>
 
 
+<hr>
+
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
   The code required to run the display is relatively simple, it comprises of 3 main layers, the animation code, interface code and control code.  There are a number of subroutines which simplify the animation code to form the interface code, these allow individual LEDs to be switched on and off (setPixel) and have there state returned (readPixel) as well as the whole display being cleared (displayClear).  All of these sub routines simply set or read the state of the LEDs in question to or from a boolean array.  Below is the code which produces scrolling messages.  Characters are predefined in a variable called alphabets and this routine simply organises the letters on screen and uses the interface commands to display the message.
@@ -52,7 +65,10 @@ tags: portfolio
 </div>
 
 
-<img src="{{ site.url }}/images/portfolio/led-card/image-asset.png">
+<a href="{{ site.url }}/images/portfolio/led-card/image-asset.png">
+<img src = "{{ site.url }}/images/portfolio/led-card/image-asset.png">
+</a>
+
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -69,7 +85,10 @@ tags: portfolio
 </div>
 
 
-<img src="{{ site.url }}/images/portfolio/led-card/Code1.PNG">
+<a href="{{ site.url }}/images/portfolio/led-card/Code1.PNG">
+<img src = "{{ site.url }}/images/portfolio/led-card/Code1.PNG">
+</a>
+
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -84,10 +103,14 @@ tags: portfolio
 </div>
 
 
+<hr>
+
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
   To see this last piece of code in action here is a short video of the card working.  As you can see I ended up mounting the PCB straight to the card as I felt it was worthy of being seen and I found an electronic themed backdrop which ends up giving quite a nice effect.
  </p>
 </div>
 
+
+<iframe src="//www.youtube.com/embed/uXhqPxu4wf8?wmode=opaque&enablejsapi=1" height="480" width="854" scrolling="no" frameborder="0" allowfullscreen=""><br/></iframe>
 

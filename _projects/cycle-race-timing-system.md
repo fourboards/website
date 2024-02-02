@@ -6,7 +6,10 @@ title:  'Cycle Race Timing System'
 tags: portfolio
 ---
 
-<img src="{{ site.url }}/images/portfolio/cycle-race-timing-system/IMG_20190402_153322.jpg">
+<a href="{{ site.url }}/images/portfolio/cycle-race-timing-system/IMG_20190402_153322.jpg">
+<img src = "{{ site.url }}/images/portfolio/cycle-race-timing-system/IMG_20190402_153322.jpg">
+</a>
+
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -15,5 +18,8 @@ tags: portfolio
 </div>
 
 
-<img src="{{ site.url }}/images/portfolio/cycle-race-timing-system/Cycle+Club+Race+Timing+System.PNG">
+<a href="{{ site.url }}/images/portfolio/cycle-race-timing-system/Cycle+Club+Race+Timing+System.PNG">
+<img src = "{{ site.url }}/images/portfolio/cycle-race-timing-system/Cycle+Club+Race+Timing+System.PNG">
+</a>
+
 

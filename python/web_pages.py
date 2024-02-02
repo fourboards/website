@@ -22,7 +22,7 @@ projects = {
     "procharge": "products",
     "touchpad": "products",
     "xor-ruler": "clients",
-    "z-probe-board": "clients",
+    "z-probe-board": "projects",
     "deborah-milner-led-dress": "clients",
     "dragon-eyes": "clients",
     "customisable-led-panel": "clients",

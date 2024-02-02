@@ -6,7 +6,10 @@ title:  'Jamiroquai Control Board'
 tags: portfolio
 ---
 
-<img src="{{ site.url }}/images/portfolio/jamiroquai-control-board/IMG_20170719_092749.jpg">
+<a href="{{ site.url }}/images/portfolio/jamiroquai-control-board/IMG_20170719_092749.jpg">
+<img src = "{{ site.url }}/images/portfolio/jamiroquai-control-board/IMG_20170719_092749.jpg">
+</a>
+
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -30,15 +33,39 @@ tags: portfolio
 </div>
 
 
-<img src="{{ site.url }}/images/portfolio/jamiroquai-control-board/IMG_20170718_155541.jpg">
+<ul class="projects clearfix">
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/jamiroquai-control-board/IMG_20170718_154410.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/jamiroquai-control-board/IMG_20170718_154410.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/jamiroquai-control-board/IMG_20170719_092716.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/jamiroquai-control-board/IMG_20170719_092716.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/jamiroquai-control-board/IMG_20170718_154041.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/jamiroquai-control-board/IMG_20170718_154041.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/jamiroquai-control-board/IMG_20170718_153951.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/jamiroquai-control-board/IMG_20170718_153951.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/jamiroquai-control-board/IMG_20170718_154342.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/jamiroquai-control-board/IMG_20170718_154342.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/jamiroquai-control-board/IMG_20170718_155541.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/jamiroquai-control-board/IMG_20170718_155541.jpg"></a>
+    </div>
+  </li>
+</ul>
 
-<img src="{{ site.url }}/images/portfolio/jamiroquai-control-board/IMG_20170718_154041.jpg">
 
-<img src="{{ site.url }}/images/portfolio/jamiroquai-control-board/IMG_20170718_153951.jpg">
-
-<img src="{{ site.url }}/images/portfolio/jamiroquai-control-board/IMG_20170719_092716.jpg">
-
-<img src="{{ site.url }}/images/portfolio/jamiroquai-control-board/IMG_20170718_154410.jpg">
-
-<img src="{{ site.url }}/images/portfolio/jamiroquai-control-board/IMG_20170718_154342.jpg">
+<iframe src="//www.youtube.com/embed/rmlmOk4ubcU?time_continue=1&wmode=opaque&enablejsapi=1" height="480" width="854" scrolling="no" frameborder="0" allowfullscreen=""><br/></iframe>
 

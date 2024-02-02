@@ -6,7 +6,10 @@ title:  'RGB LED Cube'
 tags: portfolio
 ---
 
-<img src="{{ site.url }}/images/portfolio/rgb-led-cube/IMG_4909.JPG">
+<a href="{{ site.url }}/images/portfolio/rgb-led-cube/IMG_4909.JPG">
+<img src = "{{ site.url }}/images/portfolio/rgb-led-cube/IMG_4909.JPG">
+</a>
+
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -19,7 +22,12 @@ tags: portfolio
 </div>
 
 
-<img src="{{ site.url }}/images/portfolio/rgb-led-cube/image-asset.png">
+<hr>
+
+<a href="{{ site.url }}/images/portfolio/rgb-led-cube/image-asset.png">
+<img src = "{{ site.url }}/images/portfolio/rgb-led-cube/image-asset.png">
+</a>
+
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -68,6 +76,8 @@ tags: portfolio
 </div>
 
 
+<hr>
+
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
   When I built this cube it was always intended as a prototype, for that reason I never gave any consideration to producing a case for it.  However having dragged on for such a long time, and the completion of an 8x8x8 cube seeming a long way off, more recently I decided to smarten things up with a nice 3D printed casing.  Unfortunately because the cube was already soldered down to the PCB with 52 connections I had to make some compromises when it came to enclosing the cube.  If I had the option I would have had each leg going through its own hole, but this was no longer possible so instead I had to opt for a tight fitting square cut-out for the entire cube to slide through.  This part makes up most of the lid for the case which you can see from the renders below.
@@ -78,13 +88,29 @@ tags: portfolio
 </div>
 
 
-<img src="{{ site.url }}/images/portfolio/rgb-led-cube/RGB.jpg">
+<ul class="projects clearfix">
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/rgb-led-cube/RGB2.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/rgb-led-cube/RGB2.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/rgb-led-cube/RGB3.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/rgb-led-cube/RGB3.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/rgb-led-cube/RGB1.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/rgb-led-cube/RGB1.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/rgb-led-cube/RGB.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/rgb-led-cube/RGB.jpg"></a>
+    </div>
+  </li>
+</ul>
 
-<img src="{{ site.url }}/images/portfolio/rgb-led-cube/RGB2.jpg">
-
-<img src="{{ site.url }}/images/portfolio/rgb-led-cube/RGB1.jpg">
-
-<img src="{{ site.url }}/images/portfolio/rgb-led-cube/RGB3.jpg">
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -99,6 +125,8 @@ tags: portfolio
 </div>
 
 
+<hr>
+
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
   Whilst I did work from the instructables tutorial that I mentioned earlier, the PCB design, casing and code are completely original and my own work.  Apart from the TLC5940 library that I used, the code has been written from scratch.  I decided to use the library because at the time of coding I couldn’t make head or tail of the how the chip worked, although with the knowledge I have acquired since then I would like to think I could do it without now.  Other than this the code is relatively simple, with the control code taking up just 200 lines; there are 2 other main elements of the code, the interface code and the animation code, here is how they all work and interface with each other.
@@ -109,7 +137,10 @@ tags: portfolio
 </div>
 
 
-<img src="{{ site.url }}/images/portfolio/rgb-led-cube/image-asset.png">
+<a href="{{ site.url }}/images/portfolio/rgb-led-cube/image-asset.png">
+<img src = "{{ site.url }}/images/portfolio/rgb-led-cube/image-asset.png">
+</a>
+
 
 <div class="sqs-html-content">
  <p class="" style="white-space:pre-wrap;">
@@ -122,7 +153,10 @@ tags: portfolio
 </div>
 
 
-<img src="{{ site.url }}/images/portfolio/rgb-led-cube/image-asset.png">
+<a href="{{ site.url }}/images/portfolio/rgb-led-cube/image-asset.png">
+<img src = "{{ site.url }}/images/portfolio/rgb-led-cube/image-asset.png">
+</a>
+
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -131,7 +165,10 @@ tags: portfolio
 </div>
 
 
-<img src="{{ site.url }}/images/portfolio/rgb-led-cube/image-asset.png">
+<a href="{{ site.url }}/images/portfolio/rgb-led-cube/image-asset.png">
+<img src = "{{ site.url }}/images/portfolio/rgb-led-cube/image-asset.png">
+</a>
+
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -143,6 +180,8 @@ tags: portfolio
 </div>
 
 
+<hr>
+
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
   So there you have it, the prototype for the 8x8x8 RGB LED Cube.    Here are some pictures of the finished product.
@@ -150,15 +189,37 @@ tags: portfolio
 </div>
 
 
-<img src="{{ site.url }}/images/portfolio/rgb-led-cube/IMG_4927.JPG">
+<ul class="projects clearfix">
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/rgb-led-cube/IMG_4923.JPG)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/rgb-led-cube/IMG_4923.JPG"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/rgb-led-cube/IMG_4927.JPG)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/rgb-led-cube/IMG_4927.JPG"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/rgb-led-cube/IMG_4934.JPG)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/rgb-led-cube/IMG_4934.JPG"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/rgb-led-cube/IMG_4931.JPG)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/rgb-led-cube/IMG_4931.JPG"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/rgb-led-cube/IMG_4930.JPG)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/rgb-led-cube/IMG_4930.JPG"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/rgb-led-cube/IMG_4926.JPG)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/rgb-led-cube/IMG_4926.JPG"></a>
+    </div>
+  </li>
+</ul>
 
-<img src="{{ site.url }}/images/portfolio/rgb-led-cube/IMG_4926.JPG">
-
-<img src="{{ site.url }}/images/portfolio/rgb-led-cube/IMG_4923.JPG">
-
-<img src="{{ site.url }}/images/portfolio/rgb-led-cube/IMG_4934.JPG">
-
-<img src="{{ site.url }}/images/portfolio/rgb-led-cube/IMG_4931.JPG">
-
-<img src="{{ site.url }}/images/portfolio/rgb-led-cube/IMG_4930.JPG">
 

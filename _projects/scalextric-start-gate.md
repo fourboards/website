@@ -6,7 +6,10 @@ title:  'Scalextric Start Gate'
 tags: portfolio
 ---
 
-<img src="{{ site.url }}/images/portfolio/scalextric-start-gate/IMG_4834.JPG">
+<a href="{{ site.url }}/images/portfolio/scalextric-start-gate/IMG_4834.JPG">
+<img src = "{{ site.url }}/images/portfolio/scalextric-start-gate/IMG_4834.JPG">
+</a>
+
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -15,5 +18,8 @@ tags: portfolio
 </div>
 
 
-<img src="{{ site.url }}/images/portfolio/scalextric-start-gate/Scalextric+Start+Gate.PNG">
+<a href="{{ site.url }}/images/portfolio/scalextric-start-gate/Scalextric+Start+Gate.PNG">
+<img src = "{{ site.url }}/images/portfolio/scalextric-start-gate/Scalextric+Start+Gate.PNG">
+</a>
+
 

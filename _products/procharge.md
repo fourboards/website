@@ -6,7 +6,10 @@ title:  'ProCharge'
 tags: portfolio
 ---
 
-<img src="{{ site.url }}/images/portfolio/procharge/IMG_5804.JPG">
+<a href="{{ site.url }}/images/portfolio/procharge/IMG_5804.JPG">
+<img src = "{{ site.url }}/images/portfolio/procharge/IMG_5804.JPG">
+</a>
+
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -19,17 +22,48 @@ tags: portfolio
 </div>
 
 
-<img src="{{ site.url }}/images/portfolio/procharge/IMG_5804.JPG">
+<div class="sqs-block-button-container sqs-block-button-container--center" data-alignment="center" data-animation-role="button" data-button-size="small" data-button-type="tertiary">
+ <a class="sqs-block-button-element--small sqs-button-element--tertiary sqs-block-button-element" href="/procharge-support">
+  ProCharge Support
+ </a>
+</div>
 
-<img src="{{ site.url }}/images/portfolio/procharge/IMG_5968.JPG">
 
-<img src="{{ site.url }}/images/portfolio/procharge/IMG_5965.JPG">
+<ul class="projects clearfix">
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/procharge/IMG_5833+copy.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/procharge/IMG_5833+copy.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/procharge/IMG_5971.JPG)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/procharge/IMG_5971.JPG"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/procharge/IMG_5942.JPG)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/procharge/IMG_5942.JPG"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/procharge/IMG_5965.JPG)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/procharge/IMG_5965.JPG"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/procharge/IMG_5804.JPG)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/procharge/IMG_5804.JPG"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/procharge/IMG_5968.JPG)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/procharge/IMG_5968.JPG"></a>
+    </div>
+  </li>
+</ul>
 
-<img src="{{ site.url }}/images/portfolio/procharge/IMG_5971.JPG">
 
-<img src="{{ site.url }}/images/portfolio/procharge/IMG_5833+copy.jpg">
-
-<img src="{{ site.url }}/images/portfolio/procharge/IMG_5942.JPG">
+<hr>
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -45,4 +79,15 @@ tags: portfolio
  </p>
 </div>
 
+
+<div class="sqs-block-button-container sqs-block-button-container--center" data-alignment="center" data-animation-role="button" data-button-size="small" data-button-type="tertiary">
+ <a class="sqs-block-button-element--small sqs-button-element--tertiary sqs-block-button-element" href="https://www.kickstarter.com/projects/fourboards/procharge-2">
+  Check out the Kickstarter
+ </a>
+</div>
+
+
+<hr>
+
+<iframe src="//www.youtube.com/embed/BRUdkvakV0s?wmode=opaque&enablejsapi=1" height="480" width="854" scrolling="no" frameborder="0" allowfullscreen=""><br/></iframe>
 

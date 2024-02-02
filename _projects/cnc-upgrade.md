@@ -6,7 +6,10 @@ title:  'CNC Upgrade'
 tags: portfolio
 ---
 
-<img src="{{ site.url }}/images/portfolio/cnc-upgrade/IMAG1771.jpg">
+<a href="{{ site.url }}/images/portfolio/cnc-upgrade/IMAG1771.jpg">
+<img src = "{{ site.url }}/images/portfolio/cnc-upgrade/IMAG1771.jpg">
+</a>
+
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -34,15 +37,37 @@ tags: portfolio
 </div>
 
 
-<img src="{{ site.url }}/images/portfolio/cnc-upgrade/IMAG1737.jpg">
+<ul class="projects clearfix">
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/cnc-upgrade/IMAG1737.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/cnc-upgrade/IMAG1737.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/cnc-upgrade/IMAG1774.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/cnc-upgrade/IMAG1774.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/cnc-upgrade/IMAG1515.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/cnc-upgrade/IMAG1515.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/cnc-upgrade/IMAG1733.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/cnc-upgrade/IMAG1733.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/cnc-upgrade/IMAG1761.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/cnc-upgrade/IMAG1761.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/cnc-upgrade/IMAG1741.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/cnc-upgrade/IMAG1741.jpg"></a>
+    </div>
+  </li>
+</ul>
 
-<img src="{{ site.url }}/images/portfolio/cnc-upgrade/IMAG1515.jpg">
-
-<img src="{{ site.url }}/images/portfolio/cnc-upgrade/IMAG1741.jpg">
-
-<img src="{{ site.url }}/images/portfolio/cnc-upgrade/IMAG1774.jpg">
-
-<img src="{{ site.url }}/images/portfolio/cnc-upgrade/IMAG1761.jpg">
-
-<img src="{{ site.url }}/images/portfolio/cnc-upgrade/IMAG1733.jpg">
 

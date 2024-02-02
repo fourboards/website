@@ -1,8 +1,11 @@
 ---
-layout: post-wide
-hero-bg-color: '#FFB6C1'
+layout: post
+hero-bg-color: '#FFFFFF'
 uid: flip-dot-clock
 title:  'Flip Dot Clock'
+tags: portfolio
 ---
 
-<p>{title}</p>
+<a href="{{ site.url }}/images/thumbs/flip-dot-clock.JPG">
+<img src = "{{ site.url }}/images/thumbs/flip-dot-clock.JPG">
+</a>

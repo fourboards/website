@@ -6,7 +6,10 @@ title:  'Rubix Cube Solving Robot'
 tags: portfolio
 ---
 
-<img src="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/IMG_4858+-+Banner.JPG">
+<a href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/IMG_4858+-+Banner.JPG">
+<img src = "{{ site.url }}/images/portfolio/rubix-cube-solving-robot/IMG_4858+-+Banner.JPG">
+</a>
+
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -22,12 +25,16 @@ tags: portfolio
 </div>
 
 
+<iframe src="//www.youtube.com/embed/QOdQKW8wp44?wmode=opaque&enablejsapi=1" height="480" width="854" scrolling="no" frameborder="0" allowfullscreen=""><br/></iframe>
+
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
   Originally I did plan to fully enclose the system and give it a smart user interface etc. however having had so much success using just two claws, I don't want to stop there.  I have already started making plans for an upgraded version with 4 claws instead, using faster and more powerful digital servos and a quicker scanning system.  But that won't be happening for a while, so in the mean time here is my summary of the robot in its current state.
  </p>
 </div>
 
+
+<hr>
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -39,17 +46,39 @@ tags: portfolio
 </div>
 
 
-<img src="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/Claw+Complete.jpg">
+<ul class="projects clearfix">
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/rubix-cube-solving-robot/Claw+Complete5.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/Claw+Complete5.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/rubix-cube-solving-robot/Claw+Complete4.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/Claw+Complete4.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/rubix-cube-solving-robot/Claw+Complete1.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/Claw+Complete1.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/rubix-cube-solving-robot/Claw+Complete2.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/Claw+Complete2.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/rubix-cube-solving-robot/Claw+Complete.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/Claw+Complete.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/rubix-cube-solving-robot/Claw+Complete3.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/Claw+Complete3.jpg"></a>
+    </div>
+  </li>
+</ul>
 
-<img src="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/Claw+Complete4.jpg">
-
-<img src="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/Claw+Complete3.jpg">
-
-<img src="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/Claw+Complete1.jpg">
-
-<img src="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/Claw+Complete5.jpg">
-
-<img src="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/Claw+Complete2.jpg">
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -61,6 +90,8 @@ tags: portfolio
 </div>
 
 
+<hr>
+
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
   From the outset of this project I wanted to design the robot in such a way that eventually it could become a stand-alone device, capable of all the necessary processing and control functionality for the robot to operate.  Consequently I opted not to use a camera based cube scanning system as the microcontrollers I use doesn’t have the processing power to handle the huge data stream a camera produces.  I found some special colour sensors which would have done the job, but I needed 9 to make the process ever so slightly efficient and this was going to cost far too much.  Looking deeper I discovered a technique which uses an LDR and RGB LED to measure reflected light levels for different wavelengths of light and produces a colour reading based on some known colours and there matching reflection readings.  After some initial experiments I decided to base the scanning system on this principal.
@@ -68,7 +99,10 @@ tags: portfolio
 </div>
 
 
-<img src="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/image-asset.png">
+<a href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/image-asset.png">
+<img src = "{{ site.url }}/images/portfolio/rubix-cube-solving-robot/image-asset.png">
+</a>
+
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -83,6 +117,10 @@ tags: portfolio
  </p>
 </div>
 
+
+<iframe src="//www.youtube.com/embed/xL93pM4YcC4?wmode=opaque&enablejsapi=1" height="480" width="854" scrolling="no" frameborder="0" allowfullscreen=""><br/></iframe>
+
+<hr>
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -110,7 +148,10 @@ tags: portfolio
 </div>
 
 
-<img src="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/image-asset.png">
+<a href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/image-asset.png">
+<img src = "{{ site.url }}/images/portfolio/rubix-cube-solving-robot/image-asset.png">
+</a>
+
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -119,7 +160,10 @@ tags: portfolio
 </div>
 
 
-<img src="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/image-asset.png">
+<a href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/image-asset.png">
+<img src = "{{ site.url }}/images/portfolio/rubix-cube-solving-robot/image-asset.png">
+</a>
+
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -128,7 +172,12 @@ tags: portfolio
 </div>
 
 
-<img src="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/image-asset.png">
+<hr>
+
+<a href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/image-asset.png">
+<img src = "{{ site.url }}/images/portfolio/rubix-cube-solving-robot/image-asset.png">
+</a>
+
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -136,6 +185,8 @@ tags: portfolio
  </p>
 </div>
 
+
+<hr>
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -150,6 +201,8 @@ tags: portfolio
 </div>
 
 
+<hr>
+
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
   If you open the code, you will see that the entirety of the functionality of the robot is controlled by sending characters to the arduino via the serial port.  This is an okay solution until you start getting over run with commands and there is no way you can remember what each of them do.  This is what happened to me, so I set about making a simple GUI to allow for easy control of the robot.  I used processing to create a  program  which provides buttons for every function as well as a serial monitor for debugging.  It has made operation much easier and makes the whole project more professional looking.
@@ -157,7 +210,10 @@ tags: portfolio
 </div>
 
 
-<img src="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/image-asset.png">
+<a href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/image-asset.png">
+<img src = "{{ site.url }}/images/portfolio/rubix-cube-solving-robot/image-asset.png">
+</a>
+
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -168,6 +224,8 @@ tags: portfolio
  </p>
 </div>
 
+
+<hr>
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -182,6 +240,8 @@ tags: portfolio
 </div>
 
 
+<hr>
+
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
   So that's what's gone into the robot so far and some of the things I hope to add to it in the future.  Below is a render of what I hope the project will eventually develop into.
@@ -189,5 +249,8 @@ tags: portfolio
 </div>
 
 
-<img src="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/The+beast%21.PNG">
+<a href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/The+beast%21.PNG">
+<img src = "{{ site.url }}/images/portfolio/rubix-cube-solving-robot/The+beast%21.PNG">
+</a>
+
 

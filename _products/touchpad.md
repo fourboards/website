@@ -6,7 +6,10 @@ title:  'TouchPad'
 tags: portfolio
 ---
 
-<img src="{{ site.url }}/images/portfolio/touchpad/IMG_2202.jpg">
+<a href="{{ site.url }}/images/portfolio/touchpad/IMG_2202.jpg">
+<img src = "{{ site.url }}/images/portfolio/touchpad/IMG_2202.jpg">
+</a>
+
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -17,17 +20,48 @@ tags: portfolio
 </div>
 
 
-<img src="{{ site.url }}/images/portfolio/touchpad/IMG_2184.jpg">
+<div class="sqs-block-button-container sqs-block-button-container--center" data-alignment="center" data-animation-role="button" data-button-size="small" data-button-type="tertiary">
+ <a class="sqs-block-button-element--small sqs-button-element--tertiary sqs-block-button-element" href="/touchpad-support">
+  TouchPad Support
+ </a>
+</div>
 
-<img src="{{ site.url }}/images/portfolio/touchpad/IMG_2208.jpg">
 
-<img src="{{ site.url }}/images/portfolio/touchpad/IMG_2202.jpg">
+<ul class="projects clearfix">
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/touchpad/IMG_2190.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad/IMG_2190.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/touchpad/IMG_2184.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad/IMG_2184.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/touchpad/IMG_2183.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad/IMG_2183.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/touchpad/IMG_2187.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad/IMG_2187.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/touchpad/IMG_2208.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad/IMG_2208.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/touchpad/IMG_2202.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad/IMG_2202.jpg"></a>
+    </div>
+  </li>
+</ul>
 
-<img src="{{ site.url }}/images/portfolio/touchpad/IMG_2187.jpg">
 
-<img src="{{ site.url }}/images/portfolio/touchpad/IMG_2190.jpg">
-
-<img src="{{ site.url }}/images/portfolio/touchpad/IMG_2183.jpg">
+<hr>
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -53,4 +87,22 @@ tags: portfolio
  </p>
 </div>
 
+
+<div class="sqs-block-button-container sqs-block-button-container--center" data-alignment="center" data-animation-role="button" data-button-size="small" data-button-type="tertiary">
+ <a class="sqs-block-button-element--small sqs-button-element--tertiary sqs-block-button-element" href="https://www.kickstarter.com/projects/fourboards/touchpad-the-arduino-compatible-customisable-keybo" target="_blank">
+  Check out the Kickstarter
+ </a>
+</div>
+
+
+<div class="sqs-block-button-container sqs-block-button-container--center" data-alignment="center" data-animation-role="button" data-button-size="small" data-button-type="tertiary">
+ <a class="sqs-block-button-element--small sqs-button-element--tertiary sqs-block-button-element" href="/overlay-library">
+  Overlay Library
+ </a>
+</div>
+
+
+<hr>
+
+<iframe src="//www.youtube.com/embed/SIY0Yxg58hU?wmode=opaque&enablejsapi=1" height="480" width="854" scrolling="no" frameborder="0" allowfullscreen=""><br/></iframe>
 

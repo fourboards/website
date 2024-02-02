@@ -6,7 +6,10 @@ title:  'Nixie Clock'
 tags: portfolio
 ---
 
-<img src="{{ site.url }}/images/portfolio/nixie-clock/IMG_5355.JPG">
+<a href="{{ site.url }}/images/portfolio/nixie-clock/IMG_5355.JPG">
+<img src = "{{ site.url }}/images/portfolio/nixie-clock/IMG_5355.JPG">
+</a>
+
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -15,7 +18,12 @@ tags: portfolio
 </div>
 
 
-<img src="{{ site.url }}/images/portfolio/nixie-clock/image-asset.png">
+<hr>
+
+<a href="{{ site.url }}/images/portfolio/nixie-clock/image-asset.png">
+<img src = "{{ site.url }}/images/portfolio/nixie-clock/image-asset.png">
+</a>
+
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -24,7 +32,10 @@ tags: portfolio
 </div>
 
 
-<img src="{{ site.url }}/images/portfolio/nixie-clock/image-asset.png">
+<a href="{{ site.url }}/images/portfolio/nixie-clock/image-asset.png">
+<img src = "{{ site.url }}/images/portfolio/nixie-clock/image-asset.png">
+</a>
+
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -42,7 +53,12 @@ tags: portfolio
 </div>
 
 
-<img src="{{ site.url }}/images/portfolio/nixie-clock/image-asset.jpeg">
+<hr>
+
+<a href="{{ site.url }}/images/portfolio/nixie-clock/image-asset.jpeg">
+<img src = "{{ site.url }}/images/portfolio/nixie-clock/image-asset.jpeg">
+</a>
+
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -50,6 +66,8 @@ tags: portfolio
  </p>
 </div>
 
+
+<hr>
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -67,15 +85,39 @@ tags: portfolio
 </div>
 
 
-<img src="{{ site.url }}/images/portfolio/nixie-clock/IMG_5356.JPG">
+<hr>
 
-<img src="{{ site.url }}/images/portfolio/nixie-clock/IMAG1340.jpg">
+<ul class="projects clearfix">
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/nixie-clock/IMG_5377.JPG)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/nixie-clock/IMG_5377.JPG"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/nixie-clock/IMG_5372.JPG)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/nixie-clock/IMG_5372.JPG"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/nixie-clock/IMG_5374.JPG)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/nixie-clock/IMG_5374.JPG"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/nixie-clock/IMG_5355.JPG)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/nixie-clock/IMG_5355.JPG"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/nixie-clock/IMAG1340.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/nixie-clock/IMAG1340.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/nixie-clock/IMG_5356.JPG)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/nixie-clock/IMG_5356.JPG"></a>
+    </div>
+  </li>
+</ul>
 
-<img src="{{ site.url }}/images/portfolio/nixie-clock/IMG_5372.JPG">
-
-<img src="{{ site.url }}/images/portfolio/nixie-clock/IMG_5355.JPG">
-
-<img src="{{ site.url }}/images/portfolio/nixie-clock/IMG_5377.JPG">
-
-<img src="{{ site.url }}/images/portfolio/nixie-clock/IMG_5374.JPG">
 

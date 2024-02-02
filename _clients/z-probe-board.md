@@ -6,7 +6,10 @@ title:  'Z-Probe Board'
 tags: portfolio
 ---
 
-<img src="{{ site.url }}/images/portfolio/z-probe-board/IMG_4807.JPG">
+<a href="{{ site.url }}/images/portfolio/z-probe-board/IMG_4807.JPG">
+<img src = "{{ site.url }}/images/portfolio/z-probe-board/IMG_4807.JPG">
+</a>
+
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -24,7 +27,12 @@ tags: portfolio
 </div>
 
 
-<img src="{{ site.url }}/images/portfolio/z-probe-board/image-asset.jpeg">
+<hr>
+
+<a href="{{ site.url }}/images/portfolio/z-probe-board/image-asset.jpeg">
+<img src = "{{ site.url }}/images/portfolio/z-probe-board/image-asset.jpeg">
+</a>
+
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -36,6 +44,8 @@ tags: portfolio
 </div>
 
 
+<hr>
+
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
   The PCB design was done in eagle CAD for which the download link is available below.  From the left here is the complete two sided board, then top and finally bottom layer.  On the left of the board are the SMD components (R1,R2,R3,Q1,LED1) and the inductive sensor header.  Down the middle are the solder jumpers with silkscreen labels depicting the configuration required for the three different control boards.  Finally on the right is the 2x5 header socket which plugs onto the control board's expansion header.
@@ -43,7 +53,10 @@ tags: portfolio
 </div>
 
 
-<img src="{{ site.url }}/images/portfolio/z-probe-board/image-asset.png">
+<a href="{{ site.url }}/images/portfolio/z-probe-board/image-asset.png">
+<img src = "{{ site.url }}/images/portfolio/z-probe-board/image-asset.png">
+</a>
+
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -58,6 +71,8 @@ tags: portfolio
 </div>
 
 
+<hr>
+
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
   Because this was a low volume prototype run I assembled these boards by hand. The first stage in the process was to apply the solder paste.  I do this manually using a syringe as it doesn't require a stencil to be made up and it reduces wastage of the paste itself.  Once I had pasted all the boards I put each component in place and then carefully transferred each of the boards across to my baking tray.  The baking tray goes in the toaster oven at roughly 100 degrees celsius for 30 seconds (I manually switch the oven on and off to maintain this temperature) and once it has had this initial preheat I leave the oven on continuously till all of the joints have reflowed.  Next the headers have to be soldered on manually and then I clean each of the boards up with Flu (PCB cleaning solvent).  Finally I set up a test procedure on a bread board and ensure each board is operating correctly; fortunately in this run they all worked first time so there was no need for any rework.
@@ -65,17 +80,41 @@ tags: portfolio
 </div>
 
 
-<img src="{{ site.url }}/images/portfolio/z-probe-board/IMAG0873+%281%29.jpg">
+<ul class="projects clearfix">
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/z-probe-board/IMG_4807+-+Banner.JPG)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/z-probe-board/IMG_4807+-+Banner.JPG"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/z-probe-board/IMAG0875.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/z-probe-board/IMAG0875.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/z-probe-board/IMAG0882.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/z-probe-board/IMAG0882.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/z-probe-board/IMAG0870+%281%29.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/z-probe-board/IMAG0870+%281%29.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/z-probe-board/IMAG0884+%281%29.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/z-probe-board/IMAG0884+%281%29.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/z-probe-board/IMAG0873+%281%29.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/z-probe-board/IMAG0873+%281%29.jpg"></a>
+    </div>
+  </li>
+</ul>
 
-<img src="{{ site.url }}/images/portfolio/z-probe-board/IMAG0875.jpg">
 
-<img src="{{ site.url }}/images/portfolio/z-probe-board/IMAG0884+%281%29.jpg">
-
-<img src="{{ site.url }}/images/portfolio/z-probe-board/IMG_4807+-+Banner.JPG">
-
-<img src="{{ site.url }}/images/portfolio/z-probe-board/IMAG0882.jpg">
-
-<img src="{{ site.url }}/images/portfolio/z-probe-board/IMAG0870+%281%29.jpg">
+<hr>
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -84,12 +123,16 @@ tags: portfolio
 </div>
 
 
+<iframe src="//www.youtube.com/embed/NNZLVAwPn-Q?wmode=opaque&enablejsapi=1" height="480" width="854" scrolling="no" frameborder="0" allowfullscreen=""><br/></iframe>
+
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
   From the video you can see that setup is simple as intended.  The probe itself must be attached to the print head and a metal print surface must be used.  The board can then be plugged into the expansion header and then the probe plugged into the board.  In this particular case a 12v supply (the yellow wire) is required as the expansion header does not have this broken out.  The header which the sensor plugs into has 4 pins, two of which are connected to make this easier.  Once this is done the LED on top of the probe lights up, this extinguishes when a metal object is present; the LED on the board does the opposite of this to show the level shifting is working.  Next the firmware for the printer has to be updated and modified to enable auto bed levelling.  In this case I used Marlin firmware which can be downloaded from the Git repository (https://github.com/MarlinFirmware/Marlin).   One line of G-code also has to be added to the start code, this is G29 which triggers the bed probing routine.  Once this is done the print can begin, you will see in the video the bed is measured in 9 places before printing commences, then throughout the print the height of the print head is continuously adjusted to make up for the imperfections in bed height.
  </p>
 </div>
 
+
+<hr>
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -98,15 +141,37 @@ tags: portfolio
 </div>
 
 
-<img src="{{ site.url }}/images/portfolio/z-probe-board/IMG_5080.JPG">
+<ul class="projects clearfix">
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/z-probe-board/IMG_5084.JPG)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/z-probe-board/IMG_5084.JPG"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/z-probe-board/IMG_5080.JPG)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/z-probe-board/IMG_5080.JPG"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/z-probe-board/IMG_5071.JPG)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/z-probe-board/IMG_5071.JPG"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/z-probe-board/IMG_5068.JPG)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/z-probe-board/IMG_5068.JPG"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/z-probe-board/IMG_5073.JPG)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/z-probe-board/IMG_5073.JPG"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/z-probe-board/IMG_5076.JPG)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/z-probe-board/IMG_5076.JPG"></a>
+    </div>
+  </li>
+</ul>
 
-<img src="{{ site.url }}/images/portfolio/z-probe-board/IMG_5084.JPG">
-
-<img src="{{ site.url }}/images/portfolio/z-probe-board/IMG_5076.JPG">
-
-<img src="{{ site.url }}/images/portfolio/z-probe-board/IMG_5073.JPG">
-
-<img src="{{ site.url }}/images/portfolio/z-probe-board/IMG_5071.JPG">
-
-<img src="{{ site.url }}/images/portfolio/z-probe-board/IMG_5068.JPG">
 

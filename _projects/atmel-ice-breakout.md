@@ -6,7 +6,10 @@ title:  'Atmel ICE Breakout'
 tags: portfolio
 ---
 
-<img src="{{ site.url }}/images/portfolio/atmel-ice-breakout/IMG_20180407_174322.jpg">
+<a href="{{ site.url }}/images/portfolio/atmel-ice-breakout/IMG_20180407_174322.jpg">
+<img src = "{{ site.url }}/images/portfolio/atmel-ice-breakout/IMG_20180407_174322.jpg">
+</a>
+
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -15,13 +18,29 @@ tags: portfolio
 </div>
 
 
-<img src="{{ site.url }}/images/portfolio/atmel-ice-breakout/IMG_20180407_174322.jpg">
+<ul class="projects clearfix">
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/atmel-ice-breakout/IMG_20180212_112206.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/atmel-ice-breakout/IMG_20180212_112206.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/atmel-ice-breakout/IMG_20180212_112211.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/atmel-ice-breakout/IMG_20180212_112211.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/atmel-ice-breakout/IMG_20180212_112244.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/atmel-ice-breakout/IMG_20180212_112244.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/atmel-ice-breakout/IMG_20180407_174322.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/atmel-ice-breakout/IMG_20180407_174322.jpg"></a>
+    </div>
+  </li>
+</ul>
 
-<img src="{{ site.url }}/images/portfolio/atmel-ice-breakout/IMG_20180212_112244.jpg">
-
-<img src="{{ site.url }}/images/portfolio/atmel-ice-breakout/IMG_20180212_112211.jpg">
-
-<img src="{{ site.url }}/images/portfolio/atmel-ice-breakout/IMG_20180212_112206.jpg">
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">

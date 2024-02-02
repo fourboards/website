@@ -6,9 +6,17 @@ title:  'TVM802 OpenPNP Upgrade'
 tags: portfolio
 ---
 
-<img src="{{ site.url }}/images/portfolio/tvm802-openpnp-upgrade/IMG_20191223_125624.jpg">
+<a href="{{ site.url }}/images/portfolio/tvm802-openpnp-upgrade/IMG_20191223_125624.jpg">
+<img src = "{{ site.url }}/images/portfolio/tvm802-openpnp-upgrade/IMG_20191223_125624.jpg">
+</a>
 
-<img src="{{ site.url }}/images/portfolio/tvm802-openpnp-upgrade/Sponsored+by+PCBWay.png">
+
+<a href="{{ site.url }}/images/portfolio/tvm802-openpnp-upgrade/Sponsored+by+PCBWay.png">
+<img src = "{{ site.url }}/images/portfolio/tvm802-openpnp-upgrade/Sponsored+by+PCBWay.png">
+</a>
+
+
+<hr>
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -22,6 +30,8 @@ tags: portfolio
  </p>
 </div>
 
+
+<hr>
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -48,17 +58,41 @@ tags: portfolio
 </div>
 
 
-<img src="{{ site.url }}/images/portfolio/tvm802-openpnp-upgrade/IMG_20200619_093626.jpg">
+<ul class="projects clearfix">
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/tvm802-openpnp-upgrade/IMG_20200619_183758.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/tvm802-openpnp-upgrade/IMG_20200619_183758.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/tvm802-openpnp-upgrade/IMG_20200619_093653.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/tvm802-openpnp-upgrade/IMG_20200619_093653.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/tvm802-openpnp-upgrade/IMG_20200619_092438.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/tvm802-openpnp-upgrade/IMG_20200619_092438.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/tvm802-openpnp-upgrade/IMG_20200619_093626.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/tvm802-openpnp-upgrade/IMG_20200619_093626.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/tvm802-openpnp-upgrade/IMG_20200619_093532.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/tvm802-openpnp-upgrade/IMG_20200619_093532.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/tvm802-openpnp-upgrade/IMG_20200619_091355.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/tvm802-openpnp-upgrade/IMG_20200619_091355.jpg"></a>
+    </div>
+  </li>
+</ul>
 
-<img src="{{ site.url }}/images/portfolio/tvm802-openpnp-upgrade/IMG_20200619_092438.jpg">
 
-<img src="{{ site.url }}/images/portfolio/tvm802-openpnp-upgrade/IMG_20200619_093653.jpg">
-
-<img src="{{ site.url }}/images/portfolio/tvm802-openpnp-upgrade/IMG_20200619_091355.jpg">
-
-<img src="{{ site.url }}/images/portfolio/tvm802-openpnp-upgrade/IMG_20200619_183758.jpg">
-
-<img src="{{ site.url }}/images/portfolio/tvm802-openpnp-upgrade/IMG_20200619_093532.jpg">
+<hr>
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -101,15 +135,37 @@ tags: portfolio
 </div>
 
 
-<img src="{{ site.url }}/images/portfolio/tvm802-openpnp-upgrade/IMG_0020.jpg">
+<ul class="projects clearfix">
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/tvm802-openpnp-upgrade/IMG_0008.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/tvm802-openpnp-upgrade/IMG_0008.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/tvm802-openpnp-upgrade/IMG_0018.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/tvm802-openpnp-upgrade/IMG_0018.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/tvm802-openpnp-upgrade/IMG_0020.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/tvm802-openpnp-upgrade/IMG_0020.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/tvm802-openpnp-upgrade/IMG_0007.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/tvm802-openpnp-upgrade/IMG_0007.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/tvm802-openpnp-upgrade/IMG_0012.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/tvm802-openpnp-upgrade/IMG_0012.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/tvm802-openpnp-upgrade/IMG_0017.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/tvm802-openpnp-upgrade/IMG_0017.jpg"></a>
+    </div>
+  </li>
+</ul>
 
-<img src="{{ site.url }}/images/portfolio/tvm802-openpnp-upgrade/IMG_0012.jpg">
-
-<img src="{{ site.url }}/images/portfolio/tvm802-openpnp-upgrade/IMG_0008.jpg">
-
-<img src="{{ site.url }}/images/portfolio/tvm802-openpnp-upgrade/IMG_0018.jpg">
-
-<img src="{{ site.url }}/images/portfolio/tvm802-openpnp-upgrade/IMG_0017.jpg">
-
-<img src="{{ site.url }}/images/portfolio/tvm802-openpnp-upgrade/IMG_0007.jpg">
 

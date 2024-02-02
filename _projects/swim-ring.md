@@ -6,9 +6,17 @@ title:  'Swim Ring'
 tags: portfolio
 ---
 
-<img src="{{ site.url }}/images/portfolio/swim-ring/IMG_0346.jpg">
+<a href="{{ site.url }}/images/portfolio/swim-ring/IMG_0346.jpg">
+<img src = "{{ site.url }}/images/portfolio/swim-ring/IMG_0346.jpg">
+</a>
 
-<img src="{{ site.url }}/images/portfolio/swim-ring/Sponsored+by+PCBWay.png">
+
+<a href="{{ site.url }}/images/portfolio/swim-ring/Sponsored+by+PCBWay.png">
+<img src = "{{ site.url }}/images/portfolio/swim-ring/Sponsored+by+PCBWay.png">
+</a>
+
+
+<hr>
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -16,6 +24,8 @@ tags: portfolio
  </p>
 </div>
 
+
+<hr>
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -57,9 +67,17 @@ tags: portfolio
 </div>
 
 
-<img src="{{ site.url }}/images/portfolio/swim-ring/PCB.JPG">
+<a href="{{ site.url }}/images/portfolio/swim-ring/PCB.JPG">
+<img src = "{{ site.url }}/images/portfolio/swim-ring/PCB.JPG">
+</a>
 
-<img src="{{ site.url }}/images/portfolio/swim-ring/PCB+Folded.JPG">
+
+<a href="{{ site.url }}/images/portfolio/swim-ring/PCB+Folded.JPG">
+<img src = "{{ site.url }}/images/portfolio/swim-ring/PCB+Folded.JPG">
+</a>
+
+
+<hr>
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -71,17 +89,41 @@ tags: portfolio
 </div>
 
 
-<img src="{{ site.url }}/images/portfolio/swim-ring/IMG_0229.jpg">
+<ul class="projects clearfix">
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/swim-ring/IMG_0368.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/swim-ring/IMG_0368.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/swim-ring/IMG_0236.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/swim-ring/IMG_0236.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/swim-ring/IMG_0232.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/swim-ring/IMG_0232.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/swim-ring/IMG_0242.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/swim-ring/IMG_0242.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/swim-ring/IMG_0229.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/swim-ring/IMG_0229.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/swim-ring/IMG_0300.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/swim-ring/IMG_0300.jpg"></a>
+    </div>
+  </li>
+</ul>
 
-<img src="{{ site.url }}/images/portfolio/swim-ring/IMG_0232.jpg">
 
-<img src="{{ site.url }}/images/portfolio/swim-ring/IMG_0242.jpg">
-
-<img src="{{ site.url }}/images/portfolio/swim-ring/IMG_0236.jpg">
-
-<img src="{{ site.url }}/images/portfolio/swim-ring/IMG_0368.jpg">
-
-<img src="{{ site.url }}/images/portfolio/swim-ring/IMG_0300.jpg">
+<hr>
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -96,17 +138,41 @@ tags: portfolio
 </div>
 
 
-<img src="{{ site.url }}/images/portfolio/swim-ring/IMG_0263.jpg">
+<ul class="projects clearfix">
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/swim-ring/IMG_0310.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/swim-ring/IMG_0310.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/swim-ring/IMG_0263.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/swim-ring/IMG_0263.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/swim-ring/IMG_0470.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/swim-ring/IMG_0470.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/swim-ring/IMG_0386.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/swim-ring/IMG_0386.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/swim-ring/IMG_0307.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/swim-ring/IMG_0307.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/swim-ring/IMG_0465.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/swim-ring/IMG_0465.jpg"></a>
+    </div>
+  </li>
+</ul>
 
-<img src="{{ site.url }}/images/portfolio/swim-ring/IMG_0470.jpg">
 
-<img src="{{ site.url }}/images/portfolio/swim-ring/IMG_0386.jpg">
-
-<img src="{{ site.url }}/images/portfolio/swim-ring/IMG_0310.jpg">
-
-<img src="{{ site.url }}/images/portfolio/swim-ring/IMG_0307.jpg">
-
-<img src="{{ site.url }}/images/portfolio/swim-ring/IMG_0465.jpg">
+<hr>
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -115,17 +181,41 @@ tags: portfolio
 </div>
 
 
-<img src="{{ site.url }}/images/portfolio/swim-ring/IMG_0379.jpg">
+<ul class="projects clearfix">
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/swim-ring/IMG_0397.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/swim-ring/IMG_0397.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/swim-ring/IMG_0380.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/swim-ring/IMG_0380.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/swim-ring/IMG_0471.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/swim-ring/IMG_0471.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/swim-ring/IMG_0394.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/swim-ring/IMG_0394.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/swim-ring/IMG_0312.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/swim-ring/IMG_0312.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/swim-ring/IMG_0379.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/swim-ring/IMG_0379.jpg"></a>
+    </div>
+  </li>
+</ul>
 
-<img src="{{ site.url }}/images/portfolio/swim-ring/IMG_0394.jpg">
 
-<img src="{{ site.url }}/images/portfolio/swim-ring/IMG_0397.jpg">
-
-<img src="{{ site.url }}/images/portfolio/swim-ring/IMG_0471.jpg">
-
-<img src="{{ site.url }}/images/portfolio/swim-ring/IMG_0380.jpg">
-
-<img src="{{ site.url }}/images/portfolio/swim-ring/IMG_0312.jpg">
+<hr>
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -138,15 +228,37 @@ tags: portfolio
 </div>
 
 
-<img src="{{ site.url }}/images/portfolio/swim-ring/IMG_0352.jpg">
+<ul class="projects clearfix">
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/swim-ring/IMG_0352.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/swim-ring/IMG_0352.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/swim-ring/IMG_0346.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/swim-ring/IMG_0346.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/swim-ring/IMG_0348.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/swim-ring/IMG_0348.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/swim-ring/IMG_0347.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/swim-ring/IMG_0347.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/swim-ring/IMG_0351.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/swim-ring/IMG_0351.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/swim-ring/IMG_0349.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/swim-ring/IMG_0349.jpg"></a>
+    </div>
+  </li>
+</ul>
 
-<img src="{{ site.url }}/images/portfolio/swim-ring/IMG_0346.jpg">
-
-<img src="{{ site.url }}/images/portfolio/swim-ring/IMG_0348.jpg">
-
-<img src="{{ site.url }}/images/portfolio/swim-ring/IMG_0349.jpg">
-
-<img src="{{ site.url }}/images/portfolio/swim-ring/IMG_0351.jpg">
-
-<img src="{{ site.url }}/images/portfolio/swim-ring/IMG_0347.jpg">
 

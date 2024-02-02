@@ -1,8 +1,11 @@
 ---
-layout: post-wide
-hero-bg-color: '#FFB6C1'
+layout: post
+hero-bg-color: '#FFFFFF'
 uid: candle-production-equipment
 title:  'Candle Production Equipment'
+tags: portfolio
 ---
 
-<p>{title}</p>
+<a href="{{ site.url }}/images/thumbs/candle-production-equipment.JPG">
+<img src = "{{ site.url }}/images/thumbs/candle-production-equipment.JPG">
+</a>

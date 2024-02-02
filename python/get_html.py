@@ -7,36 +7,59 @@ def process_html(html_in, filename):
     html_in = "".join([s for s in html_in.strip().splitlines(True) if s.strip()])
 
     soup = BeautifulSoup(html_in, 'html.parser')
-    top_level_divs = soup.find_all('div', recursive=False)
+    html_elements = soup.find_all(['div', 'hr'], recursive=False)
 
     all_classes = set()
     html_out = ""
 
-    for index, div in enumerate(top_level_divs, start=1):
-        div_class = div.get('class', [])[0]
-        all_classes.update([div_class])
-        print(f"Top Level Div {index} Class: {div_class}")
+    for index, html in enumerate(html_elements, start=1):
 
-        if div_class == "sqs-gallery-container" or div_class == "image-block-outer-wrapper":
-            # Find all <img> tags within the current div
-            images = div.find_all('img')
-            unique_images = set()
-            for image in images:
-                image = image['src'].rsplit('/', 1)[-1]
-                image = "{{ site.url }}/images/portfolio/" + filename + "/" + image
-                unique_images.update([image])
+        if html.name == "hr":
+            html_out = html_out + f'<hr>\n\n'
+        else:
+            div_class = html.get('class', [])[0]
+            all_classes.update([div_class])
 
-            for image in unique_images:
-                html_out = html_out + f'<img src="{image}">\n\n'
+            if div_class == "sqs-gallery-container" or div_class == "image-block-outer-wrapper":
+                # Find all <img> tags within the current div
+                images = html.find_all('img')
+                unique_images = set()
 
-            print(f"Images in Div {index}: {unique_images}")
+                for image in images:
+                    image = image['src'].rsplit('/', 1)[-1]
+                    image = "{{ site.url }}/images/portfolio/" + filename + "/" + image
+                    unique_images.update([image])
 
-        elif div_class == "sqs-html-content":
-            html_out = html_out + div.prettify()
-            html_out = html_out + "\n\n"
-            pass
+                if div_class == "sqs-gallery-container":
+                    html_out = html_out + '<ul class="projects clearfix">\n'
+                    for image in unique_images:
+                        html_out = html_out + '  <li>\n'
+                        html_out = html_out + '    <div class="project" style=\'background-image: ' + image.replace("{{ site.url }}", "url(") + ')\'>\n'
+                        html_out = html_out + '      <a class="cover" href="' + image + '"></a>\n'
+                        html_out = html_out + '    </div>\n'
+                        html_out = html_out + '  </li>\n'
+                    html_out = html_out + '</ul>\n'
+                elif div_class == "image-block-outer-wrapper":
+                    html_out = html_out + f'<a href="{image}">\n'
+                    html_out = html_out + f'<img src = "{image}">\n'
+                    html_out = html_out + f'</a>\n'
+                html_out = html_out + "\n\n"
 
-    print(all_classes)
+            elif div_class == "sqs-html-content":
+                html_out = html_out + html.prettify()
+                html_out = html_out + "\n\n"
+                pass
+
+            elif div_class == "sqs-block-button-container":
+                html_out = html_out + html.prettify()
+                html_out = html_out + "\n\n"
+
+            elif div_class == "intrinsic":
+                div = html.find_all('div', recursive=True)
+                html_out = html_out + div[1].get('data-html', [])
+                html_out = html_out + "\n\n"
+
+    #html_out = html_in
 
     return html_out
 
@@ -80,9 +103,9 @@ def extract_items_from_xml(xml_file):
 
                 print(html_filename)
             else:
-                print("Skipped item web address as link")
+                print(f"Skipped (not in list) {link}")
         else:
-            print("Skipped item without link or content:encoded element.")
+            print(f"Skipped (element is none) {link_element}")
 
 
 if __name__ == "__main__":

@@ -6,7 +6,10 @@ title:  'Bike Speakers'
 tags: portfolio
 ---
 
-<img src="{{ site.url }}/images/portfolio/bike-speakers/IMG_4820.JPG">
+<a href="{{ site.url }}/images/portfolio/bike-speakers/IMG_4820.JPG">
+<img src = "{{ site.url }}/images/portfolio/bike-speakers/IMG_4820.JPG">
+</a>
+
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -15,7 +18,12 @@ tags: portfolio
 </div>
 
 
-<img src="{{ site.url }}/images/portfolio/bike-speakers/image-asset.jpeg">
+<hr>
+
+<a href="{{ site.url }}/images/portfolio/bike-speakers/image-asset.jpeg">
+<img src = "{{ site.url }}/images/portfolio/bike-speakers/image-asset.jpeg">
+</a>
+
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -23,6 +31,8 @@ tags: portfolio
  </p>
 </div>
 
+
+<hr>
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -43,17 +53,39 @@ tags: portfolio
 </div>
 
 
-<img src="{{ site.url }}/images/portfolio/bike-speakers/Complete+Speakers5.jpg">
+<ul class="projects clearfix">
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/bike-speakers/Complete+Speakers2.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/bike-speakers/Complete+Speakers2.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/bike-speakers/Complete+Speakers1.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/bike-speakers/Complete+Speakers1.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/bike-speakers/Complete+Speakers.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/bike-speakers/Complete+Speakers.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/bike-speakers/Complete+Speakers5.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/bike-speakers/Complete+Speakers5.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/bike-speakers/Complete+Speakers3.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/bike-speakers/Complete+Speakers3.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/bike-speakers/Complete+Speakers4.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/bike-speakers/Complete+Speakers4.jpg"></a>
+    </div>
+  </li>
+</ul>
 
-<img src="{{ site.url }}/images/portfolio/bike-speakers/Complete+Speakers2.jpg">
-
-<img src="{{ site.url }}/images/portfolio/bike-speakers/Complete+Speakers4.jpg">
-
-<img src="{{ site.url }}/images/portfolio/bike-speakers/Complete+Speakers.jpg">
-
-<img src="{{ site.url }}/images/portfolio/bike-speakers/Complete+Speakers3.jpg">
-
-<img src="{{ site.url }}/images/portfolio/bike-speakers/Complete+Speakers1.jpg">
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -68,6 +100,8 @@ tags: portfolio
 </div>
 
 
+<hr>
+
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
   Here is the finished product, I am very pleased with how the casing turned out as it remained small and compact but does not compromise functionality in any way.  Using the transparent black between the two blue plastic parts really enhances its look, and the turquoise light shining through provides the finishing touch.   The electronics inside could produce a nicer sound but my sister is very pleased with it as they still sound significantly better than her phone speakers.
@@ -75,15 +109,37 @@ tags: portfolio
 </div>
 
 
-<img src="{{ site.url }}/images/portfolio/bike-speakers/IMG_4829.JPG">
+<ul class="projects clearfix">
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/bike-speakers/IMG_4821.JPG)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/bike-speakers/IMG_4821.JPG"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/bike-speakers/IMG_4823.JPG)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/bike-speakers/IMG_4823.JPG"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/bike-speakers/IMG_4829.JPG)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/bike-speakers/IMG_4829.JPG"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/bike-speakers/IMG_4818.JPG)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/bike-speakers/IMG_4818.JPG"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/bike-speakers/IMG_4824.JPG)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/bike-speakers/IMG_4824.JPG"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/bike-speakers/IMG_4813.JPG)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/bike-speakers/IMG_4813.JPG"></a>
+    </div>
+  </li>
+</ul>
 
-<img src="{{ site.url }}/images/portfolio/bike-speakers/IMG_4813.JPG">
-
-<img src="{{ site.url }}/images/portfolio/bike-speakers/IMG_4821.JPG">
-
-<img src="{{ site.url }}/images/portfolio/bike-speakers/IMG_4818.JPG">
-
-<img src="{{ site.url }}/images/portfolio/bike-speakers/IMG_4824.JPG">
-
-<img src="{{ site.url }}/images/portfolio/bike-speakers/IMG_4823.JPG">
 

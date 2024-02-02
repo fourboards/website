@@ -6,7 +6,10 @@ title:  'Cycle Trainer'
 tags: portfolio
 ---
 
-<img src="{{ site.url }}/images/portfolio/cycle-trainer/IMG_4663.JPG">
+<a href="{{ site.url }}/images/portfolio/cycle-trainer/IMG_4663.JPG">
+<img src = "{{ site.url }}/images/portfolio/cycle-trainer/IMG_4663.JPG">
+</a>
+
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -15,17 +18,46 @@ tags: portfolio
 </div>
 
 
-<img src="{{ site.url }}/images/portfolio/cycle-trainer/Cycle+Trainer.PNG">
+<hr>
 
-<img src="{{ site.url }}/images/portfolio/cycle-trainer/IMG_4687.JPG">
+<a href="{{ site.url }}/images/portfolio/cycle-trainer/Cycle+Trainer.PNG">
+<img src = "{{ site.url }}/images/portfolio/cycle-trainer/Cycle+Trainer.PNG">
+</a>
 
-<img src="{{ site.url }}/images/portfolio/cycle-trainer/IMG_4692.JPG">
 
-<img src="{{ site.url }}/images/portfolio/cycle-trainer/IMG_4679.JPG">
+<hr>
 
-<img src="{{ site.url }}/images/portfolio/cycle-trainer/IMG_4680.JPG">
+<ul class="projects clearfix">
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/cycle-trainer/IMG_4680.JPG)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/cycle-trainer/IMG_4680.JPG"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/cycle-trainer/IMG_4687.JPG)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/cycle-trainer/IMG_4687.JPG"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/cycle-trainer/IMG_4663.JPG)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/cycle-trainer/IMG_4663.JPG"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/cycle-trainer/IMG_4679.JPG)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/cycle-trainer/IMG_4679.JPG"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/cycle-trainer/IMG_4692.JPG)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/cycle-trainer/IMG_4692.JPG"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/cycle-trainer/IMG_4691.JPG)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/cycle-trainer/IMG_4691.JPG"></a>
+    </div>
+  </li>
+</ul>
 
-<img src="{{ site.url }}/images/portfolio/cycle-trainer/IMG_4663.JPG">
-
-<img src="{{ site.url }}/images/portfolio/cycle-trainer/IMG_4691.JPG">
 

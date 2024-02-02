@@ -6,7 +6,10 @@ title:  'QR Code Clock'
 tags: portfolio
 ---
 
-<img src="{{ site.url }}/images/portfolio/qr-code-clock/IMG_4904.JPG">
+<a href="{{ site.url }}/images/portfolio/qr-code-clock/IMG_4904.JPG">
+<img src = "{{ site.url }}/images/portfolio/qr-code-clock/IMG_4904.JPG">
+</a>
+
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -15,6 +18,8 @@ tags: portfolio
 </div>
 
 
+<hr>
+
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
   Work started with the PCB design.  For some reason that is no longer apparent to me I chose not to produce a schematic, instead diving straight into component placement and trace routing.  My aim with this design was to more or less fit all the electronics required under the display and confined to its width and height.  This would have required a 4 layer board and not wanting to pay for a commercially produced PCB I opted for two, stacking, double sided boards.   In hindsight splashing out on a commercial board would have made assemble significantly easier, but then where's the fun in that!
@@ -22,7 +27,10 @@ tags: portfolio
 </div>
 
 
-<img src="{{ site.url }}/images/portfolio/qr-code-clock/image-asset.png">
+<a href="{{ site.url }}/images/portfolio/qr-code-clock/image-asset.png">
+<img src = "{{ site.url }}/images/portfolio/qr-code-clock/image-asset.png">
+</a>
+
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -43,6 +51,8 @@ tags: portfolio
 </div>
 
 
+<hr>
+
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
   Being one of my early home made PCB projects, and the first double sided board I had to do a bit of experimenting.  I started out trying to work out a way of aligning the two acetates so I could expose both sides in such a way that the vias would line up.  At first I tried using 4 vias, 1 in each corner that I pre drilled and then stuck wire through to hold the acetates in place.  However this was fiddly and did not produce accurate enough results.  Next I made a jig out of 5mm clear perspex.  For this I taped one acetate in place, lined the other one up and then closed the jig, sticking the second acetate to the top part of the jig.  Once this alignment had been done it could be easily checked and then jig could be opened up and the board inserted.  I then taped the jig shut and exposed one side at a time.  This technique seemed to work very well and is actually the same method I use now.  Unfortunately the original jig is no longer clear enough to produce high quality boards because the tape I use seems to degrade very quickly in the UV light and the sticky residue is impossible to get off.
@@ -60,17 +70,39 @@ tags: portfolio
 </div>
 
 
-<img src="{{ site.url }}/images/portfolio/qr-code-clock/2014-02-04+19.57.31.jpg">
+<ul class="projects clearfix">
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/qr-code-clock/4.png)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/4.png"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/qr-code-clock/2.png)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/2.png"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/qr-code-clock/2014-02-05+22.31.03.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/2014-02-05+22.31.03.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/qr-code-clock/3.png)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/3.png"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/qr-code-clock/2014-02-04+19.57.31.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/2014-02-04+19.57.31.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/qr-code-clock/1.png)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/1.png"></a>
+    </div>
+  </li>
+</ul>
 
-<img src="{{ site.url }}/images/portfolio/qr-code-clock/2014-02-05+22.31.03.jpg">
-
-<img src="{{ site.url }}/images/portfolio/qr-code-clock/1.png">
-
-<img src="{{ site.url }}/images/portfolio/qr-code-clock/2.png">
-
-<img src="{{ site.url }}/images/portfolio/qr-code-clock/4.png">
-
-<img src="{{ site.url }}/images/portfolio/qr-code-clock/3.png">
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -85,17 +117,41 @@ tags: portfolio
 </div>
 
 
-<img src="{{ site.url }}/images/portfolio/qr-code-clock/9.png">
+<ul class="projects clearfix">
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/qr-code-clock/8.png)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/8.png"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/qr-code-clock/6.png)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/6.png"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/qr-code-clock/7.png)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/7.png"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/qr-code-clock/9.png)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/9.png"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/qr-code-clock/11.png)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/11.png"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/qr-code-clock/10.png)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/10.png"></a>
+    </div>
+  </li>
+</ul>
 
-<img src="{{ site.url }}/images/portfolio/qr-code-clock/11.png">
 
-<img src="{{ site.url }}/images/portfolio/qr-code-clock/8.png">
-
-<img src="{{ site.url }}/images/portfolio/qr-code-clock/7.png">
-
-<img src="{{ site.url }}/images/portfolio/qr-code-clock/10.png">
-
-<img src="{{ site.url }}/images/portfolio/qr-code-clock/6.png">
+<hr>
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -125,6 +181,8 @@ tags: portfolio
 </div>
 
 
+<hr>
+
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
   The casing design was difficult for this build as originally I never intended to cover up the PCB, but rather have it on display for everyone to see.  This meant I didn't pay particular attention to certain features of the PCB such as the display being central and the power jack being accessible.  When I finally decided to make a case I wanted to ensure it was in keeping with the compact nature of the build, and therefore went with a thin walled 3D print with very tight tolerances.  This is something that worked very well for this project and consequently I went on to use the same idea for the bike speakers.
@@ -138,17 +196,39 @@ tags: portfolio
 </div>
 
 
-<img src="{{ site.url }}/images/portfolio/qr-code-clock/QR+code+casing5.jpg">
+<ul class="projects clearfix">
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/qr-code-clock/QR+code+casing2.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/QR+code+casing2.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/qr-code-clock/QR+code+casing6.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/QR+code+casing6.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/qr-code-clock/QR+code+casing4.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/QR+code+casing4.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/qr-code-clock/QR+code+casing3.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/QR+code+casing3.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/qr-code-clock/QR+code+casing5.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/QR+code+casing5.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/qr-code-clock/QR+code+casing1.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/QR+code+casing1.jpg"></a>
+    </div>
+  </li>
+</ul>
 
-<img src="{{ site.url }}/images/portfolio/qr-code-clock/QR+code+casing6.jpg">
-
-<img src="{{ site.url }}/images/portfolio/qr-code-clock/QR+code+casing1.jpg">
-
-<img src="{{ site.url }}/images/portfolio/qr-code-clock/QR+code+casing2.jpg">
-
-<img src="{{ site.url }}/images/portfolio/qr-code-clock/QR+code+casing3.jpg">
-
-<img src="{{ site.url }}/images/portfolio/qr-code-clock/QR+code+casing4.jpg">
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -163,6 +243,8 @@ tags: portfolio
 </div>
 
 
+<hr>
+
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
   So that's the story behind the QR code clock.  If I were to repeat this project then I might try and use a more accurate real time clock module, as it doesn't take long for it to get significantly out of sync.  Other than this minor detail it was a very successful project, below are some close ups of the finished device as well as a video of it in action.
@@ -170,15 +252,39 @@ tags: portfolio
 </div>
 
 
-<img src="{{ site.url }}/images/portfolio/qr-code-clock/IMG_5178.JPG">
+<ul class="projects clearfix">
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/qr-code-clock/IMG_5181.JPG)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/IMG_5181.JPG"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/qr-code-clock/IMG_4088.JPG)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/IMG_4088.JPG"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/qr-code-clock/IMG_4899.JPG)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/IMG_4899.JPG"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/qr-code-clock/IMG_5178.JPG)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/IMG_5178.JPG"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/qr-code-clock/IMG_5176.JPG)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/IMG_5176.JPG"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/qr-code-clock/IMG_4904.JPG)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/IMG_4904.JPG"></a>
+    </div>
+  </li>
+</ul>
 
-<img src="{{ site.url }}/images/portfolio/qr-code-clock/IMG_4904.JPG">
 
-<img src="{{ site.url }}/images/portfolio/qr-code-clock/IMG_4899.JPG">
-
-<img src="{{ site.url }}/images/portfolio/qr-code-clock/IMG_5181.JPG">
-
-<img src="{{ site.url }}/images/portfolio/qr-code-clock/IMG_4088.JPG">
-
-<img src="{{ site.url }}/images/portfolio/qr-code-clock/IMG_5176.JPG">
+<iframe src="//www.youtube.com/embed/_lown5AV4kE?wmode=opaque&enablejsapi=1" height="480" width="854" scrolling="no" frameborder="0" allowfullscreen=""><br/></iframe>
 
