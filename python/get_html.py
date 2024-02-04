@@ -8,6 +8,8 @@ def process_html(html_in, filename):
 
     soup = BeautifulSoup(html_in, 'html.parser')
     html_elements = soup.find_all(['div', 'hr'], recursive=False)
+    #if filename == "procharge-support":
+        #print(html_elements)
 
     all_classes = set()
     html_out = ""
@@ -17,47 +19,50 @@ def process_html(html_in, filename):
         if html.name == "hr":
             html_out = html_out + f'<hr>\n\n'
         else:
-            div_class = html.get('class', [])[0]
-            all_classes.update([div_class])
+            div_class = html.get('class', [])
+            if len(div_class) > 0:
+                div_class = div_class[0]
+                all_classes.update([div_class])
 
-            if div_class == "sqs-gallery-container" or div_class == "image-block-outer-wrapper":
-                # Find all <img> tags within the current div
-                images = html.find_all('img')
-                unique_images = set()
+                if div_class == "sqs-gallery-container" or div_class == "image-block-outer-wrapper":
+                    # Find all <img> tags within the current div
+                    images = html.find_all('img')
+                    unique_images = set()
 
-                for image in images:
-                    image = image['src'].rsplit('/', 1)[-1]
-                    image = "{{ site.url }}/images/portfolio/" + filename + "/" + image
-                    unique_images.update([image])
+                    for image in images:
+                        image = image['src'].rsplit('/', 1)[-1]
+                        image = "{{ site.url }}/images/portfolio/" + filename + "/" + image
+                        unique_images.update([image])
 
-                if div_class == "sqs-gallery-container":
-                    html_out = html_out + '<ul class="projects clearfix">\n'
-                    for image in unique_images:
-                        html_out = html_out + '  <li>\n'
-                        html_out = html_out + '    <div class="project" style=\'background-image: ' + image.replace("{{ site.url }}", "url(") + ')\'>\n'
-                        html_out = html_out + '      <a class="cover" href="' + image + '"></a>\n'
-                        html_out = html_out + '    </div>\n'
-                        html_out = html_out + '  </li>\n'
-                    html_out = html_out + '</ul>\n'
-                elif div_class == "image-block-outer-wrapper":
-                    html_out = html_out + f'<a href="{image}">\n'
-                    html_out = html_out + f'<img src = "{image}">\n'
-                    html_out = html_out + f'</a>\n'
-                html_out = html_out + "\n\n"
+                    if div_class == "sqs-gallery-container":
+                        html_out = html_out + '<ul class="projects clearfix">\n'
+                        for image in unique_images:
+                            html_out = html_out + '  <li>\n'
+                            html_out = html_out + '    <div class="project" style=\'background-image: ' + image.replace("{{ site.url }}", "url(") + ')\'>\n'
+                            html_out = html_out + '      <a class="cover" href="' + image + '"></a>\n'
+                            html_out = html_out + '    </div>\n'
+                            html_out = html_out + '  </li>\n'
+                        html_out = html_out + '</ul>\n'
+                        html_out = html_out + '<br>\n'
+                    elif div_class == "image-block-outer-wrapper":
+                        html_out = html_out + f'<a href="{image}">\n'
+                        html_out = html_out + f'<img src = "{image}">\n'
+                        html_out = html_out + f'</a>\n'
+                    html_out = html_out + "\n\n"
 
-            elif div_class == "sqs-html-content":
-                html_out = html_out + html.prettify()
-                html_out = html_out + "\n\n"
-                pass
+                elif div_class == "sqs-html-content":
+                    html_out = html_out + html.prettify()
+                    html_out = html_out + "\n\n"
+                    pass
 
-            elif div_class == "sqs-block-button-container":
-                html_out = html_out + html.prettify()
-                html_out = html_out + "\n\n"
+                elif div_class == "sqs-block-button-container":
+                    html_out = html_out + html.prettify()
+                    html_out = html_out + "\n\n"
 
-            elif div_class == "intrinsic":
-                div = html.find_all('div', recursive=True)
-                html_out = html_out + div[1].get('data-html', [])
-                html_out = html_out + "\n\n"
+                elif div_class == "intrinsic":
+                    div = html.find_all('div', recursive=True)
+                    html_out = html_out + div[1].get('data-html', [])
+                    html_out = html_out + "\n\n"
 
     #html_out = html_in
 
@@ -82,11 +87,16 @@ def extract_items_from_xml(xml_file):
                 link = link
                 title = title_element.text
                 content_encoded = content_encoded_element.text
+
+                print(f"processing {link}")
                 content = process_html(content_encoded, link)
 
+                extension = "md"
+                if projects[link] == "other":
+                    extension = "html"
 
                 # Create an HTML file with the link name
-                html_filename = f"C:/Users/10sta/GoogleDrive/Four Boards/Website New/fourboards/_{projects[link]}/{link}.md"
+                html_filename = f"C:/Users/10sta/GoogleDrive/Four Boards/Website New/fourboards/_{projects[link]}/{link}.{extension}"
 
                 with open(html_filename, 'w', encoding='utf-8') as html_file:
                     # Write HTML content to the file
@@ -100,8 +110,6 @@ def extract_items_from_xml(xml_file):
                     html_file.write("---\n")
                     html_file.write("\n")
                     html_file.write(f"{content}")
-
-                print(html_filename)
             else:
                 print(f"Skipped (not in list) {link}")
         else:

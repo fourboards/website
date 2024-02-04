@@ -54,8 +54,8 @@ tags: portfolio
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url(/images/portfolio/morilondon-candles/18011372_353886891679558_2717923805342203904_n.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/morilondon-candles/18011372_353886891679558_2717923805342203904_n.jpg"></a>
+    <div class="project" style='background-image: url(/images/portfolio/morilondon-candles/IMAG0261.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/morilondon-candles/IMAG0261.jpg"></a>
     </div>
   </li>
   <li>
@@ -64,8 +64,13 @@ tags: portfolio
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url(/images/portfolio/morilondon-candles/IMAG0261.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/morilondon-candles/IMAG0261.jpg"></a>
+    <div class="project" style='background-image: url(/images/portfolio/morilondon-candles/IMAG0239.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/morilondon-candles/IMAG0239.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/morilondon-candles/18011372_353886891679558_2717923805342203904_n.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/morilondon-candles/18011372_353886891679558_2717923805342203904_n.jpg"></a>
     </div>
   </li>
   <li>
@@ -73,11 +78,7 @@ tags: portfolio
       <a class="cover" href="{{ site.url }}/images/portfolio/morilondon-candles/IMG_20170420_135521.jpg"></a>
     </div>
   </li>
-  <li>
-    <div class="project" style='background-image: url(/images/portfolio/morilondon-candles/IMAG0239.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/morilondon-candles/IMAG0239.jpg"></a>
-    </div>
-  </li>
 </ul>
+<br>
 
 

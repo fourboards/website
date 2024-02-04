@@ -35,8 +35,8 @@ tags: portfolio
 
 <ul class="projects clearfix">
   <li>
-    <div class="project" style='background-image: url(/images/portfolio/jamiroquai-control-board/IMG_20170718_154410.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/jamiroquai-control-board/IMG_20170718_154410.jpg"></a>
+    <div class="project" style='background-image: url(/images/portfolio/jamiroquai-control-board/IMG_20170718_154342.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/jamiroquai-control-board/IMG_20170718_154342.jpg"></a>
     </div>
   </li>
   <li>
@@ -50,13 +50,8 @@ tags: portfolio
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url(/images/portfolio/jamiroquai-control-board/IMG_20170718_153951.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/jamiroquai-control-board/IMG_20170718_153951.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url(/images/portfolio/jamiroquai-control-board/IMG_20170718_154342.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/jamiroquai-control-board/IMG_20170718_154342.jpg"></a>
+    <div class="project" style='background-image: url(/images/portfolio/jamiroquai-control-board/IMG_20170718_154410.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/jamiroquai-control-board/IMG_20170718_154410.jpg"></a>
     </div>
   </li>
   <li>
@@ -64,7 +59,13 @@ tags: portfolio
       <a class="cover" href="{{ site.url }}/images/portfolio/jamiroquai-control-board/IMG_20170718_155541.jpg"></a>
     </div>
   </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/jamiroquai-control-board/IMG_20170718_153951.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/jamiroquai-control-board/IMG_20170718_153951.jpg"></a>
+    </div>
+  </li>
 </ul>
+<br>
 
 
 <iframe src="//www.youtube.com/embed/rmlmOk4ubcU?time_continue=1&wmode=opaque&enablejsapi=1" height="480" width="854" scrolling="no" frameborder="0" allowfullscreen=""><br/></iframe>

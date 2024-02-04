@@ -35,7 +35,11 @@ projects = {
     "rgb-candles": "clients",
     "wireless-dmx": "clients",
     "led-guitar": "clients",
-    "candle-production-equipment": "clients"
+    "candle-production-equipment": "clients",
+    "procharge-support": "other",
+    "overlay-library": "other",
+    "touchpad-support": "other",
+    "start": "other",
 }
 
 

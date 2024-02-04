@@ -64,23 +64,13 @@ tags: portfolio
 
 <ul class="projects clearfix">
   <li>
-    <div class="project" style='background-image: url(/images/portfolio/8x8x8-rgb-led-cube/IMAG0175.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/8x8x8-rgb-led-cube/IMAG0175.jpg"></a>
-    </div>
-  </li>
-  <li>
     <div class="project" style='background-image: url(/images/portfolio/8x8x8-rgb-led-cube/IMAG0181.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/8x8x8-rgb-led-cube/IMAG0181.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url(/images/portfolio/8x8x8-rgb-led-cube/IMAG0150.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/8x8x8-rgb-led-cube/IMAG0150.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url(/images/portfolio/8x8x8-rgb-led-cube/IMAG0161+%281%29.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/8x8x8-rgb-led-cube/IMAG0161+%281%29.jpg"></a>
+    <div class="project" style='background-image: url(/images/portfolio/8x8x8-rgb-led-cube/IMAG0160+%281%29.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/8x8x8-rgb-led-cube/IMAG0160+%281%29.jpg"></a>
     </div>
   </li>
   <li>
@@ -89,11 +79,22 @@ tags: portfolio
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url(/images/portfolio/8x8x8-rgb-led-cube/IMAG0160+%281%29.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/8x8x8-rgb-led-cube/IMAG0160+%281%29.jpg"></a>
+    <div class="project" style='background-image: url(/images/portfolio/8x8x8-rgb-led-cube/IMAG0161+%281%29.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/8x8x8-rgb-led-cube/IMAG0161+%281%29.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/8x8x8-rgb-led-cube/IMAG0175.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/8x8x8-rgb-led-cube/IMAG0175.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/8x8x8-rgb-led-cube/IMAG0150.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/8x8x8-rgb-led-cube/IMAG0150.jpg"></a>
     </div>
   </li>
 </ul>
+<br>
 
 
 <div class="sqs-html-content">
@@ -148,13 +149,8 @@ tags: portfolio
 
 <ul class="projects clearfix">
   <li>
-    <div class="project" style='background-image: url(/images/portfolio/8x8x8-rgb-led-cube/IMAG0120+%281%29.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/8x8x8-rgb-led-cube/IMAG0120+%281%29.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url(/images/portfolio/8x8x8-rgb-led-cube/IMAG0053.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/8x8x8-rgb-led-cube/IMAG0053.jpg"></a>
+    <div class="project" style='background-image: url(/images/portfolio/8x8x8-rgb-led-cube/IMAG0118.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/8x8x8-rgb-led-cube/IMAG0118.jpg"></a>
     </div>
   </li>
   <li>
@@ -163,33 +159,8 @@ tags: portfolio
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url(/images/portfolio/8x8x8-rgb-led-cube/IMAG0038.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/8x8x8-rgb-led-cube/IMAG0038.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url(/images/portfolio/8x8x8-rgb-led-cube/IMAG0035.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/8x8x8-rgb-led-cube/IMAG0035.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url(/images/portfolio/8x8x8-rgb-led-cube/IMG_5450.JPG)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/8x8x8-rgb-led-cube/IMG_5450.JPG"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url(/images/portfolio/8x8x8-rgb-led-cube/IMAG0118.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/8x8x8-rgb-led-cube/IMAG0118.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url(/images/portfolio/8x8x8-rgb-led-cube/IMAG0054.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/8x8x8-rgb-led-cube/IMAG0054.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url(/images/portfolio/8x8x8-rgb-led-cube/IMAG0042.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/8x8x8-rgb-led-cube/IMAG0042.jpg"></a>
+    <div class="project" style='background-image: url(/images/portfolio/8x8x8-rgb-led-cube/IMAG0032.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/8x8x8-rgb-led-cube/IMAG0032.jpg"></a>
     </div>
   </li>
   <li>
@@ -198,8 +169,13 @@ tags: portfolio
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url(/images/portfolio/8x8x8-rgb-led-cube/IMAG0032.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/8x8x8-rgb-led-cube/IMAG0032.jpg"></a>
+    <div class="project" style='background-image: url(/images/portfolio/8x8x8-rgb-led-cube/IMAG0042.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/8x8x8-rgb-led-cube/IMAG0042.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/8x8x8-rgb-led-cube/IMG_5450.JPG)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/8x8x8-rgb-led-cube/IMG_5450.JPG"></a>
     </div>
   </li>
   <li>
@@ -207,7 +183,33 @@ tags: portfolio
       <a class="cover" href="{{ site.url }}/images/portfolio/8x8x8-rgb-led-cube/IMAG0113.jpg"></a>
     </div>
   </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/8x8x8-rgb-led-cube/IMAG0038.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/8x8x8-rgb-led-cube/IMAG0038.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/8x8x8-rgb-led-cube/IMAG0120+%281%29.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/8x8x8-rgb-led-cube/IMAG0120+%281%29.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/8x8x8-rgb-led-cube/IMAG0035.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/8x8x8-rgb-led-cube/IMAG0035.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/8x8x8-rgb-led-cube/IMAG0054.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/8x8x8-rgb-led-cube/IMAG0054.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/8x8x8-rgb-led-cube/IMAG0053.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/8x8x8-rgb-led-cube/IMAG0053.jpg"></a>
+    </div>
+  </li>
 </ul>
+<br>
 
 
 <div class="sqs-html-content">
@@ -231,18 +233,8 @@ tags: portfolio
 
 <ul class="projects clearfix">
   <li>
-    <div class="project" style='background-image: url(/images/portfolio/8x8x8-rgb-led-cube/IMAG0100.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/8x8x8-rgb-led-cube/IMAG0100.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url(/images/portfolio/8x8x8-rgb-led-cube/IMAG0103.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/8x8x8-rgb-led-cube/IMAG0103.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url(/images/portfolio/8x8x8-rgb-led-cube/IMAG0109.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/8x8x8-rgb-led-cube/IMAG0109.jpg"></a>
+    <div class="project" style='background-image: url(/images/portfolio/8x8x8-rgb-led-cube/IMAG0068.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/8x8x8-rgb-led-cube/IMAG0068.jpg"></a>
     </div>
   </li>
   <li>
@@ -251,8 +243,18 @@ tags: portfolio
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url(/images/portfolio/8x8x8-rgb-led-cube/IMAG0068.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/8x8x8-rgb-led-cube/IMAG0068.jpg"></a>
+    <div class="project" style='background-image: url(/images/portfolio/8x8x8-rgb-led-cube/IMAG0109.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/8x8x8-rgb-led-cube/IMAG0109.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/8x8x8-rgb-led-cube/IMAG0103.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/8x8x8-rgb-led-cube/IMAG0103.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/8x8x8-rgb-led-cube/IMAG0100.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/8x8x8-rgb-led-cube/IMAG0100.jpg"></a>
     </div>
   </li>
   <li>
@@ -261,6 +263,7 @@ tags: portfolio
     </div>
   </li>
 </ul>
+<br>
 
 
 <hr>
@@ -299,23 +302,8 @@ tags: portfolio
 
 <ul class="projects clearfix">
   <li>
-    <div class="project" style='background-image: url(/images/portfolio/8x8x8-rgb-led-cube/IMG_5460.JPG)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/8x8x8-rgb-led-cube/IMG_5460.JPG"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url(/images/portfolio/8x8x8-rgb-led-cube/IMG_5470.JPG)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/8x8x8-rgb-led-cube/IMG_5470.JPG"></a>
-    </div>
-  </li>
-  <li>
     <div class="project" style='background-image: url(/images/portfolio/8x8x8-rgb-led-cube/IMG_5476.JPG)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/8x8x8-rgb-led-cube/IMG_5476.JPG"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url(/images/portfolio/8x8x8-rgb-led-cube/IMG_5462.JPG)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/8x8x8-rgb-led-cube/IMG_5462.JPG"></a>
     </div>
   </li>
   <li>
@@ -328,7 +316,23 @@ tags: portfolio
       <a class="cover" href="{{ site.url }}/images/portfolio/8x8x8-rgb-led-cube/IMG_5490.JPG"></a>
     </div>
   </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/8x8x8-rgb-led-cube/IMG_5470.JPG)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/8x8x8-rgb-led-cube/IMG_5470.JPG"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/8x8x8-rgb-led-cube/IMG_5462.JPG)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/8x8x8-rgb-led-cube/IMG_5462.JPG"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/8x8x8-rgb-led-cube/IMG_5460.JPG)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/8x8x8-rgb-led-cube/IMG_5460.JPG"></a>
+    </div>
+  </li>
 </ul>
+<br>
 
 
 <iframe src="//www.youtube.com/embed/Hrq32Xa9ejQ?wmode=opaque&enablejsapi=1" height="480" width="640" scrolling="no" frameborder="0" allowfullscreen=""><br/></iframe>
