@@ -6,8 +6,8 @@ title:  'Dragon Eyes'
 tags: portfolio
 ---
 
-<a href="{{ site.url }}/images/portfolio/dragon-eyes/%5ED7DF00FF95EE28E4B7A1DE5CBB3113A41BD25E887FF29666BE%5Epimgpsh_fullsize_distr.jpg">
-<img src = "{{ site.url }}/images/portfolio/dragon-eyes/%5ED7DF00FF95EE28E4B7A1DE5CBB3113A41BD25E887FF29666BE%5Epimgpsh_fullsize_distr.jpg">
+<a href="{{ site.url }}/images/portfolio/dragon-eyes/dragon_eyes.jpg">
+<img src = "{{ site.url }}/images/portfolio/dragon-eyes/dragon_eyes.jpg">
 </a>
 
 
@@ -29,8 +29,8 @@ tags: portfolio
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url(/images/portfolio/dragon-eyes/%5ED7DF00FF95EE28E4B7A1DE5CBB3113A41BD25E887FF29666BE%5Epimgpsh_fullsize_distr.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/dragon-eyes/%5ED7DF00FF95EE28E4B7A1DE5CBB3113A41BD25E887FF29666BE%5Epimgpsh_fullsize_distr.jpg"></a>
+    <div class="project" style='background-image: url(/images/portfolio/dragon-eyes/dragon_eyes.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/dragon-eyes/dragon_eyes.jpg"></a>
     </div>
   </li>
   <li>

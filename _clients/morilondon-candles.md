@@ -6,8 +6,8 @@ title:  'mori.london Candles'
 tags: portfolio
 ---
 
-<a href="{{ site.url }}/images/portfolio/morilondon-candles/%5EFFCB7567D1F7122985F54819559332EEFE8978B48FF96D9D01%5Epimgpsh_fullsize_distr.jpg">
-<img src = "{{ site.url }}/images/portfolio/morilondon-candles/%5EFFCB7567D1F7122985F54819559332EEFE8978B48FF96D9D01%5Epimgpsh_fullsize_distr.jpg">
+<a href="{{ site.url }}/images/portfolio/morilondon-candles/candles.jpg">
+<img src = "{{ site.url }}/images/portfolio/morilondon-candles/candles.jpg">
 </a>
 
 

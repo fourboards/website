@@ -100,8 +100,8 @@ tags: portfolio
 </div>
 
 
-<a href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/image-asset.png">
-<img src = "{{ site.url }}/images/portfolio/rubix-cube-solving-robot/image-asset.png">
+<a href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/image-asset-1.png">
+<img src = "{{ site.url }}/images/portfolio/rubix-cube-solving-robot/image-asset-1.png">
 </a>
 
 
@@ -149,8 +149,8 @@ tags: portfolio
 </div>
 
 
-<a href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/image-asset.png">
-<img src = "{{ site.url }}/images/portfolio/rubix-cube-solving-robot/image-asset.png">
+<a href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/image-asset-2.png">
+<img src = "{{ site.url }}/images/portfolio/rubix-cube-solving-robot/image-asset-2.png">
 </a>
 
 
@@ -161,8 +161,8 @@ tags: portfolio
 </div>
 
 
-<a href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/image-asset.png">
-<img src = "{{ site.url }}/images/portfolio/rubix-cube-solving-robot/image-asset.png">
+<a href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/image-asset-3.png">
+<img src = "{{ site.url }}/images/portfolio/rubix-cube-solving-robot/image-asset-3.png">
 </a>
 
 
@@ -175,8 +175,8 @@ tags: portfolio
 
 <hr>
 
-<a href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/image-asset.png">
-<img src = "{{ site.url }}/images/portfolio/rubix-cube-solving-robot/image-asset.png">
+<a href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/image-asset-4.png">
+<img src = "{{ site.url }}/images/portfolio/rubix-cube-solving-robot/image-asset-4.png">
 </a>
 
 
@@ -211,8 +211,8 @@ tags: portfolio
 </div>
 
 
-<a href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/image-asset.png">
-<img src = "{{ site.url }}/images/portfolio/rubix-cube-solving-robot/image-asset.png">
+<a href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/image-asset-5.png">
+<img src = "{{ site.url }}/images/portfolio/rubix-cube-solving-robot/image-asset-5.png">
 </a>
 
 
