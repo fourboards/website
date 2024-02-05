@@ -46,10 +46,10 @@ tags: portfolio
  </p>
  <p class="" style="text-align:center;white-space:pre-wrap;">
   Download (Eagle CAD):
-  <a href="/s/Board.sch">
+  <a href="{{ site.url }}/files/led-card/Board.sch">
    LEDCard.sch
   </a>
-  <a href="/s/Board.brd">
+  <a href="{{ site.url }}/files/led-card/Board.brd">
    LEDCard.brd
   </a>
  </p>
@@ -96,7 +96,7 @@ tags: portfolio
  </p>
  <p class="" style="text-align:center;white-space:pre-wrap;">
   Download (Arduino):
-  <a href="/s/Card_SPI.ino">
+  <a href="{{ site.url }}/files/led-card/Card_SPI.ino">
    Card_SPI.ino
   </a>
  </p>

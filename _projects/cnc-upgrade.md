@@ -44,18 +44,8 @@ tags: portfolio
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url(/images/portfolio/cnc-upgrade/IMAG1515.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/cnc-upgrade/IMAG1515.jpg"></a>
-    </div>
-  </li>
-  <li>
     <div class="project" style='background-image: url(/images/portfolio/cnc-upgrade/IMAG1741.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/cnc-upgrade/IMAG1741.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url(/images/portfolio/cnc-upgrade/IMAG1737.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/cnc-upgrade/IMAG1737.jpg"></a>
     </div>
   </li>
   <li>
@@ -64,8 +54,18 @@ tags: portfolio
     </div>
   </li>
   <li>
+    <div class="project" style='background-image: url(/images/portfolio/cnc-upgrade/IMAG1737.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/cnc-upgrade/IMAG1737.jpg"></a>
+    </div>
+  </li>
+  <li>
     <div class="project" style='background-image: url(/images/portfolio/cnc-upgrade/IMAG1761.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/cnc-upgrade/IMAG1761.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/cnc-upgrade/IMAG1515.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/cnc-upgrade/IMAG1515.jpg"></a>
     </div>
   </li>
 </ul>

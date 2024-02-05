@@ -48,13 +48,8 @@ tags: portfolio
 
 <ul class="projects clearfix">
   <li>
-    <div class="project" style='background-image: url(/images/portfolio/rubix-cube-solving-robot/Claw+Complete.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/Claw+Complete.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url(/images/portfolio/rubix-cube-solving-robot/Claw+Complete3.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/Claw+Complete3.jpg"></a>
+    <div class="project" style='background-image: url(/images/portfolio/rubix-cube-solving-robot/Claw+Complete1.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/Claw+Complete1.jpg"></a>
     </div>
   </li>
   <li>
@@ -63,18 +58,23 @@ tags: portfolio
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url(/images/portfolio/rubix-cube-solving-robot/Claw+Complete4.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/Claw+Complete4.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url(/images/portfolio/rubix-cube-solving-robot/Claw+Complete1.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/Claw+Complete1.jpg"></a>
+    <div class="project" style='background-image: url(/images/portfolio/rubix-cube-solving-robot/Claw+Complete.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/Claw+Complete.jpg"></a>
     </div>
   </li>
   <li>
     <div class="project" style='background-image: url(/images/portfolio/rubix-cube-solving-robot/Claw+Complete5.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/Claw+Complete5.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/rubix-cube-solving-robot/Claw+Complete3.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/Claw+Complete3.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/rubix-cube-solving-robot/Claw+Complete4.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/Claw+Complete4.jpg"></a>
     </div>
   </li>
 </ul>
@@ -195,7 +195,7 @@ tags: portfolio
  </p>
  <p class="" style="text-align:center;white-space:pre-wrap;">
   Download (Arduino):
-  <a href="/s/Rubix_Cube_Solver.ino">
+  <a href="{{ site.url }}/files/rubix-cube-solving-robot/Rubix_Cube_Solver.ino">
    Rubix_Cube_Solver.ino
   </a>
  </p>
@@ -219,7 +219,7 @@ tags: portfolio
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
   Download (Processing):
-  <a href="/s/GUI.pde">
+  <a href="{{ site.url }}/files/rubix-cube-solving-robot/GUI.pde">
    GUI.pde
   </a>
  </p>
@@ -250,8 +250,8 @@ tags: portfolio
 </div>
 
 
-<a href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/The+beast%21.PNG">
-<img src = "{{ site.url }}/images/portfolio/rubix-cube-solving-robot/The+beast%21.PNG">
+<a href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/rubix-robot.PNG">
+<img src = "{{ site.url }}/images/portfolio/rubix-cube-solving-robot/rubix-robot.PNG">
 </a>
 
 

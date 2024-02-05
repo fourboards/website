@@ -19,6 +19,11 @@ tags: portfolio
 
 <ul class="projects clearfix">
   <li>
+    <div class="project" style='background-image: url(/images/portfolio/wireless-dmx/IMG_20180409_130520.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/wireless-dmx/IMG_20180409_130520.jpg"></a>
+    </div>
+  </li>
+  <li>
     <div class="project" style='background-image: url(/images/portfolio/wireless-dmx/IMG_20180409_130527.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/wireless-dmx/IMG_20180409_130527.jpg"></a>
     </div>
@@ -34,18 +39,13 @@ tags: portfolio
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url(/images/portfolio/wireless-dmx/IMG_20180406_143821.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/wireless-dmx/IMG_20180406_143821.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url(/images/portfolio/wireless-dmx/IMG_20180409_130520.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/wireless-dmx/IMG_20180409_130520.jpg"></a>
-    </div>
-  </li>
-  <li>
     <div class="project" style='background-image: url(/images/portfolio/wireless-dmx/IMG_20180409_130447.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/wireless-dmx/IMG_20180409_130447.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/wireless-dmx/IMG_20180406_143821.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/wireless-dmx/IMG_20180406_143821.jpg"></a>
     </div>
   </li>
 </ul>

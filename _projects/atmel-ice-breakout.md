@@ -25,8 +25,8 @@ tags: portfolio
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url(/images/portfolio/atmel-ice-breakout/IMG_20180212_112244.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/atmel-ice-breakout/IMG_20180212_112244.jpg"></a>
+    <div class="project" style='background-image: url(/images/portfolio/atmel-ice-breakout/IMG_20180212_112211.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/atmel-ice-breakout/IMG_20180212_112211.jpg"></a>
     </div>
   </li>
   <li>
@@ -35,8 +35,8 @@ tags: portfolio
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url(/images/portfolio/atmel-ice-breakout/IMG_20180212_112211.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/atmel-ice-breakout/IMG_20180212_112211.jpg"></a>
+    <div class="project" style='background-image: url(/images/portfolio/atmel-ice-breakout/IMG_20180212_112244.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/atmel-ice-breakout/IMG_20180212_112244.jpg"></a>
     </div>
   </li>
 </ul>
@@ -46,10 +46,10 @@ tags: portfolio
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
   Downloads (Eagle CAD):
-  <a href="/s/ice-header-adapter-pcb.sch">
+  <a href="{{ site.url }}/files/atmel-ice-breakout/ice_header_adapter_pcb.sch">
    ICE Breakout.sch
   </a>
-  <a href="/s/ice-header-adapter-pcb.brd">
+  <a href="{{ site.url }}/files/atmel-ice-breakout/ice_header_adapter_pcb.brd">
    ICE Breakout.brd
   </a>
  </p>

@@ -35,6 +35,21 @@ tags: portfolio
 
 <ul class="projects clearfix">
   <li>
+    <div class="project" style='background-image: url(/images/portfolio/edit-toronto/IMG_20170915_125802.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/edit-toronto/IMG_20170915_125802.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/edit-toronto/IMG_20170920_151012.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/edit-toronto/IMG_20170920_151012.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/edit-toronto/IMG_20170823_095912.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/edit-toronto/IMG_20170823_095912.jpg"></a>
+    </div>
+  </li>
+  <li>
     <div class="project" style='background-image: url(/images/portfolio/edit-toronto/IMG_20170823_090332.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/edit-toronto/IMG_20170823_090332.jpg"></a>
     </div>
@@ -45,23 +60,8 @@ tags: portfolio
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url(/images/portfolio/edit-toronto/IMG_20170823_095912.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/edit-toronto/IMG_20170823_095912.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url(/images/portfolio/edit-toronto/IMG_20170915_125802.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/edit-toronto/IMG_20170915_125802.jpg"></a>
-    </div>
-  </li>
-  <li>
     <div class="project" style='background-image: url(/images/portfolio/edit-toronto/IMG_20170804_125941.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/edit-toronto/IMG_20170804_125941.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url(/images/portfolio/edit-toronto/IMG_20170920_151012.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/edit-toronto/IMG_20170920_151012.jpg"></a>
     </div>
   </li>
 </ul>

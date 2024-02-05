@@ -41,10 +41,10 @@ tags: portfolio
  </p>
  <p class="" style="text-align:center;white-space:pre-wrap;">
   Downloads (Eagle CAD):
-  <a href="/s/Through-Hole-Driver.brd">
+  <a href="{{ site.url }}/files/qr-code-clock/Through_Hole_Driver.brd">
    Through Hole Driver.brd
   </a>
-  <a href="/s/Through-Hole.brd">
+  <a href="{{ site.url }}/files/qr-code-clock/Through_Hole.brd">
    Through Hole.brd
   </a>
  </p>
@@ -72,8 +72,8 @@ tags: portfolio
 
 <ul class="projects clearfix">
   <li>
-    <div class="project" style='background-image: url(/images/portfolio/qr-code-clock/4.png)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/4.png"></a>
+    <div class="project" style='background-image: url(/images/portfolio/qr-code-clock/2014-02-04+19.57.31.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/2014-02-04+19.57.31.jpg"></a>
     </div>
   </li>
   <li>
@@ -87,18 +87,18 @@ tags: portfolio
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url(/images/portfolio/qr-code-clock/1.png)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/1.png"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url(/images/portfolio/qr-code-clock/2014-02-04+19.57.31.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/2014-02-04+19.57.31.jpg"></a>
-    </div>
-  </li>
-  <li>
     <div class="project" style='background-image: url(/images/portfolio/qr-code-clock/3.png)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/3.png"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/qr-code-clock/4.png)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/4.png"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/qr-code-clock/1.png)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/1.png"></a>
     </div>
   </li>
 </ul>
@@ -120,13 +120,13 @@ tags: portfolio
 
 <ul class="projects clearfix">
   <li>
-    <div class="project" style='background-image: url(/images/portfolio/qr-code-clock/10.png)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/10.png"></a>
+    <div class="project" style='background-image: url(/images/portfolio/qr-code-clock/11.png)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/11.png"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url(/images/portfolio/qr-code-clock/8.png)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/8.png"></a>
+    <div class="project" style='background-image: url(/images/portfolio/qr-code-clock/9.png)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/9.png"></a>
     </div>
   </li>
   <li>
@@ -140,13 +140,13 @@ tags: portfolio
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url(/images/portfolio/qr-code-clock/11.png)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/11.png"></a>
+    <div class="project" style='background-image: url(/images/portfolio/qr-code-clock/10.png)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/10.png"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url(/images/portfolio/qr-code-clock/9.png)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/9.png"></a>
+    <div class="project" style='background-image: url(/images/portfolio/qr-code-clock/8.png)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/8.png"></a>
     </div>
   </li>
 </ul>
@@ -176,7 +176,7 @@ tags: portfolio
  </p>
  <p class="" style="text-align:center;white-space:pre-wrap;">
   Download (Arduino):
-  <a href="/s/QR_Clock_RTC.ino">
+  <a href="{{ site.url }}/files/qr-code-clock/QR_Clock_RTC.ino">
    QR Clock RTC.ino
   </a>
  </p>
@@ -205,13 +205,8 @@ tags: portfolio
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url(/images/portfolio/qr-code-clock/QR+code+casing1.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/QR+code+casing1.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url(/images/portfolio/qr-code-clock/QR+code+casing6.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/QR+code+casing6.jpg"></a>
+    <div class="project" style='background-image: url(/images/portfolio/qr-code-clock/QR+code+casing5.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/QR+code+casing5.jpg"></a>
     </div>
   </li>
   <li>
@@ -220,13 +215,18 @@ tags: portfolio
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url(/images/portfolio/qr-code-clock/QR+code+casing5.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/QR+code+casing5.jpg"></a>
+    <div class="project" style='background-image: url(/images/portfolio/qr-code-clock/QR+code+casing1.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/QR+code+casing1.jpg"></a>
     </div>
   </li>
   <li>
     <div class="project" style='background-image: url(/images/portfolio/qr-code-clock/QR+code+casing2.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/QR+code+casing2.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/qr-code-clock/QR+code+casing6.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/QR+code+casing6.jpg"></a>
     </div>
   </li>
 </ul>
@@ -236,11 +236,8 @@ tags: portfolio
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
   Downloads:
-  <a href="/s/QR-Code-Clock-STL.zip">
+  <a href="{{ site.url }}/files/qr-code-clock/QR_Code_Clock_STL.zip">
    QR Code Clock - STL.zip
-  </a>
-  <a href="/s/QR-Code-Clock-Solid-Edge.zip">
-   QR Code Clock - Solid Edge.zip
   </a>
  </p>
 </div>
@@ -257,8 +254,8 @@ tags: portfolio
 
 <ul class="projects clearfix">
   <li>
-    <div class="project" style='background-image: url(/images/portfolio/qr-code-clock/IMG_4904.JPG)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/IMG_4904.JPG"></a>
+    <div class="project" style='background-image: url(/images/portfolio/qr-code-clock/IMG_5178.JPG)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/IMG_5178.JPG"></a>
     </div>
   </li>
   <li>
@@ -267,13 +264,13 @@ tags: portfolio
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url(/images/portfolio/qr-code-clock/IMG_5176.JPG)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/IMG_5176.JPG"></a>
+    <div class="project" style='background-image: url(/images/portfolio/qr-code-clock/IMG_4899.JPG)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/IMG_4899.JPG"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url(/images/portfolio/qr-code-clock/IMG_5178.JPG)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/IMG_5178.JPG"></a>
+    <div class="project" style='background-image: url(/images/portfolio/qr-code-clock/IMG_4904.JPG)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/IMG_4904.JPG"></a>
     </div>
   </li>
   <li>
@@ -282,8 +279,8 @@ tags: portfolio
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url(/images/portfolio/qr-code-clock/IMG_4899.JPG)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/IMG_4899.JPG"></a>
+    <div class="project" style='background-image: url(/images/portfolio/qr-code-clock/IMG_5176.JPG)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/IMG_5176.JPG"></a>
     </div>
   </li>
 </ul>

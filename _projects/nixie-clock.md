@@ -20,8 +20,8 @@ tags: portfolio
 
 <hr>
 
-<a href="{{ site.url }}/images/portfolio/nixie-clock/image-asset.png">
-<img src = "{{ site.url }}/images/portfolio/nixie-clock/image-asset.png">
+<a href="{{ site.url }}/images/portfolio/nixie-clock/nixie-sch.png">
+<img src = "{{ site.url }}/images/portfolio/nixie-clock/nixie-sch.png">
 </a>
 
 
@@ -43,10 +43,10 @@ tags: portfolio
  </p>
  <p class="" style="text-align:center;white-space:pre-wrap;">
   Downloads (Eagle CAD):
-  <a href="/s/Nixie-clock.sch">
+  <a href="{{ site.url }}/files/nixie-clock/Nixie_clock.sch">
    Nixie Clock.sch
   </a>
-  <a href="/s/Nixie-clock.brd">
+  <a href="{{ site.url }}/files/nixie-clock/Nixie_clock.brd">
    Nixie Clock.brd
   </a>
  </p>
@@ -75,10 +75,10 @@ tags: portfolio
  </p>
  <p class="" style="text-align:center;white-space:pre-wrap;">
   Downloads (Arduino):
-  <a href="/s/Nixie_Clock.ino">
+  <a href="{{ site.url }}/files/nixie-clock/Nixie_Clock.ino">
    Nixie_Clock.ino
   </a>
-  <a href="/s/Nixie_Clock_Test.ino">
+  <a href="{{ site.url }}/files/nixie-clock/Nixie_Clock_Test.ino">
    Nixie_Clock_Test.ino
   </a>
  </p>
@@ -89,23 +89,13 @@ tags: portfolio
 
 <ul class="projects clearfix">
   <li>
-    <div class="project" style='background-image: url(/images/portfolio/nixie-clock/IMG_5355.JPG)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/nixie-clock/IMG_5355.JPG"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url(/images/portfolio/nixie-clock/IMG_5374.JPG)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/nixie-clock/IMG_5374.JPG"></a>
-    </div>
-  </li>
-  <li>
     <div class="project" style='background-image: url(/images/portfolio/nixie-clock/IMG_5377.JPG)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/nixie-clock/IMG_5377.JPG"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url(/images/portfolio/nixie-clock/IMAG1340.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/nixie-clock/IMAG1340.jpg"></a>
+    <div class="project" style='background-image: url(/images/portfolio/nixie-clock/IMG_5355.JPG)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/nixie-clock/IMG_5355.JPG"></a>
     </div>
   </li>
   <li>
@@ -114,8 +104,18 @@ tags: portfolio
     </div>
   </li>
   <li>
+    <div class="project" style='background-image: url(/images/portfolio/nixie-clock/IMAG1340.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/nixie-clock/IMAG1340.jpg"></a>
+    </div>
+  </li>
+  <li>
     <div class="project" style='background-image: url(/images/portfolio/nixie-clock/IMG_5356.JPG)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/nixie-clock/IMG_5356.JPG"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/nixie-clock/IMG_5374.JPG)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/nixie-clock/IMG_5374.JPG"></a>
     </div>
   </li>
 </ul>

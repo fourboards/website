@@ -29,23 +29,8 @@ tags: portfolio
 
 <ul class="projects clearfix">
   <li>
-    <div class="project" style='background-image: url(/images/portfolio/xor-promotional-dice/IMG_20170717_183009.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/xor-promotional-dice/IMG_20170717_183009.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url(/images/portfolio/xor-promotional-dice/IMG_20171002_205455.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/xor-promotional-dice/IMG_20171002_205455.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url(/images/portfolio/xor-promotional-dice/IMG_20170704_202621.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/xor-promotional-dice/IMG_20170704_202621.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url(/images/portfolio/xor-promotional-dice/IMG_20171002_205433.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/xor-promotional-dice/IMG_20171002_205433.jpg"></a>
+    <div class="project" style='background-image: url(/images/portfolio/xor-promotional-dice/IMG_20171005_192140.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/xor-promotional-dice/IMG_20171005_192140.jpg"></a>
     </div>
   </li>
   <li>
@@ -54,8 +39,23 @@ tags: portfolio
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url(/images/portfolio/xor-promotional-dice/IMG_20171005_192140.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/xor-promotional-dice/IMG_20171005_192140.jpg"></a>
+    <div class="project" style='background-image: url(/images/portfolio/xor-promotional-dice/IMG_20171002_205455.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/xor-promotional-dice/IMG_20171002_205455.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/xor-promotional-dice/IMG_20171002_205433.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/xor-promotional-dice/IMG_20171002_205433.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/xor-promotional-dice/IMG_20170704_202621.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/xor-promotional-dice/IMG_20170704_202621.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/xor-promotional-dice/IMG_20170717_183009.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/xor-promotional-dice/IMG_20170717_183009.jpg"></a>
     </div>
   </li>
 </ul>

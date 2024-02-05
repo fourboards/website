@@ -2,6 +2,7 @@ import xml.etree.ElementTree as ET
 from pathlib import Path
 from web_pages import projects
 from bs4 import BeautifulSoup
+import os
 
 def process_html(html_in, filename):
     html_in = "".join([s for s in html_in.strip().splitlines(True) if s.strip()])
@@ -65,6 +66,15 @@ def process_html(html_in, filename):
                     html_out = html_out + "\n\n"
 
     #html_out = html_in
+
+    if 'href="/s' in html_out:
+        print(f"detected file download in {filename}")
+        html_out = html_out.replace('href="/s', 'href="{{ site.url }}/files/'+filename)
+        output_dir = Path("C:/Users/10sta/GoogleDrive/Four Boards/Website New/fourboards/files/" + filename)
+        try:
+            os.mkdir(output_dir)
+        except FileExistsError:
+            pass
 
     return html_out
 

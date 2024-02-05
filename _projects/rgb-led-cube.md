@@ -24,8 +24,8 @@ tags: portfolio
 
 <hr>
 
-<a href="{{ site.url }}/images/portfolio/rgb-led-cube/image-asset.png">
-<img src = "{{ site.url }}/images/portfolio/rgb-led-cube/image-asset.png">
+<a href="{{ site.url }}/images/portfolio/rgb-led-cube/cube-layout.png">
+<img src = "{{ site.url }}/images/portfolio/rgb-led-cube/cube-layout.png">
 </a>
 
 
@@ -66,10 +66,10 @@ tags: portfolio
  </p>
  <p class="" style="text-align:center;white-space:pre-wrap;">
   Download (Eagle CAD):
-  <a href="/s/Bottom-Board.brd">
+  <a href="{{ site.url }}/files/rgb-led-cube/Bottom_Board.brd">
    BottomBoard.brd
   </a>
-  <a href="/s/Top-Board.brd">
+  <a href="{{ site.url }}/files/rgb-led-cube/Top_Board.brd">
    TopBoard.brd
   </a>
  </p>
@@ -90,23 +90,23 @@ tags: portfolio
 
 <ul class="projects clearfix">
   <li>
-    <div class="project" style='background-image: url(/images/portfolio/rgb-led-cube/RGB.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/rgb-led-cube/RGB.jpg"></a>
-    </div>
-  </li>
-  <li>
     <div class="project" style='background-image: url(/images/portfolio/rgb-led-cube/RGB1.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/rgb-led-cube/RGB1.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url(/images/portfolio/rgb-led-cube/RGB3.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/rgb-led-cube/RGB3.jpg"></a>
+    <div class="project" style='background-image: url(/images/portfolio/rgb-led-cube/RGB.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/rgb-led-cube/RGB.jpg"></a>
     </div>
   </li>
   <li>
     <div class="project" style='background-image: url(/images/portfolio/rgb-led-cube/RGB2.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/rgb-led-cube/RGB2.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/rgb-led-cube/RGB3.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/rgb-led-cube/RGB3.jpg"></a>
     </div>
   </li>
 </ul>
@@ -116,11 +116,8 @@ tags: portfolio
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
   Download:
-  <a href="/s/RGB-LED-Cube-STL-h62m.zip">
-   RGB LED Cube - STL.zip
-  </a>
-  <a href="/s/RGB-LED-Cube-Solid-Edge.zip">
-   RGB LED Cube - Solid Edge.zip
+  <a href="{{ site.url }}/files/rgb-led-cube/RGB-LED-Cube-STL-h62m.zip">
+   RGB_LED_Cube_STL.zip
   </a>
  </p>
 </div>
@@ -138,8 +135,8 @@ tags: portfolio
 </div>
 
 
-<a href="{{ site.url }}/images/portfolio/rgb-led-cube/image-asset.png">
-<img src = "{{ site.url }}/images/portfolio/rgb-led-cube/image-asset.png">
+<a href="{{ site.url }}/images/portfolio/rgb-led-cube/image-asset-1.png">
+<img src = "{{ site.url }}/images/portfolio/rgb-led-cube/image-asset-1.png">
 </a>
 
 
@@ -154,8 +151,8 @@ tags: portfolio
 </div>
 
 
-<a href="{{ site.url }}/images/portfolio/rgb-led-cube/image-asset.png">
-<img src = "{{ site.url }}/images/portfolio/rgb-led-cube/image-asset.png">
+<a href="{{ site.url }}/images/portfolio/rgb-led-cube/image-asset-2.png">
+<img src = "{{ site.url }}/images/portfolio/rgb-led-cube/image-asset-2.png">
 </a>
 
 
@@ -166,15 +163,15 @@ tags: portfolio
 </div>
 
 
-<a href="{{ site.url }}/images/portfolio/rgb-led-cube/image-asset.png">
-<img src = "{{ site.url }}/images/portfolio/rgb-led-cube/image-asset.png">
+<a href="{{ site.url }}/images/portfolio/rgb-led-cube/image-asset-3.png">
+<img src = "{{ site.url }}/images/portfolio/rgb-led-cube/image-asset-3.png">
 </a>
 
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
   Download (Arduino):
-  <a href="/s/RGB_LED_Cube.ino">
+  <a href="{{ site.url }}/files/rgb-led-cube/RGB_LED_Cube.ino">
    RGB_LED_Cube.ino
   </a>
  </p>
@@ -192,16 +189,6 @@ tags: portfolio
 
 <ul class="projects clearfix">
   <li>
-    <div class="project" style='background-image: url(/images/portfolio/rgb-led-cube/IMG_4923.JPG)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/rgb-led-cube/IMG_4923.JPG"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url(/images/portfolio/rgb-led-cube/IMG_4931.JPG)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/rgb-led-cube/IMG_4931.JPG"></a>
-    </div>
-  </li>
-  <li>
     <div class="project" style='background-image: url(/images/portfolio/rgb-led-cube/IMG_4927.JPG)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/rgb-led-cube/IMG_4927.JPG"></a>
     </div>
@@ -212,13 +199,23 @@ tags: portfolio
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url(/images/portfolio/rgb-led-cube/IMG_4934.JPG)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/rgb-led-cube/IMG_4934.JPG"></a>
+    <div class="project" style='background-image: url(/images/portfolio/rgb-led-cube/IMG_4930.JPG)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/rgb-led-cube/IMG_4930.JPG"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url(/images/portfolio/rgb-led-cube/IMG_4930.JPG)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/rgb-led-cube/IMG_4930.JPG"></a>
+    <div class="project" style='background-image: url(/images/portfolio/rgb-led-cube/IMG_4923.JPG)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/rgb-led-cube/IMG_4923.JPG"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/rgb-led-cube/IMG_4931.JPG)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/rgb-led-cube/IMG_4931.JPG"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url(/images/portfolio/rgb-led-cube/IMG_4934.JPG)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/rgb-led-cube/IMG_4934.JPG"></a>
     </div>
   </li>
 </ul>
