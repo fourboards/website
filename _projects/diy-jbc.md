@@ -6,8 +6,8 @@ title:  'DIY JBC'
 tags: portfolio
 ---
 
-<a href="{{ site.url }}/images/portfolio/diy-jbc/IMG_5667.JPG">
-<img src = "{{ site.url }}/images/portfolio/diy-jbc/IMG_5667.JPG">
+<a href="{{ site.url }}/images/portfolio/diy-jbc/IMG_5667.jpg">
+<img src = "{{ site.url }}/images/portfolio/diy-jbc/IMG_5667.jpg">
 </a>
 
 
@@ -20,8 +20,8 @@ tags: portfolio
 
 <hr>
 
-<a href="{{ site.url }}/images/portfolio/diy-jbc/Capture.JPG">
-<img src = "{{ site.url }}/images/portfolio/diy-jbc/Capture.JPG">
+<a href="{{ site.url }}/images/portfolio/diy-jbc/Capture.jpg">
+<img src = "{{ site.url }}/images/portfolio/diy-jbc/Capture.jpg">
 </a>
 
 

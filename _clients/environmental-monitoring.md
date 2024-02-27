@@ -6,6 +6,6 @@ title:  'Environmental Monitoring'
 tags: portfolio
 ---
 
-<a href="{{ site.url }}/images/thumbs/environmental-monitoring.JPG">
-<img src = "{{ site.url }}/images/thumbs/environmental-monitoring.JPG">
+<a href="{{ site.url }}/images/thumbs/environmental-monitoring.jpg">
+<img src = "{{ site.url }}/images/thumbs/environmental-monitoring.jpg">
 </a>

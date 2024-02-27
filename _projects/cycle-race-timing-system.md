@@ -18,8 +18,8 @@ tags: portfolio
 </div>
 
 
-<a href="{{ site.url }}/images/portfolio/cycle-race-timing-system/Cycle+Club+Race+Timing+System.PNG">
-<img src = "{{ site.url }}/images/portfolio/cycle-race-timing-system/Cycle+Club+Race+Timing+System.PNG">
+<a href="{{ site.url }}/images/portfolio/cycle-race-timing-system/Cycle+Club+Race+Timing+System.png">
+<img src = "{{ site.url }}/images/portfolio/cycle-race-timing-system/Cycle+Club+Race+Timing+System.png">
 </a>
 
 

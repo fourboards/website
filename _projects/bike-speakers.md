@@ -6,8 +6,8 @@ title:  'Bike Speakers'
 tags: portfolio
 ---
 
-<a href="{{ site.url }}/images/portfolio/bike-speakers/IMG_4820.JPG">
-<img src = "{{ site.url }}/images/portfolio/bike-speakers/IMG_4820.JPG">
+<a href="{{ site.url }}/images/portfolio/bike-speakers/IMG_4820.jpg">
+<img src = "{{ site.url }}/images/portfolio/bike-speakers/IMG_4820.jpg">
 </a>
 
 
@@ -109,33 +109,33 @@ tags: portfolio
 
 <ul class="projects clearfix">
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/bike-speakers/IMG_4823.JPG)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/bike-speakers/IMG_4823.JPG"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/bike-speakers/IMG_4823.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/bike-speakers/IMG_4823.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/bike-speakers/IMG_4821.JPG)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/bike-speakers/IMG_4821.JPG"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/bike-speakers/IMG_4821.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/bike-speakers/IMG_4821.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/bike-speakers/IMG_4829.JPG)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/bike-speakers/IMG_4829.JPG"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/bike-speakers/IMG_4829.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/bike-speakers/IMG_4829.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/bike-speakers/IMG_4824.JPG)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/bike-speakers/IMG_4824.JPG"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/bike-speakers/IMG_4824.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/bike-speakers/IMG_4824.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/bike-speakers/IMG_4818.JPG)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/bike-speakers/IMG_4818.JPG"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/bike-speakers/IMG_4818.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/bike-speakers/IMG_4818.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/bike-speakers/IMG_4813.JPG)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/bike-speakers/IMG_4813.JPG"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/bike-speakers/IMG_4813.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/bike-speakers/IMG_4813.jpg"></a>
     </div>
   </li>
 </ul>

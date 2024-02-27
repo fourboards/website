@@ -67,13 +67,13 @@ tags: portfolio
 </div>
 
 
-<a href="{{ site.url }}/images/portfolio/swim-ring/PCB.JPG">
-<img src = "{{ site.url }}/images/portfolio/swim-ring/PCB.JPG">
+<a href="{{ site.url }}/images/portfolio/swim-ring/PCB.jpg">
+<img src = "{{ site.url }}/images/portfolio/swim-ring/PCB.jpg">
 </a>
 
 
-<a href="{{ site.url }}/images/portfolio/swim-ring/PCB+Folded.JPG">
-<img src = "{{ site.url }}/images/portfolio/swim-ring/PCB+Folded.JPG">
+<a href="{{ site.url }}/images/portfolio/swim-ring/PCB+Folded.jpg">
+<img src = "{{ site.url }}/images/portfolio/swim-ring/PCB+Folded.jpg">
 </a>
 
 

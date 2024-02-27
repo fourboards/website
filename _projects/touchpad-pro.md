@@ -6,8 +6,8 @@ title:  'TouchPad Pro'
 tags: portfolio
 ---
 
-<a href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_1714.JPG">
-<img src = "{{ site.url }}/images/portfolio/touchpad-pro/IMG_1714.JPG">
+<a href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_1714.jpg">
+<img src = "{{ site.url }}/images/portfolio/touchpad-pro/IMG_1714.jpg">
 </a>
 
 
@@ -58,8 +58,8 @@ tags: portfolio
 
 <ul class="projects clearfix">
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_1683.JPG)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_1683.JPG"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_1683.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_1683.jpg"></a>
     </div>
   </li>
   <li>
@@ -68,13 +68,13 @@ tags: portfolio
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_1680.JPG)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_1680.JPG"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_1680.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_1680.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_1681.JPG)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_1681.JPG"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_1681.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_1681.jpg"></a>
     </div>
   </li>
 </ul>
@@ -112,8 +112,8 @@ tags: portfolio
 </a>
 
 
-<a href="{{ site.url }}/images/portfolio/touchpad-pro/Layout.PNG">
-<img src = "{{ site.url }}/images/portfolio/touchpad-pro/Layout.PNG">
+<a href="{{ site.url }}/images/portfolio/touchpad-pro/Layout.png">
+<img src = "{{ site.url }}/images/portfolio/touchpad-pro/Layout.png">
 </a>
 
 
@@ -160,28 +160,28 @@ tags: portfolio
 
 <ul class="projects clearfix">
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_1642.JPG)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_1642.JPG"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_1642.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_1642.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_1673.JPG)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_1673.JPG"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_1673.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_1673.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_1720.JPG)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_1720.JPG"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_1720.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_1720.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_1719.JPG)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_1719.JPG"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_1719.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_1719.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_1671.JPG)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_1671.JPG"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_1671.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_1671.jpg"></a>
     </div>
   </li>
 </ul>
@@ -199,28 +199,28 @@ tags: portfolio
 
 <ul class="projects clearfix">
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_1710.JPG)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_1710.JPG"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_1710.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_1710.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_1703.JPG)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_1703.JPG"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_1703.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_1703.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_1715.JPG)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_1715.JPG"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_1715.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_1715.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_1718.JPG)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_1718.JPG"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_1718.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_1718.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_1714.JPG)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_1714.JPG"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_1714.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_1714.jpg"></a>
     </div>
   </li>
 </ul>
@@ -249,8 +249,8 @@ tags: portfolio
 </div>
 
 
-<a href="{{ site.url }}/images/portfolio/touchpad-pro/Layout+V4.0.PNG">
-<img src = "{{ site.url }}/images/portfolio/touchpad-pro/Layout+V4.0.PNG">
+<a href="{{ site.url }}/images/portfolio/touchpad-pro/Layout+V4.0.png">
+<img src = "{{ site.url }}/images/portfolio/touchpad-pro/Layout+V4.0.png">
 </a>
 
 
@@ -285,33 +285,33 @@ tags: portfolio
 
 <ul class="projects clearfix">
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_2028.JPG)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_2028.JPG"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_2028.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_2028.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_2024.JPG)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_2024.JPG"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_2024.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_2024.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_2023.JPG)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_2023.JPG"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_2023.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_2023.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_2027.JPG)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_2027.JPG"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_2027.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_2027.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_2020.JPG)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_2020.JPG"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_2020.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_2020.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_2017.JPG)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_2017.JPG"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_2017.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_2017.jpg"></a>
     </div>
   </li>
 </ul>
@@ -325,8 +325,8 @@ tags: portfolio
 </div>
 
 
-<a href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_2117.JPG">
-<img src = "{{ site.url }}/images/portfolio/touchpad-pro/IMG_2117.JPG">
+<a href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_2117.jpg">
+<img src = "{{ site.url }}/images/portfolio/touchpad-pro/IMG_2117.jpg">
 </a>
 
 
@@ -356,33 +356,33 @@ tags: portfolio
 
 <ul class="projects clearfix">
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_2145.JPG)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_2145.JPG"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_2145.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_2145.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_2144.JPG)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_2144.JPG"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_2144.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_2144.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_2143.JPG)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_2143.JPG"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_2143.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_2143.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_2150.JPG)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_2150.JPG"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_2150.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_2150.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_2171.JPG)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_2171.JPG"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_2171.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_2171.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_2153.JPG)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_2153.JPG"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_2153.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_2153.jpg"></a>
     </div>
   </li>
 </ul>
@@ -402,8 +402,8 @@ tags: portfolio
 </div>
 
 
-<a href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_2176.JPG">
-<img src = "{{ site.url }}/images/portfolio/touchpad-pro/IMG_2176.JPG">
+<a href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_2176.jpg">
+<img src = "{{ site.url }}/images/portfolio/touchpad-pro/IMG_2176.jpg">
 </a>
 
 
@@ -444,28 +444,28 @@ tags: portfolio
 
 <ul class="projects clearfix">
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_2247.JPG)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_2247.JPG"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_2247.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_2247.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_2246.JPG)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_2246.JPG"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_2246.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_2246.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_2248.JPG)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_2248.JPG"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_2248.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_2248.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_2250.JPG)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_2250.JPG"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_2250.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_2250.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_2249.JPG)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_2249.JPG"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_2249.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_2249.jpg"></a>
     </div>
   </li>
 </ul>
@@ -484,33 +484,33 @@ tags: portfolio
 
 <ul class="projects clearfix">
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_3068.JPG)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_3068.JPG"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_3068.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_3068.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_3067.JPG)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_3067.JPG"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_3067.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_3067.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_3071.JPG)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_3071.JPG"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_3071.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_3071.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_3070.JPG)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_3070.JPG"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_3070.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_3070.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_3069.JPG)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_3069.JPG"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_3069.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_3069.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_3073.JPG)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_3073.JPG"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-pro/IMG_3073.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-pro/IMG_3073.jpg"></a>
     </div>
   </li>
 </ul>

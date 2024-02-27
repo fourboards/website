@@ -6,8 +6,8 @@ title:  'Scalextric Start Gate'
 tags: portfolio
 ---
 
-<a href="{{ site.url }}/images/portfolio/scalextric-start-gate/IMG_4834.JPG">
-<img src = "{{ site.url }}/images/portfolio/scalextric-start-gate/IMG_4834.JPG">
+<a href="{{ site.url }}/images/portfolio/scalextric-start-gate/IMG_4834.jpg">
+<img src = "{{ site.url }}/images/portfolio/scalextric-start-gate/IMG_4834.jpg">
 </a>
 
 
@@ -18,8 +18,8 @@ tags: portfolio
 </div>
 
 
-<a href="{{ site.url }}/images/portfolio/scalextric-start-gate/Scalextric+Start+Gate.PNG">
-<img src = "{{ site.url }}/images/portfolio/scalextric-start-gate/Scalextric+Start+Gate.PNG">
+<a href="{{ site.url }}/images/portfolio/scalextric-start-gate/Scalextric+Start+Gate.png">
+<img src = "{{ site.url }}/images/portfolio/scalextric-start-gate/Scalextric+Start+Gate.png">
 </a>
 
 

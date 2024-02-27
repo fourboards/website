@@ -6,8 +6,8 @@ title:  'LED Card'
 tags: portfolio
 ---
 
-<a href="{{ site.url }}/images/portfolio/led-card/IMG_5059.JPG">
-<img src = "{{ site.url }}/images/portfolio/led-card/IMG_5059.JPG">
+<a href="{{ site.url }}/images/portfolio/led-card/IMG_5059.jpg">
+<img src = "{{ site.url }}/images/portfolio/led-card/IMG_5059.jpg">
 </a>
 
 
@@ -85,8 +85,8 @@ tags: portfolio
 </div>
 
 
-<a href="{{ site.url }}/images/portfolio/led-card/Code1.PNG">
-<img src = "{{ site.url }}/images/portfolio/led-card/Code1.PNG">
+<a href="{{ site.url }}/images/portfolio/led-card/Code1.png">
+<img src = "{{ site.url }}/images/portfolio/led-card/Code1.png">
 </a>
 
 

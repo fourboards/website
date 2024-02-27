@@ -6,8 +6,8 @@ title:  'Rubix Cube Solving Robot'
 tags: portfolio
 ---
 
-<a href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/IMG_4858+-+Banner.JPG">
-<img src = "{{ site.url }}/images/portfolio/rubix-cube-solving-robot/IMG_4858+-+Banner.JPG">
+<a href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/IMG_4858+-+Banner.jpg">
+<img src = "{{ site.url }}/images/portfolio/rubix-cube-solving-robot/IMG_4858+-+Banner.jpg">
 </a>
 
 
@@ -250,8 +250,8 @@ tags: portfolio
 </div>
 
 
-<a href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/rubix-robot.PNG">
-<img src = "{{ site.url }}/images/portfolio/rubix-cube-solving-robot/rubix-robot.PNG">
+<a href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/rubix-robot.png">
+<img src = "{{ site.url }}/images/portfolio/rubix-cube-solving-robot/rubix-robot.png">
 </a>
 
 
