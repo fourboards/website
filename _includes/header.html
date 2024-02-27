@@ -1,7 +1,22 @@
 <header class="site-header px-responsive">
   <div class="mt2 wrap">
       <nav class="">
-        {% include navigation.html %}
+        <ul id="main-menu" data-nav-showing="false" style="transform: translate(0%, -116%) matrix(1, 0, 0, 1, 0, 0);">
+          <div class="flexbox-parent">
+            <div class="flexbox-child">
+              <li class="about-anc"><h4><a class="nav-underline home" href="{{site.url}}">Home</a></h4></li>
+              <li class="about-anc"><h4><a class="nav-underline home" onclick="hide_menu()" href="{{site.url}}#personal_projects">Personal Projects</a></h4></li>
+              <li class="about-anc"><h4><a class="nav-underline home" onclick="hide_menu()" href="{{site.url}}#products">Products</a></h4></li>
+              <li class="about-anc"><h4><a class="nav-underline home" onclick="hide_menu()" href="{{site.url}}#client_projects">Client Projects</a></h4></li>
+              <li class="about-anc"><h4><a class="nav-underline home" onclick="hide_menu()" href="{{site.url}}#contact_me">Contact Me</a></h4></li>
+        
+                  <li>
+                  {% if site.show_social_icons %}
+                    {% include social_links.html %}
+                  {% endif %}
+                  </li>
+          </div>
+        </ul>
       </nav>
   </div>
 </header>
@@ -13,7 +28,9 @@
 </div>
 
 <div class="site-logo">
-  <img src="/images/fourboards-icon.png" href="https://fourboards.co.uk/home">
+  <a href="https://fourboards.co.uk">
+    <img src="/images/fourboards-icon.png">
+  </a>
 </div>
 
 <div class="home-btn" onclick="window.location.href = '/'">
@@ -33,4 +50,11 @@ $( ".menu-btn" ).click(function() {
         $( "#main-menu" ).css("transform", "matrix(1, 0, 0, 1, 0, 0)");
     }
 });
+
+function hide_menu() {
+        console.log("click");
+        $(".menu-line:nth-of-type(2)").css("transform","rotate(135deg)");
+        $(".menu-text").css("opacity", "1");
+        $( "#main-menu" ).css("transform", "translate(0%, -116%) matrix(1, 0, 0, 1, 0, 0)");
+}
 </script>
