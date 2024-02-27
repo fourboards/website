@@ -27,13 +27,17 @@
   <span class="menu-text">Menu</span>
 </div>
 
-<div class="site-logo" onclick="window.location.href = '/'">
-  <img src="/images/fourboards-icon.png">
+<div class="site-logo">
+  <a href="{{site.url}}">
+    <img src="{{site.url}}/images/fourboards-icon.png">
+  </a>
 </div>
 
-<div class="home-btn" onclick="window.location.href = '/'">
-  <span class="static-menu-line"></span>
-  <span class="home-text">Home</span>
+<div class="home-btn">
+  <a href="{{site.url}}">
+    <span class="static-menu-line"></span>
+    <span class="home-text">Home</span>
+  </a>
 </div>
 
 <script>

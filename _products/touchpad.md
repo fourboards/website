@@ -26,6 +26,10 @@ tags: portfolio
  </a>
 </div>
 
+<button type="button" href="/touchpad-support">
+TouchPad Support
+</button>
+
 
 <ul class="projects clearfix">
   <li>
