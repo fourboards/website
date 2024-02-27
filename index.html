@@ -7,8 +7,57 @@ js:
 ---
 
 <div class="index_banner clearfix">
-  <img src="{{ site.url }}/images/banners/IMG_0346.jpg">
+  <img id="banner1" src="{{ site.url }}/images/banners/IMG_0346.jpg">
 </div>
+
+<script>
+  banner = 0;
+  window.setInterval(changeBanner, 5000);
+
+  function changeBanner() {
+    const banners = ["IMG_0346.jpg", "IMG_0853.jpg", "IMG_2202.jpg", "IMG_4866.jpg", "IMG_4896.jpg", "IMG_5299.jpg", "IMG_5352.jpg", "IMG_5465.jpg", "IMG_20190402_153322.jpg", "RGB1.jpg"];
+    
+    banner = banner + 1;
+    if(banner >= banners.length){
+      banner = 0;
+    }
+    
+    var image = document.getElementById('banner1');
+    /*image.src = "{{ site.url }}/images/banners/" + banners[banner];*/
+
+    fadeOutAndCallback(image,
+      function(){
+        image.src = "{{ site.url }}/images/banners/" + banners[banner];
+        fadeIn(image);
+      }
+    );
+    
+  }
+
+  function fadeIn(image) {
+    var op = 0.05;
+    var timer = setInterval(function() {
+        if (op >= 1){
+            clearInterval(timer);
+        }
+        image.style.opacity = op;
+        op += 0.05;
+    }, 10);
+  }
+
+  function fadeOutAndCallback(image, callback){
+    var opacity = 1;
+    var timer = setInterval(function(){
+      if(opacity < 0.05){
+        clearInterval(timer);
+        callback();
+      }
+      image.style.opacity = opacity;
+      opacity -=  0.05;
+    }, 20);
+  }
+
+</script>
 
 <a id="personal_projects">
   <hr>
@@ -101,10 +150,10 @@ js:
 </div>
 
 <div class="projects clearfix">
-    <form action="https://formspree.io/{{ site.email }}" method="POST" class="form-stacked">
+    <form action="https://formspree.io/f/xkndbzko" method="POST" class="form-stacked">
       <input type="text" name="name" class="field-light" placeholder="Name">
       <input type="text" name="email" class="field-light" placeholder="Email">
-      <input type="text" name="email" class="field-light" placeholder="Subject">
+      <input type="text" name="subject" class="field-light" placeholder="Subject">
       <textarea type="text" name="content" class="field-light" rows="5" placeholder="Message" style="resize: vertical"></textarea>
       <input type="hidden" name="_next" value="{{ site.baseurl }}/thanks/" />
       <input type="hidden" name="_subject" value="{{ site.text.contact.subject }}" />
