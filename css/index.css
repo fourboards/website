@@ -40,17 +40,6 @@ body, button, input, select, textarea {
   color: #222;
 }
 
-::-moz-selection {
-  background: #fe57a1;
-  color: #fff;
-  text-shadow: none;
-}
-
-::selection {
-  background: #fe57a1;
-  color: #fff;
-  text-shadow: none;
-}
 
 #main ul {
   padding-left: 0;
