@@ -1,7 +1,9 @@
 .site-header {
   background-color: $header-bg;
+  position: fixed;
   z-index: 9999;
-  height: 100px;
+  height: 90px;
+  width: 100%;
   padding-top: $space-1;
   padding-bottom: $space-2;
 }
@@ -48,6 +50,7 @@
     position: absolute;
 }
 .menu-btn, .home-btn {
+    position: fixed;
     cursor: pointer;
     height: 100px;
     width: 106px;
@@ -63,7 +66,8 @@
   width: 80px;
   padding-top: 20px;
   padding-bottom: 0px;
-  position: absolute;
+  position: fixed;
+  z-index: 10000;
   top: 0;
   left: 50%;
   -ms-transform: translate(-50%, 0%);

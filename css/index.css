@@ -2,6 +2,9 @@
  * ==|== normalize ==========================================================
  */
 
+ .site-header {
+  transform: translate(0, -155px);
+}
 
 article, aside, details, figcaption, figure, footer, header, hgroup, nav, section {
   display: block;
@@ -419,8 +422,10 @@ td {
   }
 
   #container {
-    /*margin-top: 80px; */
+    margin-top: 150px; 
     margin-bottom: 30px;
+    position: relative;
+    z-index: 1;
   }
 
   .index_headings {
@@ -767,6 +772,11 @@ td {
 
 
   @media only screen and (max-width: 1024px) {
+
+    .site-header {
+      transform: translate(0, 0);
+    }
+
     header {
       top: 0px;
       width: 100%;
