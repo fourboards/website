@@ -39,7 +39,7 @@ def process_html(html_in, filename):
                         html_out = html_out + '<ul class="projects clearfix">\n'
                         for image in unique_images:
                             html_out = html_out + '  <li>\n'
-                            html_out = html_out + '    <div class="project" style=\'background-image: ' + image.replace("{{ site.url }}", "url(") + ')\'>\n'
+                            html_out = html_out + '    <div class="project" style=\'background-image: url(' + image + ')\'>\n'
                             html_out = html_out + '      <a class="cover" href="' + image + '"></a>\n'
                             html_out = html_out + '    </div>\n'
                             html_out = html_out + '  </li>\n'

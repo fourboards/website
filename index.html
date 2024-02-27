@@ -71,7 +71,7 @@ js:
   {% for post in site.projects %}
     <li>
       <div class="project"
-           style='background-image: url(/images/thumbs/{{ post.uid }}.jpg)'>
+           style='background-image: url({{ site.url }}/images/thumbs/{{ post.uid }}.jpg)'>
         <a class="cover" href="{{ post.url }}">
           <div class="project-details">
             <span>
@@ -97,7 +97,7 @@ js:
   {% for post in site.products %}
     <li>
       <div class="project"
-           style='background-image: url(/images/thumbs/{{ post.uid }}.jpg)'>
+           style='background-image: url({{ site.url }}/images/thumbs/{{ post.uid }}.jpg)'>
         <a class="cover" href="{{ post.url }}">
           <div class="project-details">
             <span>
@@ -123,7 +123,7 @@ js:
   {% for post in site.clients %}
     <li>
       <div class="project"
-           style='background-image: url(/images/thumbs/{{ post.uid }}.jpg)'>
+           style='background-image: url({{ site.url }}/images/thumbs/{{ post.uid }}.jpg)'>
         <a class="cover" href="{{ post.url }}">
           <div class="project-details">
             <span>

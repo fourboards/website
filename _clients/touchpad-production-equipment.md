@@ -19,33 +19,33 @@ tags: portfolio
 
 <ul class="projects clearfix">
   <li>
-    <div class="project" style='background-image: url(/images/portfolio/touchpad-production-equipment/IMG_20180516_201854.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-production-equipment/IMG_20180516_201854.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url(/images/portfolio/touchpad-production-equipment/IMG_20180327_161239.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-production-equipment/IMG_20180327_161239.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url(/images/portfolio/touchpad-production-equipment/IMG_20180327_161251.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-production-equipment/IMG_20180327_161251.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url(/images/portfolio/touchpad-production-equipment/IMG_20180327_161244.jpg)'>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-production-equipment/IMG_20180327_161244.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-production-equipment/IMG_20180327_161244.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url(/images/portfolio/touchpad-production-equipment/IMG_20180327_161325.jpg)'>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-production-equipment/IMG_20180516_201854.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-production-equipment/IMG_20180516_201854.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-production-equipment/IMG_20180327_161325.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-production-equipment/IMG_20180327_161325.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url(/images/portfolio/touchpad-production-equipment/IMG_20180516_201846.jpg)'>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-production-equipment/IMG_20180327_161239.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-production-equipment/IMG_20180327_161239.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-production-equipment/IMG_20180516_201846.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-production-equipment/IMG_20180516_201846.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-production-equipment/IMG_20180327_161251.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-production-equipment/IMG_20180327_161251.jpg"></a>
     </div>
   </li>
 </ul>

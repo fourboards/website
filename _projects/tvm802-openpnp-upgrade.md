@@ -60,33 +60,33 @@ tags: portfolio
 
 <ul class="projects clearfix">
   <li>
-    <div class="project" style='background-image: url(/images/portfolio/tvm802-openpnp-upgrade/IMG_20200619_183758.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/tvm802-openpnp-upgrade/IMG_20200619_183758.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url(/images/portfolio/tvm802-openpnp-upgrade/IMG_20200619_093653.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/tvm802-openpnp-upgrade/IMG_20200619_093653.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url(/images/portfolio/tvm802-openpnp-upgrade/IMG_20200619_093532.jpg)'>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/tvm802-openpnp-upgrade/IMG_20200619_093532.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/tvm802-openpnp-upgrade/IMG_20200619_093532.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url(/images/portfolio/tvm802-openpnp-upgrade/IMG_20200619_092438.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/tvm802-openpnp-upgrade/IMG_20200619_092438.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/tvm802-openpnp-upgrade/IMG_20200619_183758.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/tvm802-openpnp-upgrade/IMG_20200619_183758.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url(/images/portfolio/tvm802-openpnp-upgrade/IMG_20200619_093626.jpg)'>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/tvm802-openpnp-upgrade/IMG_20200619_093626.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/tvm802-openpnp-upgrade/IMG_20200619_093626.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url(/images/portfolio/tvm802-openpnp-upgrade/IMG_20200619_091355.jpg)'>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/tvm802-openpnp-upgrade/IMG_20200619_091355.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/tvm802-openpnp-upgrade/IMG_20200619_091355.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/tvm802-openpnp-upgrade/IMG_20200619_093653.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/tvm802-openpnp-upgrade/IMG_20200619_093653.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/tvm802-openpnp-upgrade/IMG_20200619_092438.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/tvm802-openpnp-upgrade/IMG_20200619_092438.jpg"></a>
     </div>
   </li>
 </ul>
@@ -138,33 +138,33 @@ tags: portfolio
 
 <ul class="projects clearfix">
   <li>
-    <div class="project" style='background-image: url(/images/portfolio/tvm802-openpnp-upgrade/IMG_0017.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/tvm802-openpnp-upgrade/IMG_0017.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url(/images/portfolio/tvm802-openpnp-upgrade/IMG_0020.jpg)'>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/tvm802-openpnp-upgrade/IMG_0020.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/tvm802-openpnp-upgrade/IMG_0020.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url(/images/portfolio/tvm802-openpnp-upgrade/IMG_0008.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/tvm802-openpnp-upgrade/IMG_0008.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/tvm802-openpnp-upgrade/IMG_0017.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/tvm802-openpnp-upgrade/IMG_0017.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url(/images/portfolio/tvm802-openpnp-upgrade/IMG_0007.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/tvm802-openpnp-upgrade/IMG_0007.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url(/images/portfolio/tvm802-openpnp-upgrade/IMG_0018.jpg)'>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/tvm802-openpnp-upgrade/IMG_0018.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/tvm802-openpnp-upgrade/IMG_0018.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url(/images/portfolio/tvm802-openpnp-upgrade/IMG_0012.jpg)'>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/tvm802-openpnp-upgrade/IMG_0012.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/tvm802-openpnp-upgrade/IMG_0012.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/tvm802-openpnp-upgrade/IMG_0008.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/tvm802-openpnp-upgrade/IMG_0008.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/tvm802-openpnp-upgrade/IMG_0007.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/tvm802-openpnp-upgrade/IMG_0007.jpg"></a>
     </div>
   </li>
 </ul>

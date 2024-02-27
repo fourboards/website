@@ -64,32 +64,32 @@ tags: portfolio
 
 <ul class="projects clearfix">
   <li>
-    <div class="project" style='background-image: url(/images/portfolio/bascetta-star-light/IMG_0830.JPG)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/bascetta-star-light/IMG_0830.JPG"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url(/images/portfolio/bascetta-star-light/IMG_0840.JPG)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/bascetta-star-light/IMG_0840.JPG"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url(/images/portfolio/bascetta-star-light/IMG_0835.JPG)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/bascetta-star-light/IMG_0835.JPG"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url(/images/portfolio/bascetta-star-light/IMG_0838.JPG)'>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/bascetta-star-light/IMG_0838.JPG)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/bascetta-star-light/IMG_0838.JPG"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url(/images/portfolio/bascetta-star-light/IMG_0832.JPG)'>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/bascetta-star-light/IMG_0840.JPG)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/bascetta-star-light/IMG_0840.JPG"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/bascetta-star-light/IMG_0832.JPG)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/bascetta-star-light/IMG_0832.JPG"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url(/images/portfolio/bascetta-star-light/IMG_0834.JPG)'>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/bascetta-star-light/IMG_0835.JPG)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/bascetta-star-light/IMG_0835.JPG"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/bascetta-star-light/IMG_0830.JPG)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/bascetta-star-light/IMG_0830.JPG"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/bascetta-star-light/IMG_0834.JPG)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/bascetta-star-light/IMG_0834.JPG"></a>
     </div>
   </li>
@@ -108,33 +108,33 @@ tags: portfolio
 
 <ul class="projects clearfix">
   <li>
-    <div class="project" style='background-image: url(/images/portfolio/bascetta-star-light/IMG_0847.JPG)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/bascetta-star-light/IMG_0847.JPG"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url(/images/portfolio/bascetta-star-light/IMG_0859.JPG)'>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/bascetta-star-light/IMG_0859.JPG)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/bascetta-star-light/IMG_0859.JPG"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url(/images/portfolio/bascetta-star-light/274989300_635846514383046_4896757359245013514_n.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/bascetta-star-light/274989300_635846514383046_4896757359245013514_n.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url(/images/portfolio/bascetta-star-light/IMG_0846.JPG)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/bascetta-star-light/IMG_0846.JPG"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url(/images/portfolio/bascetta-star-light/IMG_0879.JPG)'>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/bascetta-star-light/IMG_0879.JPG)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/bascetta-star-light/IMG_0879.JPG"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url(/images/portfolio/bascetta-star-light/IMG_0843.JPG)'>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/bascetta-star-light/274989300_635846514383046_4896757359245013514_n.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/bascetta-star-light/274989300_635846514383046_4896757359245013514_n.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/bascetta-star-light/IMG_0843.JPG)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/bascetta-star-light/IMG_0843.JPG"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/bascetta-star-light/IMG_0847.JPG)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/bascetta-star-light/IMG_0847.JPG"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/bascetta-star-light/IMG_0846.JPG)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/bascetta-star-light/IMG_0846.JPG"></a>
     </div>
   </li>
 </ul>
@@ -152,33 +152,33 @@ tags: portfolio
 
 <ul class="projects clearfix">
   <li>
-    <div class="project" style='background-image: url(/images/portfolio/bascetta-star-light/IMG_7809.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/bascetta-star-light/IMG_7809.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/bascetta-star-light/275026423_670457897473879_3186137048368127375_n.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/bascetta-star-light/275026423_670457897473879_3186137048368127375_n.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url(/images/portfolio/bascetta-star-light/IMG_7807.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/bascetta-star-light/IMG_7807.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url(/images/portfolio/bascetta-star-light/IMG_7804.jpg)'>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/bascetta-star-light/IMG_7804.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/bascetta-star-light/IMG_7804.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url(/images/portfolio/bascetta-star-light/IMG_7801.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/bascetta-star-light/IMG_7801.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url(/images/portfolio/bascetta-star-light/IMG_7798.jpg)'>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/bascetta-star-light/IMG_7798.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/bascetta-star-light/IMG_7798.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url(/images/portfolio/bascetta-star-light/275026423_670457897473879_3186137048368127375_n.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/bascetta-star-light/275026423_670457897473879_3186137048368127375_n.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/bascetta-star-light/IMG_7801.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/bascetta-star-light/IMG_7801.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/bascetta-star-light/IMG_7809.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/bascetta-star-light/IMG_7809.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/bascetta-star-light/IMG_7807.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/bascetta-star-light/IMG_7807.jpg"></a>
     </div>
   </li>
 </ul>
