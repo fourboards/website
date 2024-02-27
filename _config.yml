@@ -5,7 +5,7 @@ title:       Four Boards
 email:       jacob@fourboards.co.uk
 author:      Jacob Burge
 description: "A striking black-white Jekyll theme."
-baseurl:     ""
+baseurl:     "https://fourboards.github.io/website/"
 url:         "https://fourboards.github.io/website/"
 date_format: "%b %-d, %Y"
 
