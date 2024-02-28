@@ -40,8 +40,13 @@ tags: portfolio arrows
 
 <ul class="projects clearfix">
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/xor-ruler/IMG_20170714_121309.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/xor-ruler/IMG_20170714_121309.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/xor-ruler/IMG_20170714_115754.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/xor-ruler/IMG_20170714_115754.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/xor-ruler/IMG_20170714_113905.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/xor-ruler/IMG_20170714_113905.jpg"></a>
     </div>
   </li>
   <li>
@@ -50,23 +55,18 @@ tags: portfolio arrows
     </div>
   </li>
   <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/xor-ruler/IMG_20170714_121309.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/xor-ruler/IMG_20170714_121309.jpg"></a>
+    </div>
+  </li>
+  <li>
     <div class="project" style='background-image: url({{ site.url }}/images/portfolio/xor-ruler/IMG_20170714_130801.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/xor-ruler/IMG_20170714_130801.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/xor-ruler/IMG_20170714_115754.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/xor-ruler/IMG_20170714_115754.jpg"></a>
-    </div>
-  </li>
-  <li>
     <div class="project" style='background-image: url({{ site.url }}/images/portfolio/xor-ruler/IMG_20170717_090222.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/xor-ruler/IMG_20170717_090222.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/xor-ruler/IMG_20170714_113905.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/xor-ruler/IMG_20170714_113905.jpg"></a>
     </div>
   </li>
 </ul>

@@ -40,18 +40,8 @@ tags: portfolio arrows
 
 <ul class="projects clearfix">
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/cnc-upgrade/IMAG1741.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/cnc-upgrade/IMAG1741.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/cnc-upgrade/IMAG1737.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/cnc-upgrade/IMAG1737.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/cnc-upgrade/IMAG1774.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/cnc-upgrade/IMAG1774.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/cnc-upgrade/IMAG1733.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/cnc-upgrade/IMAG1733.jpg"></a>
     </div>
   </li>
   <li>
@@ -65,8 +55,18 @@ tags: portfolio arrows
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/cnc-upgrade/IMAG1733.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/cnc-upgrade/IMAG1733.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/cnc-upgrade/IMAG1774.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/cnc-upgrade/IMAG1774.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/cnc-upgrade/IMAG1741.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/cnc-upgrade/IMAG1741.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/cnc-upgrade/IMAG1737.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/cnc-upgrade/IMAG1737.jpg"></a>
     </div>
   </li>
 </ul>

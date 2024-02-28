@@ -52,11 +52,6 @@ tags: portfolio arrows
 
 <ul class="projects clearfix">
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/rubix-cube-solving-robot/Claw+Complete3.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/Claw+Complete3.jpg"></a>
-    </div>
-  </li>
-  <li>
     <div class="project" style='background-image: url({{ site.url }}/images/portfolio/rubix-cube-solving-robot/Claw+Complete.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/Claw+Complete.jpg"></a>
     </div>
@@ -67,6 +62,16 @@ tags: portfolio arrows
     </div>
   </li>
   <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/rubix-cube-solving-robot/Claw+Complete2.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/Claw+Complete2.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/rubix-cube-solving-robot/Claw+Complete3.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/Claw+Complete3.jpg"></a>
+    </div>
+  </li>
+  <li>
     <div class="project" style='background-image: url({{ site.url }}/images/portfolio/rubix-cube-solving-robot/Claw+Complete4.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/Claw+Complete4.jpg"></a>
     </div>
@@ -74,11 +79,6 @@ tags: portfolio arrows
   <li>
     <div class="project" style='background-image: url({{ site.url }}/images/portfolio/rubix-cube-solving-robot/Claw+Complete5.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/Claw+Complete5.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/rubix-cube-solving-robot/Claw+Complete2.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/Claw+Complete2.jpg"></a>
     </div>
   </li>
 </ul>

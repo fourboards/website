@@ -40,14 +40,15 @@ def process_html(html_in, filename):
                 elif div_class == "sqs-gallery-container" or div_class == "image-block-outer-wrapper":
                     # Find all <img> tags within the current div
                     images = html.find_all('img')
-                    unique_images = set()
-
-
+                    unique_images = []
 
                     for image in images:
                         image = image['src'].rsplit('/', 1)[-1]
                         image = "{{ site.url }}/images/portfolio/" + filename + "/" + image
-                        unique_images.update([image])
+                        unique_images.append(image) if image not in unique_images else unique_images
+
+                    if filename == "touchpad-pro":
+                        print(unique_images)
 
                     if div_class == "sqs-gallery-container":
                         html_out = html_out + '<ul class="projects clearfix">\n'
@@ -69,7 +70,7 @@ def process_html(html_in, filename):
                         html_out = html_out + f'<div class="projects clearfix">\n'
                         html_out = html_out + f' <a href="{href}">\n'
                         if "Sponsored+by+PCBWay" in image:
-                            print("Found sponsored by PCBWay")
+                            #print("Found sponsored by PCBWay")
                             html_out = html_out + f'  <img class = "pcbway" src = "{image}">\n'
                         else:
                             html_out = html_out + f'  <img src = "{image}">\n'

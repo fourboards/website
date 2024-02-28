@@ -14,6 +14,11 @@ tags: portfolio arrows
 
 <ul class="projects clearfix">
   <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/led-discs/IMG_20180717_112506.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/led-discs/IMG_20180717_112506.jpg"></a>
+    </div>
+  </li>
+  <li>
     <div class="project" style='background-image: url({{ site.url }}/images/portfolio/led-discs/IMG_20180717_112445.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/led-discs/IMG_20180717_112445.jpg"></a>
     </div>
@@ -21,11 +26,6 @@ tags: portfolio arrows
   <li>
     <div class="project" style='background-image: url({{ site.url }}/images/portfolio/led-discs/IMG_20180716_122711.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/led-discs/IMG_20180716_122711.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/led-discs/IMG_20180717_112506.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/led-discs/IMG_20180717_112506.jpg"></a>
     </div>
   </li>
   <li>

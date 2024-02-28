@@ -20,13 +20,13 @@ tags: portfolio arrows
 
 <ul class="projects clearfix">
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/dragon-eyes/IMG_20180313_131543.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/dragon-eyes/IMG_20180313_131543.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/dragon-eyes/IMG_20180312_191442.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/dragon-eyes/IMG_20180312_191442.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/dragon-eyes/dragon_eyes.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/dragon-eyes/dragon_eyes.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/dragon-eyes/IMG_20180313_131430.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/dragon-eyes/IMG_20180313_131430.jpg"></a>
     </div>
   </li>
   <li>
@@ -40,13 +40,13 @@ tags: portfolio arrows
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/dragon-eyes/IMG_20180313_131430.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/dragon-eyes/IMG_20180313_131430.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/dragon-eyes/IMG_20180313_131543.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/dragon-eyes/IMG_20180313_131543.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/dragon-eyes/IMG_20180312_191442.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/dragon-eyes/IMG_20180312_191442.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/dragon-eyes/dragon_eyes.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/dragon-eyes/dragon_eyes.jpg"></a>
     </div>
   </li>
 </ul>

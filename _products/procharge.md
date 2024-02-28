@@ -35,18 +35,18 @@ tags: portfolio
 
 <ul class="projects clearfix">
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/procharge/IMG_5942.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/procharge/IMG_5942.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/procharge/IMG_5971.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/procharge/IMG_5971.jpg"></a>
-    </div>
-  </li>
-  <li>
     <div class="project" style='background-image: url({{ site.url }}/images/portfolio/procharge/IMG_5804.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/procharge/IMG_5804.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/procharge/IMG_5833+copy.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/procharge/IMG_5833+copy.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/procharge/IMG_5942.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/procharge/IMG_5942.jpg"></a>
     </div>
   </li>
   <li>
@@ -60,8 +60,8 @@ tags: portfolio
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/procharge/IMG_5833+copy.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/procharge/IMG_5833+copy.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/procharge/IMG_5971.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/procharge/IMG_5971.jpg"></a>
     </div>
   </li>
 </ul>
