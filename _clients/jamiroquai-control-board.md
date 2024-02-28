@@ -1,9 +1,8 @@
 ---
 layout: post
-hero-bg-color: '#FFFFFF'
 uid: jamiroquai-control-board
 title:  'Jamiroquai Control Board'
-tags: portfolio
+tags: portfolio arrows
 ---
 
 <a href="{{ site.url }}/images/portfolio/jamiroquai-control-board/IMG_20170719_092749.jpg">

@@ -1,9 +1,8 @@
 ---
 layout: post
-hero-bg-color: '#FFFFFF'
 uid: environmental-monitoring
 title:  'Environmental Monitoring'
-tags: portfolio
+tags: portfolio arrows
 ---
 
 <a href="{{ site.url }}/images/thumbs/environmental-monitoring.jpg">

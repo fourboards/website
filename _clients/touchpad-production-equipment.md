@@ -2,7 +2,7 @@
 layout: post
 uid: touchpad-production-equipment
 title:  'TouchPad Production Equipment'
-tags: portfolio
+tags: portfolio arrows
 ---
 
 <div class="projects clearfix">
