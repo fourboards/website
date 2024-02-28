@@ -28,6 +28,16 @@ tags: portfolio arrows
 
 <ul class="projects clearfix">
   <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/cycle-trainer/IMG_4680.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/cycle-trainer/IMG_4680.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/cycle-trainer/IMG_4679.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/cycle-trainer/IMG_4679.jpg"></a>
+    </div>
+  </li>
+  <li>
     <div class="project" style='background-image: url({{ site.url }}/images/portfolio/cycle-trainer/IMG_4692.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/cycle-trainer/IMG_4692.jpg"></a>
     </div>
@@ -38,23 +48,13 @@ tags: portfolio arrows
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/cycle-trainer/IMG_4663.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/cycle-trainer/IMG_4663.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/cycle-trainer/IMG_4679.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/cycle-trainer/IMG_4679.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/cycle-trainer/IMG_4680.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/cycle-trainer/IMG_4680.jpg"></a>
-    </div>
-  </li>
-  <li>
     <div class="project" style='background-image: url({{ site.url }}/images/portfolio/cycle-trainer/IMG_4691.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/cycle-trainer/IMG_4691.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/cycle-trainer/IMG_4663.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/cycle-trainer/IMG_4663.jpg"></a>
     </div>
   </li>
 </ul>

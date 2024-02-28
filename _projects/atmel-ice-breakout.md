@@ -24,6 +24,11 @@ tags: portfolio arrows
     </div>
   </li>
   <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/atmel-ice-breakout/IMG_20180407_174322.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/atmel-ice-breakout/IMG_20180407_174322.jpg"></a>
+    </div>
+  </li>
+  <li>
     <div class="project" style='background-image: url({{ site.url }}/images/portfolio/atmel-ice-breakout/IMG_20180212_112244.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/atmel-ice-breakout/IMG_20180212_112244.jpg"></a>
     </div>
@@ -31,11 +36,6 @@ tags: portfolio arrows
   <li>
     <div class="project" style='background-image: url({{ site.url }}/images/portfolio/atmel-ice-breakout/IMG_20180212_112206.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/atmel-ice-breakout/IMG_20180212_112206.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/atmel-ice-breakout/IMG_20180407_174322.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/atmel-ice-breakout/IMG_20180407_174322.jpg"></a>
     </div>
   </li>
 </ul>

@@ -8,7 +8,7 @@ def process_html(html_in, filename):
     html_in = "".join([s for s in html_in.strip().splitlines(True) if s.strip()])
 
     soup = BeautifulSoup(html_in, 'html.parser')
-    html_elements = soup.find_all(['div', 'hr'], recursive=False)
+    html_elements = soup.find_all(['div', 'hr', 'pre'], recursive=False)
     #if filename == "procharge-support":
         #print(html_elements)
 
@@ -25,7 +25,15 @@ def process_html(html_in, filename):
                 div_class = div_class[0]
                 all_classes.update([div_class])
 
-                if div_class == "sqs-gallery-container" or div_class == "image-block-outer-wrapper":
+                if div_class == "source-code":
+                    print(f"found source code {html.text}")
+                    html_out = html_out + '<div class="code_block">\n'
+                    html_out = html_out + ' <p>\n'
+                    html_out = html_out + '   ' + html.text.replace('\n', '<br>') + '<br>\n'
+                    html_out = html_out + ' </p>\n'
+                    html_out = html_out + '</div>\n\n'
+
+                elif div_class == "sqs-gallery-container" or div_class == "image-block-outer-wrapper":
                     # Find all <img> tags within the current div
                     images = html.find_all('img')
                     unique_images = set()
@@ -61,7 +69,6 @@ def process_html(html_in, filename):
                     link = html.find_all('a')
                     href = link[0].get('href', [])
                     text = link[0].text
-                    print(f"button link: {href}, text: {text}")
 
                     html_out = html_out + '<div class="projects clearfix">\n'
                     html_out = html_out + f' <a href="{href}">\n'

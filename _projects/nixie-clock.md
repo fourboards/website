@@ -88,13 +88,8 @@ tags: portfolio arrows
 
 <ul class="projects clearfix">
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/nixie-clock/IMG_5355.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/nixie-clock/IMG_5355.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/nixie-clock/IMG_5356.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/nixie-clock/IMG_5356.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/nixie-clock/IMG_5374.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/nixie-clock/IMG_5374.jpg"></a>
     </div>
   </li>
   <li>
@@ -103,18 +98,23 @@ tags: portfolio arrows
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/nixie-clock/IMG_5377.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/nixie-clock/IMG_5377.jpg"></a>
-    </div>
-  </li>
-  <li>
     <div class="project" style='background-image: url({{ site.url }}/images/portfolio/nixie-clock/IMG_5372.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/nixie-clock/IMG_5372.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/nixie-clock/IMG_5374.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/nixie-clock/IMG_5374.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/nixie-clock/IMG_5356.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/nixie-clock/IMG_5356.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/nixie-clock/IMG_5377.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/nixie-clock/IMG_5377.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/nixie-clock/IMG_5355.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/nixie-clock/IMG_5355.jpg"></a>
     </div>
   </li>
 </ul>
