@@ -1,9 +1,8 @@
 ---
 layout: post
-hero-bg-color: '#FFFFFF'
 uid: nixie-clock
 title:  'Nixie Clock'
-tags: portfolio
+tags: portfolio arrows
 ---
 
 <a href="{{ site.url }}/images/portfolio/nixie-clock/IMG_5355.jpg">
@@ -89,18 +88,8 @@ tags: portfolio
 
 <ul class="projects clearfix">
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/nixie-clock/IMAG1340.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/nixie-clock/IMAG1340.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/nixie-clock/IMG_5374.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/nixie-clock/IMG_5374.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/nixie-clock/IMG_5377.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/nixie-clock/IMG_5377.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/nixie-clock/IMG_5355.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/nixie-clock/IMG_5355.jpg"></a>
     </div>
   </li>
   <li>
@@ -109,13 +98,23 @@ tags: portfolio
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/nixie-clock/IMG_5355.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/nixie-clock/IMG_5355.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/nixie-clock/IMAG1340.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/nixie-clock/IMAG1340.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/nixie-clock/IMG_5377.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/nixie-clock/IMG_5377.jpg"></a>
     </div>
   </li>
   <li>
     <div class="project" style='background-image: url({{ site.url }}/images/portfolio/nixie-clock/IMG_5372.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/nixie-clock/IMG_5372.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/nixie-clock/IMG_5374.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/nixie-clock/IMG_5374.jpg"></a>
     </div>
   </li>
 </ul>

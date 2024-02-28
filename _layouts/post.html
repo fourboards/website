@@ -35,6 +35,7 @@ p .reversefootnote:hover, p .reversefootnote:active, p .reversefootnote:focus {
 
 <div class="post-header mb2">
   <h1>{{ page.title }}</h1>
+  {% if page.tags contains "meta" %}
   <span class="post-meta">{{ page.date | date: site.date_format }}</span><br>
   {% if page.update_date %}
     <span class="post-meta">{{ site.text.post.updated }}: {{ page.update_date | date: site.date_format }}</span><br>
@@ -46,6 +47,7 @@ p .reversefootnote:hover, p .reversefootnote:active, p .reversefootnote:focus {
     {{ minutes }} {{ site.text.post.minute_read }}
   {% endif %}
   </span>
+  {% endif %}
 </div>
 
 <article class="post-content">
@@ -55,8 +57,10 @@ p .reversefootnote:hover, p .reversefootnote:active, p .reversefootnote:focus {
 </br>
 </br>
 
+{% if page.tags contains "arrows" %}
 <a href="{{page.next.url}}" title="{{page.next.title}}" class="next-project target"></a>
 <a href="{{page.previous.url}}" title="{{page.previous.title}}" class="prev-project target"></a>
+{% endif %}
 
 
 {% if site.disqus_shortname != "" and site.disqus_shortname != nil %}

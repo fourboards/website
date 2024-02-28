@@ -1,9 +1,8 @@
 ---
 layout: post
-hero-bg-color: '#FFFFFF'
 uid: led-card
 title:  'LED Card'
-tags: portfolio
+tags: portfolio arrows
 ---
 
 <a href="{{ site.url }}/images/portfolio/led-card/IMG_5059.jpg">

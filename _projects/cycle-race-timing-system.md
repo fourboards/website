@@ -1,9 +1,8 @@
 ---
 layout: post
-hero-bg-color: '#FFFFFF'
 uid: cycle-race-timing-system
 title:  'Cycle Race Timing System'
-tags: portfolio
+tags: portfolio arrows
 ---
 
 <a href="{{ site.url }}/images/portfolio/cycle-race-timing-system/IMG_20190402_153322.jpg">

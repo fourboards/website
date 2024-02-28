@@ -130,10 +130,12 @@ def extract_items_from_xml(xml_file):
 
                     html_file.write("---\n")
                     html_file.write("layout: post\n")
-                    html_file.write("hero-bg-color: '#FFFFFF'\n")
                     html_file.write(f"uid: {link}\n")
                     html_file.write(f"title:  '{title}'\n")
-                    html_file.write(f"tags: portfolio\n")
+                    if ("touchpad" in link) or ("procharge" in link):
+                        html_file.write(f"tags: portfolio\n")
+                    else:
+                        html_file.write(f"tags: portfolio arrows\n")
                     html_file.write("---\n")
                     html_file.write("\n")
                     html_file.write(f"{content}")

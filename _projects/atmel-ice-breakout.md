@@ -1,9 +1,8 @@
 ---
 layout: post
-hero-bg-color: '#FFFFFF'
 uid: atmel-ice-breakout
 title:  'Atmel ICE Breakout'
-tags: portfolio
+tags: portfolio arrows
 ---
 
 <a href="{{ site.url }}/images/portfolio/atmel-ice-breakout/IMG_20180407_174322.jpg">
@@ -20,16 +19,6 @@ tags: portfolio
 
 <ul class="projects clearfix">
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/atmel-ice-breakout/IMG_20180212_112206.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/atmel-ice-breakout/IMG_20180212_112206.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/atmel-ice-breakout/IMG_20180407_174322.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/atmel-ice-breakout/IMG_20180407_174322.jpg"></a>
-    </div>
-  </li>
-  <li>
     <div class="project" style='background-image: url({{ site.url }}/images/portfolio/atmel-ice-breakout/IMG_20180212_112211.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/atmel-ice-breakout/IMG_20180212_112211.jpg"></a>
     </div>
@@ -37,6 +26,16 @@ tags: portfolio
   <li>
     <div class="project" style='background-image: url({{ site.url }}/images/portfolio/atmel-ice-breakout/IMG_20180212_112244.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/atmel-ice-breakout/IMG_20180212_112244.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/atmel-ice-breakout/IMG_20180212_112206.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/atmel-ice-breakout/IMG_20180212_112206.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/atmel-ice-breakout/IMG_20180407_174322.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/atmel-ice-breakout/IMG_20180407_174322.jpg"></a>
     </div>
   </li>
 </ul>

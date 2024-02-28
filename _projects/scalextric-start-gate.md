@@ -1,9 +1,8 @@
 ---
 layout: post
-hero-bg-color: '#FFFFFF'
 uid: scalextric-start-gate
 title:  'Scalextric Start Gate'
-tags: portfolio
+tags: portfolio arrows
 ---
 
 <a href="{{ site.url }}/images/portfolio/scalextric-start-gate/IMG_4834.jpg">

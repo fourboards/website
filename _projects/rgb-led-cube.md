@@ -1,9 +1,8 @@
 ---
 layout: post
-hero-bg-color: '#FFFFFF'
 uid: rgb-led-cube
 title:  'RGB LED Cube'
-tags: portfolio
+tags: portfolio arrows
 ---
 
 <a href="{{ site.url }}/images/portfolio/rgb-led-cube/IMG_4909.jpg">
@@ -90,13 +89,8 @@ tags: portfolio
 
 <ul class="projects clearfix">
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/rgb-led-cube/RGB3.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/rgb-led-cube/RGB3.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/rgb-led-cube/RGB2.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/rgb-led-cube/RGB2.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/rgb-led-cube/RGB.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/rgb-led-cube/RGB.jpg"></a>
     </div>
   </li>
   <li>
@@ -105,8 +99,13 @@ tags: portfolio
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/rgb-led-cube/RGB.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/rgb-led-cube/RGB.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/rgb-led-cube/RGB3.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/rgb-led-cube/RGB3.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/rgb-led-cube/RGB2.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/rgb-led-cube/RGB2.jpg"></a>
     </div>
   </li>
 </ul>
@@ -194,13 +193,13 @@ tags: portfolio
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/rgb-led-cube/IMG_4930.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/rgb-led-cube/IMG_4930.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/rgb-led-cube/IMG_4926.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/rgb-led-cube/IMG_4926.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/rgb-led-cube/IMG_4923.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/rgb-led-cube/IMG_4923.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/rgb-led-cube/IMG_4930.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/rgb-led-cube/IMG_4930.jpg"></a>
     </div>
   </li>
   <li>
@@ -209,13 +208,13 @@ tags: portfolio
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/rgb-led-cube/IMG_4926.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/rgb-led-cube/IMG_4926.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/rgb-led-cube/IMG_4931.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/rgb-led-cube/IMG_4931.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/rgb-led-cube/IMG_4931.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/rgb-led-cube/IMG_4931.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/rgb-led-cube/IMG_4923.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/rgb-led-cube/IMG_4923.jpg"></a>
     </div>
   </li>
 </ul>

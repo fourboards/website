@@ -1,6 +1,5 @@
 ---
 layout: post
-hero-bg-color: '#FFFFFF'
 uid: procharge
 title:  'ProCharge'
 tags: portfolio
@@ -34,18 +33,8 @@ tags: portfolio
 
 <ul class="projects clearfix">
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/procharge/IMG_5968.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/procharge/IMG_5968.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/procharge/IMG_5804.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/procharge/IMG_5804.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/procharge/IMG_5965.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/procharge/IMG_5965.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/procharge/IMG_5971.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/procharge/IMG_5971.jpg"></a>
     </div>
   </li>
   <li>
@@ -54,13 +43,23 @@ tags: portfolio
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/procharge/IMG_5971.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/procharge/IMG_5971.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/procharge/IMG_5942.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/procharge/IMG_5942.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/procharge/IMG_5942.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/procharge/IMG_5942.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/procharge/IMG_5804.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/procharge/IMG_5804.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/procharge/IMG_5968.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/procharge/IMG_5968.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/procharge/IMG_5965.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/procharge/IMG_5965.jpg"></a>
     </div>
   </li>
 </ul>

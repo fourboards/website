@@ -1,6 +1,5 @@
 ---
 layout: post
-hero-bg-color: '#FFFFFF'
 uid: touchpad-production-equipment
 title:  'TouchPad Production Equipment'
 tags: portfolio
@@ -19,8 +18,8 @@ tags: portfolio
 
 <ul class="projects clearfix">
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-production-equipment/IMG_20180516_201854.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-production-equipment/IMG_20180516_201854.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-production-equipment/IMG_20180516_201846.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-production-equipment/IMG_20180516_201846.jpg"></a>
     </div>
   </li>
   <li>
@@ -29,13 +28,13 @@ tags: portfolio
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-production-equipment/IMG_20180327_161244.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-production-equipment/IMG_20180327_161244.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-production-equipment/IMG_20180516_201854.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-production-equipment/IMG_20180516_201854.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-production-equipment/IMG_20180516_201846.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-production-equipment/IMG_20180516_201846.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-production-equipment/IMG_20180327_161325.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-production-equipment/IMG_20180327_161325.jpg"></a>
     </div>
   </li>
   <li>
@@ -44,8 +43,8 @@ tags: portfolio
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-production-equipment/IMG_20180327_161325.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-production-equipment/IMG_20180327_161325.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/touchpad-production-equipment/IMG_20180327_161244.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/touchpad-production-equipment/IMG_20180327_161244.jpg"></a>
     </div>
   </li>
 </ul>

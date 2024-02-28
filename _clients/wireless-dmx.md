@@ -1,9 +1,8 @@
 ---
 layout: post
-hero-bg-color: '#FFFFFF'
 uid: wireless-dmx
 title:  'Wireless DMX'
-tags: portfolio
+tags: portfolio arrows
 ---
 
 <a href="{{ site.url }}/images/portfolio/wireless-dmx/IMG_20180406_143836.jpg">
@@ -19,8 +18,13 @@ tags: portfolio
 
 <ul class="projects clearfix">
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/wireless-dmx/IMG_20180409_130532.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/wireless-dmx/IMG_20180409_130532.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/wireless-dmx/IMG_20180409_130447.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/wireless-dmx/IMG_20180409_130447.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/wireless-dmx/IMG_20180409_130527.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/wireless-dmx/IMG_20180409_130527.jpg"></a>
     </div>
   </li>
   <li>
@@ -29,8 +33,8 @@ tags: portfolio
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/wireless-dmx/IMG_20180406_143821.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/wireless-dmx/IMG_20180406_143821.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/wireless-dmx/IMG_20180409_130532.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/wireless-dmx/IMG_20180409_130532.jpg"></a>
     </div>
   </li>
   <li>
@@ -39,13 +43,8 @@ tags: portfolio
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/wireless-dmx/IMG_20180409_130447.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/wireless-dmx/IMG_20180409_130447.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/wireless-dmx/IMG_20180409_130527.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/wireless-dmx/IMG_20180409_130527.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/wireless-dmx/IMG_20180406_143821.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/wireless-dmx/IMG_20180406_143821.jpg"></a>
     </div>
   </li>
 </ul>

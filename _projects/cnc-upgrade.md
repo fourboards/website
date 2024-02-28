@@ -1,9 +1,8 @@
 ---
 layout: post
-hero-bg-color: '#FFFFFF'
 uid: cnc-upgrade
 title:  'CNC Upgrade'
-tags: portfolio
+tags: portfolio arrows
 ---
 
 <a href="{{ site.url }}/images/portfolio/cnc-upgrade/IMAG1771.jpg">
@@ -39,13 +38,18 @@ tags: portfolio
 
 <ul class="projects clearfix">
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/cnc-upgrade/IMAG1733.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/cnc-upgrade/IMAG1733.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/cnc-upgrade/IMAG1761.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/cnc-upgrade/IMAG1761.jpg"></a>
     </div>
   </li>
   <li>
     <div class="project" style='background-image: url({{ site.url }}/images/portfolio/cnc-upgrade/IMAG1774.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/cnc-upgrade/IMAG1774.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/cnc-upgrade/IMAG1741.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/cnc-upgrade/IMAG1741.jpg"></a>
     </div>
   </li>
   <li>
@@ -59,13 +63,8 @@ tags: portfolio
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/cnc-upgrade/IMAG1741.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/cnc-upgrade/IMAG1741.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/cnc-upgrade/IMAG1761.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/cnc-upgrade/IMAG1761.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/cnc-upgrade/IMAG1733.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/cnc-upgrade/IMAG1733.jpg"></a>
     </div>
   </li>
 </ul>

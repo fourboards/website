@@ -1,9 +1,8 @@
 ---
 layout: post
-hero-bg-color: '#FFFFFF'
 uid: diy-jbc
 title:  'DIY JBC'
-tags: portfolio
+tags: portfolio arrows
 ---
 
 <a href="{{ site.url }}/images/portfolio/diy-jbc/IMG_5667.jpg">
@@ -63,16 +62,6 @@ tags: portfolio
 
 <ul class="projects clearfix">
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/diy-jbc/IMG_20170617_163425.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/diy-jbc/IMG_20170617_163425.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/diy-jbc/IMG_20170621_153150.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/diy-jbc/IMG_20170621_153150.jpg"></a>
-    </div>
-  </li>
-  <li>
     <div class="project" style='background-image: url({{ site.url }}/images/portfolio/diy-jbc/IMG_20170621_130712.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/diy-jbc/IMG_20170621_130712.jpg"></a>
     </div>
@@ -83,13 +72,23 @@ tags: portfolio
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/diy-jbc/IMG_20170617_191903.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/diy-jbc/IMG_20170617_191903.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/diy-jbc/IMG_20170621_153150.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/diy-jbc/IMG_20170621_153150.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/diy-jbc/IMG_20170617_163425.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/diy-jbc/IMG_20170617_163425.jpg"></a>
     </div>
   </li>
   <li>
     <div class="project" style='background-image: url({{ site.url }}/images/portfolio/diy-jbc/IMG_20170617_160425.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/diy-jbc/IMG_20170617_160425.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/diy-jbc/IMG_20170617_191903.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/diy-jbc/IMG_20170617_191903.jpg"></a>
     </div>
   </li>
 </ul>
@@ -128,8 +127,8 @@ tags: portfolio
 
 <ul class="projects clearfix">
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/diy-jbc/IMG_20170622_121108.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/diy-jbc/IMG_20170622_121108.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/diy-jbc/IMG_20170622_121051.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/diy-jbc/IMG_20170622_121051.jpg"></a>
     </div>
   </li>
   <li>
@@ -138,8 +137,8 @@ tags: portfolio
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/diy-jbc/IMG_20170622_121051.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/diy-jbc/IMG_20170622_121051.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/diy-jbc/IMG_20170622_121032.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/diy-jbc/IMG_20170622_121032.jpg"></a>
     </div>
   </li>
   <li>
@@ -148,13 +147,13 @@ tags: portfolio
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/diy-jbc/IMG_20170622_121335.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/diy-jbc/IMG_20170622_121335.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/diy-jbc/IMG_20170622_121108.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/diy-jbc/IMG_20170622_121108.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/diy-jbc/IMG_20170622_121032.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/diy-jbc/IMG_20170622_121032.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/diy-jbc/IMG_20170622_121335.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/diy-jbc/IMG_20170622_121335.jpg"></a>
     </div>
   </li>
 </ul>

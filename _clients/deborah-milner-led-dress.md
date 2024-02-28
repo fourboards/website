@@ -1,9 +1,8 @@
 ---
 layout: post
-hero-bg-color: '#FFFFFF'
 uid: deborah-milner-led-dress
 title:  'Deborah Milner LED Dress'
-tags: portfolio
+tags: portfolio arrows
 ---
 
 <a href="{{ site.url }}/images/portfolio/deborah-milner-led-dress/IMG_20170912_121113.jpg">
@@ -23,18 +22,13 @@ tags: portfolio
 
 <ul class="projects clearfix">
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/deborah-milner-led-dress/IMG_20170912_172353.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/deborah-milner-led-dress/IMG_20170912_172353.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/deborah-milner-led-dress/IMG_20170913_145252.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/deborah-milner-led-dress/IMG_20170913_145252.jpg"></a>
-    </div>
-  </li>
-  <li>
     <div class="project" style='background-image: url({{ site.url }}/images/portfolio/deborah-milner-led-dress/IMG_20170913_145421.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/deborah-milner-led-dress/IMG_20170913_145421.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/deborah-milner-led-dress/IMG_20170912_172353.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/deborah-milner-led-dress/IMG_20170912_172353.jpg"></a>
     </div>
   </li>
   <li>
@@ -43,13 +37,18 @@ tags: portfolio
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/deborah-milner-led-dress/IMG_20170912_121156.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/deborah-milner-led-dress/IMG_20170912_121156.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/deborah-milner-led-dress/IMG_20170913_145252.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/deborah-milner-led-dress/IMG_20170913_145252.jpg"></a>
     </div>
   </li>
   <li>
     <div class="project" style='background-image: url({{ site.url }}/images/portfolio/deborah-milner-led-dress/IMG_20170913_145406.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/deborah-milner-led-dress/IMG_20170913_145406.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/deborah-milner-led-dress/IMG_20170912_121156.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/deborah-milner-led-dress/IMG_20170912_121156.jpg"></a>
     </div>
   </li>
 </ul>
