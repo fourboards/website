@@ -18,8 +18,18 @@ tags: portfolio arrows
 
 <ul class="projects clearfix">
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/led-guitar/IMG_20180217_185925.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/led-guitar/IMG_20180217_185925.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/led-guitar/IMG_20180217_125725.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/led-guitar/IMG_20180217_125725.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/led-guitar/IMG_20180217_190307.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/led-guitar/IMG_20180217_190307.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/led-guitar/IMG_20180217_125715_01.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/led-guitar/IMG_20180217_125715_01.jpg"></a>
     </div>
   </li>
   <li>
@@ -33,18 +43,8 @@ tags: portfolio arrows
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/led-guitar/IMG_20180217_125715_01.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/led-guitar/IMG_20180217_125715_01.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/led-guitar/IMG_20180217_125725.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/led-guitar/IMG_20180217_125725.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/led-guitar/IMG_20180217_190307.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/led-guitar/IMG_20180217_190307.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/led-guitar/IMG_20180217_185925.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/led-guitar/IMG_20180217_185925.jpg"></a>
     </div>
   </li>
 </ul>

@@ -86,13 +86,13 @@ tags: portfolio arrows
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/z-probe-board/IMAG0873+%281%29.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/z-probe-board/IMAG0873+%281%29.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/z-probe-board/IMAG0882.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/z-probe-board/IMAG0882.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/z-probe-board/IMG_4807+-+Banner.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/z-probe-board/IMG_4807+-+Banner.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/z-probe-board/IMAG0873+%281%29.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/z-probe-board/IMAG0873+%281%29.jpg"></a>
     </div>
   </li>
   <li>
@@ -101,13 +101,13 @@ tags: portfolio arrows
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/z-probe-board/IMAG0882.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/z-probe-board/IMAG0882.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/z-probe-board/IMAG0870+%281%29.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/z-probe-board/IMAG0870+%281%29.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/z-probe-board/IMAG0870+%281%29.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/z-probe-board/IMAG0870+%281%29.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/z-probe-board/IMG_4807+-+Banner.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/z-probe-board/IMG_4807+-+Banner.jpg"></a>
     </div>
   </li>
 </ul>
@@ -143,11 +143,6 @@ tags: portfolio arrows
 
 <ul class="projects clearfix">
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/z-probe-board/IMG_5076.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/z-probe-board/IMG_5076.jpg"></a>
-    </div>
-  </li>
-  <li>
     <div class="project" style='background-image: url({{ site.url }}/images/portfolio/z-probe-board/IMG_5068.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/z-probe-board/IMG_5068.jpg"></a>
     </div>
@@ -155,6 +150,11 @@ tags: portfolio arrows
   <li>
     <div class="project" style='background-image: url({{ site.url }}/images/portfolio/z-probe-board/IMG_5071.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/z-probe-board/IMG_5071.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/z-probe-board/IMG_5073.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/z-probe-board/IMG_5073.jpg"></a>
     </div>
   </li>
   <li>
@@ -168,8 +168,8 @@ tags: portfolio arrows
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/z-probe-board/IMG_5073.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/z-probe-board/IMG_5073.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/z-probe-board/IMG_5076.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/z-probe-board/IMG_5076.jpg"></a>
     </div>
   </li>
 </ul>

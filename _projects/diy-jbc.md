@@ -62,8 +62,13 @@ tags: portfolio arrows
 
 <ul class="projects clearfix">
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/diy-jbc/IMG_20170617_160425.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/diy-jbc/IMG_20170617_160425.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/diy-jbc/IMG_20170621_131248.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/diy-jbc/IMG_20170621_131248.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/diy-jbc/IMG_20170617_163425.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/diy-jbc/IMG_20170617_163425.jpg"></a>
     </div>
   </li>
   <li>
@@ -77,18 +82,13 @@ tags: portfolio arrows
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/diy-jbc/IMG_20170621_131248.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/diy-jbc/IMG_20170621_131248.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/diy-jbc/IMG_20170617_160425.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/diy-jbc/IMG_20170617_160425.jpg"></a>
     </div>
   </li>
   <li>
     <div class="project" style='background-image: url({{ site.url }}/images/portfolio/diy-jbc/IMG_20170621_153150.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/diy-jbc/IMG_20170621_153150.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/diy-jbc/IMG_20170617_163425.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/diy-jbc/IMG_20170617_163425.jpg"></a>
     </div>
   </li>
 </ul>
@@ -127,13 +127,8 @@ tags: portfolio arrows
 
 <ul class="projects clearfix">
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/diy-jbc/IMG_20170622_121032.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/diy-jbc/IMG_20170622_121032.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/diy-jbc/IMG_20170622_121325.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/diy-jbc/IMG_20170622_121325.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/diy-jbc/IMG_20170622_121335.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/diy-jbc/IMG_20170622_121335.jpg"></a>
     </div>
   </li>
   <li>
@@ -142,8 +137,8 @@ tags: portfolio arrows
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/diy-jbc/IMG_20170622_121335.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/diy-jbc/IMG_20170622_121335.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/diy-jbc/IMG_20170612_182834.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/diy-jbc/IMG_20170612_182834.jpg"></a>
     </div>
   </li>
   <li>
@@ -152,8 +147,13 @@ tags: portfolio arrows
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/diy-jbc/IMG_20170612_182834.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/diy-jbc/IMG_20170612_182834.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/diy-jbc/IMG_20170622_121325.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/diy-jbc/IMG_20170622_121325.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/diy-jbc/IMG_20170622_121032.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/diy-jbc/IMG_20170622_121032.jpg"></a>
     </div>
   </li>
 </ul>

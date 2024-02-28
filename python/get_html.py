@@ -8,7 +8,7 @@ def process_html(html_in, filename):
     html_in = "".join([s for s in html_in.strip().splitlines(True) if s.strip()])
 
     soup = BeautifulSoup(html_in, 'html.parser')
-    html_elements = soup.find_all(['div', 'hr', 'pre'], recursive=False)
+    html_elements = soup.find_all(['div', 'hr', 'pre', 'a'], recursive=False)
     #if filename == "procharge-support":
         #print(html_elements)
 
@@ -19,6 +19,10 @@ def process_html(html_in, filename):
 
         if html.name == "hr":
             html_out = html_out + f'<hr>\n\n'
+        if html.name == "a":
+            name = html.get('name', [])
+            if len(name) > 0:
+                html_out = html_out + f'<a name="{name}"></a>\n'
         else:
             div_class = html.get('class', [])
             if len(div_class) > 0:
