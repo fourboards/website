@@ -27,7 +27,7 @@ tags: portfolio arrows
 
 
 <div class="projects clearfix">
-<iframe src="//www.youtube.com/embed/QOdQKW8wp44?wmode=opaque&enablejsapi=1" height="480" width="854" scrolling="no" frameborder="0" allowfullscreen=""><br/></iframe>
+<iframe src="//www.youtube.com/embed/J6yhuDCtLDg?si=o5sFIyf9aoNJPOQp" height="480" width="854" scrolling="no" frameborder="0" allowfullscreen=""><br/></iframe>
 <br>
 
 
@@ -120,21 +120,14 @@ tags: portfolio arrows
   .  From the renders above you can see how the board is sandwiched between two 3D prints to position it for scanning.
  </p>
  <p class="" style="text-align:center;white-space:pre-wrap;">
-  The idea is that by having the segmented 3D print on top of the board, all external light can be removed improving the accuracy of the results.  On my desk (in the video below), this works very well but when on the robot slight positioning errors seem to have a big effect on the accuracy of the scanner.  Below you can see it in action, going through the calibration process and then some example scans:
+  The idea is that by having the segmented 3D print on top of the board, all external light can be removed improving the accuracy of the results.  On my desk, this works very well but when on the robot slight positioning errors seem to have a big effect on the accuracy of the scanner.
  </p>
 </div>
 
 
-<div class="projects clearfix">
-<iframe src="//www.youtube.com/embed/xL93pM4YcC4?wmode=opaque&enablejsapi=1" height="480" width="854" scrolling="no" frameborder="0" allowfullscreen=""><br/></iframe>
-<br>
-
-
-<hr>
-
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
-  whilst I wanted to write the rubix cube solving code myself I realised that this was going to significantly delay the project and being before exams I wanted to make some quick progress.  Therefor I turned to an android app called cubemate that is able to scan the cube and then produce a solution.  I contacted cubemate and asked if there was a possibility he could add the functionality to allow my robot to send the cube permutation over bluetooth and receive the solution back.  He was very helpful and we soon had a much simpler app with just the functionality and none of the GUI from the public version.  You can see from this part of
+  Whilst I wanted to write the rubix cube solving code myself I realised that this was going to significantly delay the project and being before exams I wanted to make some quick progress.  Therefor I turned to an android app called cubemate that is able to scan the cube and then produce a solution.  I contacted cubemate and asked if there was a possibility he could add the functionality to allow my robot to send the cube permutation over bluetooth and receive the solution back.  He was very helpful and we soon had a much simpler app with just the functionality and none of the GUI from the public version.  You can see from this part of
   <a href="https://youtu.be/sNkb2Si3838?t=1m13s" target="_blank">
    this video
   </a>
