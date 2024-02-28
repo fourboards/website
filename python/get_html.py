@@ -57,7 +57,20 @@ def process_html(html_in, filename):
                     pass
 
                 elif div_class == "sqs-block-button-container":
-                    html_out = html_out + html.prettify()
+
+                    link = html.find_all('a')
+                    href = link[0].get('href', [])
+                    text = link[0].text
+                    print(f"button link: {href}, text: {text}")
+
+                    html_out = html_out + '<div class="projects clearfix">\n'
+                    html_out = html_out + f' <a href="{href}">\n'
+                    html_out = html_out + '  <button class="button" role="button">'
+                    html_out = html_out + f'   {text}'
+                    html_out = html_out + '  </button>\n'
+                    html_out = html_out + ' </a>\n'
+                    html_out = html_out + '</div>\n'
+                    html_out = html_out + '<br>\n'
                     html_out = html_out + "\n\n"
 
                 elif div_class == "intrinsic":
@@ -75,6 +88,10 @@ def process_html(html_in, filename):
             os.mkdir(output_dir)
         except FileExistsError:
             pass
+
+    if 'href="/' in html_out:
+        print(f"detected local page link in {filename}")
+        html_out = html_out.replace('href="/', 'href="{{ site.url }}/')
 
     return html_out
 

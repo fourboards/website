@@ -59,7 +59,7 @@ tags: portfolio
  </p>
  <p class="" style="text-align:center;white-space:pre-wrap;">
   Once this had all been worked out I was able to proceed with production.  I used doubled up acetates in order to make up for any imperfections in the printer quality and then used the method described above to expose the boards.  For exposure I have an old scanner which is fitted with an array of UV LEDs.  It then has an Arduino controlling the original stepper motor and is able to expose at different speeds and different sized boards (see '
-  <a href="/more">
+  <a href="{{ site.url }}/more">
    More
   </a>
   ' for further details).   Next up they were developed in developer for 2 minutes and then quickly rinsed under cold water.  After developing, both boards were etched in Sodium Chloride which took about an hour because of the size of the boards and the age of the acid.  Finally they were rinsed one more time and then I removed the photo resist using acetone.
@@ -72,13 +72,13 @@ tags: portfolio
 
 <ul class="projects clearfix">
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/qr-code-clock/3.png)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/3.png"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/qr-code-clock/2.png)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/2.png"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/qr-code-clock/1.png)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/1.png"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/qr-code-clock/4.png)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/4.png"></a>
     </div>
   </li>
   <li>
@@ -92,13 +92,13 @@ tags: portfolio
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/qr-code-clock/4.png)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/4.png"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/qr-code-clock/3.png)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/3.png"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/qr-code-clock/2.png)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/2.png"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/qr-code-clock/1.png)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/1.png"></a>
     </div>
   </li>
 </ul>
@@ -120,8 +120,13 @@ tags: portfolio
 
 <ul class="projects clearfix">
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/qr-code-clock/6.png)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/6.png"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/qr-code-clock/11.png)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/11.png"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/qr-code-clock/7.png)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/7.png"></a>
     </div>
   </li>
   <li>
@@ -130,23 +135,18 @@ tags: portfolio
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/qr-code-clock/10.png)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/10.png"></a>
-    </div>
-  </li>
-  <li>
     <div class="project" style='background-image: url({{ site.url }}/images/portfolio/qr-code-clock/8.png)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/8.png"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/qr-code-clock/11.png)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/11.png"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/qr-code-clock/6.png)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/6.png"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/qr-code-clock/7.png)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/7.png"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/qr-code-clock/10.png)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/10.png"></a>
     </div>
   </li>
 </ul>
@@ -200,6 +200,11 @@ tags: portfolio
 
 <ul class="projects clearfix">
   <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/qr-code-clock/QR+code+casing5.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/QR+code+casing5.jpg"></a>
+    </div>
+  </li>
+  <li>
     <div class="project" style='background-image: url({{ site.url }}/images/portfolio/qr-code-clock/QR+code+casing4.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/QR+code+casing4.jpg"></a>
     </div>
@@ -207,11 +212,6 @@ tags: portfolio
   <li>
     <div class="project" style='background-image: url({{ site.url }}/images/portfolio/qr-code-clock/QR+code+casing2.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/QR+code+casing2.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/qr-code-clock/QR+code+casing6.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/QR+code+casing6.jpg"></a>
     </div>
   </li>
   <li>
@@ -225,8 +225,8 @@ tags: portfolio
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/qr-code-clock/QR+code+casing5.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/QR+code+casing5.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/qr-code-clock/QR+code+casing6.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/QR+code+casing6.jpg"></a>
     </div>
   </li>
 </ul>
@@ -264,13 +264,13 @@ tags: portfolio
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/qr-code-clock/IMG_4904.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/IMG_4904.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/qr-code-clock/IMG_4088.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/IMG_4088.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/qr-code-clock/IMG_5176.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/IMG_5176.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/qr-code-clock/IMG_4904.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/IMG_4904.jpg"></a>
     </div>
   </li>
   <li>
@@ -279,8 +279,8 @@ tags: portfolio
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/qr-code-clock/IMG_4088.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/IMG_4088.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/qr-code-clock/IMG_5176.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/qr-code-clock/IMG_5176.jpg"></a>
     </div>
   </li>
 </ul>

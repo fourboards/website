@@ -22,17 +22,20 @@ tags: portfolio
 </div>
 
 
-<div class="sqs-block-button-container sqs-block-button-container--center" data-alignment="center" data-animation-role="button" data-button-size="small" data-button-type="tertiary">
- <a class="sqs-block-button-element--small sqs-button-element--tertiary sqs-block-button-element" href="/procharge-support">
-  ProCharge Support
+<div class="projects clearfix">
+ <a href="{{ site.url }}/procharge-support">
+  <button class="button" role="button">   
+    ProCharge Support
+    </button>
  </a>
 </div>
+<br>
 
 
 <ul class="projects clearfix">
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/procharge/IMG_5971.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/procharge/IMG_5971.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/procharge/IMG_5968.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/procharge/IMG_5968.jpg"></a>
     </div>
   </li>
   <li>
@@ -41,8 +44,8 @@ tags: portfolio
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/procharge/IMG_5968.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/procharge/IMG_5968.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/procharge/IMG_5965.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/procharge/IMG_5965.jpg"></a>
     </div>
   </li>
   <li>
@@ -51,8 +54,8 @@ tags: portfolio
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/procharge/IMG_5965.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/procharge/IMG_5965.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/procharge/IMG_5971.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/procharge/IMG_5971.jpg"></a>
     </div>
   </li>
   <li>
@@ -81,11 +84,14 @@ tags: portfolio
 </div>
 
 
-<div class="sqs-block-button-container sqs-block-button-container--center" data-alignment="center" data-animation-role="button" data-button-size="small" data-button-type="tertiary">
- <a class="sqs-block-button-element--small sqs-button-element--tertiary sqs-block-button-element" href="https://www.kickstarter.com/projects/fourboards/procharge-2">
-  Check out the Kickstarter
+<div class="projects clearfix">
+ <a href="https://www.kickstarter.com/projects/fourboards/procharge-2">
+  <button class="button" role="button">   
+    Check out the Kickstarter
+    </button>
  </a>
 </div>
+<br>
 
 
 <hr>

@@ -82,11 +82,6 @@ tags: portfolio
 
 <ul class="projects clearfix">
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/z-probe-board/IMG_4807+-+Banner.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/z-probe-board/IMG_4807+-+Banner.jpg"></a>
-    </div>
-  </li>
-  <li>
     <div class="project" style='background-image: url({{ site.url }}/images/portfolio/z-probe-board/IMAG0875.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/z-probe-board/IMAG0875.jpg"></a>
     </div>
@@ -97,18 +92,23 @@ tags: portfolio
     </div>
   </li>
   <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/z-probe-board/IMG_4807+-+Banner.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/z-probe-board/IMG_4807+-+Banner.jpg"></a>
+    </div>
+  </li>
+  <li>
     <div class="project" style='background-image: url({{ site.url }}/images/portfolio/z-probe-board/IMAG0873+%281%29.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/z-probe-board/IMAG0873+%281%29.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/z-probe-board/IMAG0884+%281%29.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/z-probe-board/IMAG0884+%281%29.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/z-probe-board/IMAG0870+%281%29.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/z-probe-board/IMAG0870+%281%29.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/z-probe-board/IMAG0870+%281%29.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/z-probe-board/IMAG0870+%281%29.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/z-probe-board/IMAG0884+%281%29.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/z-probe-board/IMAG0884+%281%29.jpg"></a>
     </div>
   </li>
 </ul>
@@ -144,18 +144,13 @@ tags: portfolio
 
 <ul class="projects clearfix">
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/z-probe-board/IMG_5071.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/z-probe-board/IMG_5071.jpg"></a>
-    </div>
-  </li>
-  <li>
     <div class="project" style='background-image: url({{ site.url }}/images/portfolio/z-probe-board/IMG_5076.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/z-probe-board/IMG_5076.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/z-probe-board/IMG_5080.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/z-probe-board/IMG_5080.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/z-probe-board/IMG_5084.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/z-probe-board/IMG_5084.jpg"></a>
     </div>
   </li>
   <li>
@@ -164,13 +159,18 @@ tags: portfolio
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/z-probe-board/IMG_5068.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/z-probe-board/IMG_5068.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/z-probe-board/IMG_5071.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/z-probe-board/IMG_5071.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/z-probe-board/IMG_5084.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/z-probe-board/IMG_5084.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/z-probe-board/IMG_5080.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/z-probe-board/IMG_5080.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/z-probe-board/IMG_5068.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/z-probe-board/IMG_5068.jpg"></a>
     </div>
   </li>
 </ul>

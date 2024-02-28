@@ -49,13 +49,13 @@ tags: portfolio
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/cnc-upgrade/IMAG1515.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/cnc-upgrade/IMAG1515.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/cnc-upgrade/IMAG1737.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/cnc-upgrade/IMAG1737.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/cnc-upgrade/IMAG1737.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/cnc-upgrade/IMAG1737.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/cnc-upgrade/IMAG1515.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/cnc-upgrade/IMAG1515.jpg"></a>
     </div>
   </li>
   <li>

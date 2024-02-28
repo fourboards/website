@@ -33,29 +33,30 @@ tags: portfolio
 </div>
 
 
-<div class="sqs-block-button-container sqs-block-button-container--center" data-alignment="center" data-animation-role="button" data-button-size="small" data-button-type="tertiary">
- <a class="sqs-block-button-element--small sqs-button-element--tertiary sqs-block-button-element" href="http://mori.london/" target="_blank">
-  Buy yours
+<div class="projects clearfix">
+ <a href="http://mori.london/">
+  <button class="button" role="button">   
+    Buy yours
+    </button>
  </a>
 </div>
+<br>
 
 
-<div class="sqs-block-button-container sqs-block-button-container--center" data-alignment="center" data-animation-role="button" data-button-size="small" data-button-type="tertiary">
- <a class="sqs-block-button-element--small sqs-button-element--tertiary sqs-block-button-element" href="https://www.kickstarter.com/projects/479753666/led-candles-by-morilondon" target="_blank">
-  Visit Kickstarter
+<div class="projects clearfix">
+ <a href="https://www.kickstarter.com/projects/479753666/led-candles-by-morilondon">
+  <button class="button" role="button">   
+    Visit Kickstarter
+    </button>
  </a>
 </div>
+<br>
 
 
 <ul class="projects clearfix">
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/morilondon-candles/IMAG0239.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/morilondon-candles/IMAG0239.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/morilondon-candles/18011372_353886891679558_2717923805342203904_n.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/morilondon-candles/18011372_353886891679558_2717923805342203904_n.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/morilondon-candles/18013688_243311076073730_2366892378733674496_n.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/morilondon-candles/18013688_243311076073730_2366892378733674496_n.jpg"></a>
     </div>
   </li>
   <li>
@@ -64,18 +65,23 @@ tags: portfolio
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/morilondon-candles/18013688_243311076073730_2366892378733674496_n.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/morilondon-candles/18013688_243311076073730_2366892378733674496_n.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/morilondon-candles/IMAG0261.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/morilondon-candles/IMAG0261.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/morilondon-candles/18011372_353886891679558_2717923805342203904_n.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/morilondon-candles/18011372_353886891679558_2717923805342203904_n.jpg"></a>
     </div>
   </li>
   <li>
     <div class="project" style='background-image: url({{ site.url }}/images/portfolio/morilondon-candles/IMG_20170420_135521.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/morilondon-candles/IMG_20170420_135521.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/morilondon-candles/IMAG0239.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/morilondon-candles/IMAG0239.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/morilondon-candles/IMAG0261.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/morilondon-candles/IMAG0261.jpg"></a>
     </div>
   </li>
 </ul>

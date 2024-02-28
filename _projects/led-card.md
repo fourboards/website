@@ -73,11 +73,11 @@ tags: portfolio
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
   A timer interrupt on timer 1 has a frequency of 600hz.  During each interrupt the row FETs are all switched off, the shift registers are set according to the boolean array for the LEDs and then the next row's FET is switched back on.  This means the display refreshes at a rate of 60Hz which is standard for many computer monitors.  Data is sent to the shift registers via SPI which involves the latch pin being pulled high, 3 bytes of information being shifted out (1 byte for each register) and then the latch pin being pulled low again to signal the end of the transfer.  A variable called rowcount is then incremented to ensure the next row is switched on next time the interrupt fires.  This technique of controlling LEDs in rows and colums is called multiplexing and is how other projects such as the
-  <a href="/new-page-1">
+  <a href="{{ site.url }}/new-page-1">
    QR Code Clock
   </a>
   and
-  <a href="/rgb-led-cube">
+  <a href="{{ site.url }}/rgb-led-cube">
    RGB LED Cube
   </a>
   work.

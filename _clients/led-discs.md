@@ -13,6 +13,16 @@ tags: portfolio
 
 <ul class="projects clearfix">
   <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/led-discs/IMG_20180717_093659.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/led-discs/IMG_20180717_093659.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/led-discs/IMG_20180717_112445.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/led-discs/IMG_20180717_112445.jpg"></a>
+    </div>
+  </li>
+  <li>
     <div class="project" style='background-image: url({{ site.url }}/images/portfolio/led-discs/IMG_20180723_101322.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/led-discs/IMG_20180723_101322.jpg"></a>
     </div>
@@ -23,11 +33,6 @@ tags: portfolio
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/led-discs/IMG_20180717_093659.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/led-discs/IMG_20180717_093659.jpg"></a>
-    </div>
-  </li>
-  <li>
     <div class="project" style='background-image: url({{ site.url }}/images/portfolio/led-discs/IMG_20180717_093653.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/led-discs/IMG_20180717_093653.jpg"></a>
     </div>
@@ -35,11 +40,6 @@ tags: portfolio
   <li>
     <div class="project" style='background-image: url({{ site.url }}/images/portfolio/led-discs/IMG_20180716_122711.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/led-discs/IMG_20180716_122711.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/led-discs/IMG_20180717_112445.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/led-discs/IMG_20180717_112445.jpg"></a>
     </div>
   </li>
 </ul>

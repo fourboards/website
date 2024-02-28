@@ -24,13 +24,13 @@ tags: portfolio
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/dragon-eyes/IMG_20180313_131430.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/dragon-eyes/IMG_20180313_131430.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/dragon-eyes/IMG_20180313_131543.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/dragon-eyes/IMG_20180313_131543.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/dragon-eyes/IMG_20180313_131543.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/dragon-eyes/IMG_20180313_131543.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/dragon-eyes/IMG_20180313_131430.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/dragon-eyes/IMG_20180313_131430.jpg"></a>
     </div>
   </li>
   <li>
@@ -39,13 +39,13 @@ tags: portfolio
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/dragon-eyes/IMG_20180313_131537.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/dragon-eyes/IMG_20180313_131537.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/dragon-eyes/dragon_eyes.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/dragon-eyes/dragon_eyes.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/dragon-eyes/dragon_eyes.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/dragon-eyes/dragon_eyes.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/dragon-eyes/IMG_20180313_131537.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/dragon-eyes/IMG_20180313_131537.jpg"></a>
     </div>
   </li>
 </ul>

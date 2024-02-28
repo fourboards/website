@@ -34,13 +34,8 @@ tags: portfolio
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/cycle-trainer/IMG_4680.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/cycle-trainer/IMG_4680.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/cycle-trainer/IMG_4687.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/cycle-trainer/IMG_4687.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/cycle-trainer/IMG_4663.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/cycle-trainer/IMG_4663.jpg"></a>
     </div>
   </li>
   <li>
@@ -49,13 +44,18 @@ tags: portfolio
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/cycle-trainer/IMG_4663.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/cycle-trainer/IMG_4663.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/cycle-trainer/IMG_4680.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/cycle-trainer/IMG_4680.jpg"></a>
     </div>
   </li>
   <li>
     <div class="project" style='background-image: url({{ site.url }}/images/portfolio/cycle-trainer/IMG_4692.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/cycle-trainer/IMG_4692.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/cycle-trainer/IMG_4687.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/cycle-trainer/IMG_4687.jpg"></a>
     </div>
   </li>
 </ul>

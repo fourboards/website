@@ -55,18 +55,13 @@ tags: portfolio
 
 <ul class="projects clearfix">
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/bike-speakers/Complete+Speakers1.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/bike-speakers/Complete+Speakers1.jpg"></a>
-    </div>
-  </li>
-  <li>
     <div class="project" style='background-image: url({{ site.url }}/images/portfolio/bike-speakers/Complete+Speakers4.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/bike-speakers/Complete+Speakers4.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/bike-speakers/Complete+Speakers5.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/bike-speakers/Complete+Speakers5.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/bike-speakers/Complete+Speakers2.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/bike-speakers/Complete+Speakers2.jpg"></a>
     </div>
   </li>
   <li>
@@ -75,8 +70,13 @@ tags: portfolio
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/bike-speakers/Complete+Speakers2.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/bike-speakers/Complete+Speakers2.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/bike-speakers/Complete+Speakers1.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/bike-speakers/Complete+Speakers1.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/bike-speakers/Complete+Speakers5.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/bike-speakers/Complete+Speakers5.jpg"></a>
     </div>
   </li>
   <li>
@@ -109,18 +109,8 @@ tags: portfolio
 
 <ul class="projects clearfix">
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/bike-speakers/IMG_4823.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/bike-speakers/IMG_4823.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/bike-speakers/IMG_4821.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/bike-speakers/IMG_4821.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/bike-speakers/IMG_4829.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/bike-speakers/IMG_4829.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/bike-speakers/IMG_4818.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/bike-speakers/IMG_4818.jpg"></a>
     </div>
   </li>
   <li>
@@ -129,13 +119,23 @@ tags: portfolio
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/bike-speakers/IMG_4818.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/bike-speakers/IMG_4818.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/bike-speakers/IMG_4829.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/bike-speakers/IMG_4829.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/bike-speakers/IMG_4823.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/bike-speakers/IMG_4823.jpg"></a>
     </div>
   </li>
   <li>
     <div class="project" style='background-image: url({{ site.url }}/images/portfolio/bike-speakers/IMG_4813.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/bike-speakers/IMG_4813.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/bike-speakers/IMG_4821.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/bike-speakers/IMG_4821.jpg"></a>
     </div>
   </li>
 </ul>
