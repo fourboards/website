@@ -27,18 +27,14 @@
   <span class="menu-text">Menu</span>
 </div>
 
-<div class="site-logo">
-  <a href="{{site.url}}">
-    <img src="{{site.url}}/images/fourboards-icon.png">
-  </a>
+<div class="site-logo" onclick="window.location.href = '{{site.url}}'">
+  <img src="{{site.url}}/images/fourboards-icon.png">
 </div>
 
-<a href="{{site.url}}"></a>
-  <div class="home-btn">
-    <span class="static-menu-line"></span>
-    <span class="home-text">Home</span> 
-  </div>
-</a>
+<div class="home-btn" onclick="window.location.href = '{{site.url}}'">
+  <span class="static-menu-line"></span>
+  <span class="home-text">Home</span> 
+</div>
 
 <script>
 $( ".menu-btn" ).click(function() {
