@@ -63,12 +63,16 @@ def process_html(html_in, filename):
                         links = html.find_all('a')
                         if len(links) > 0:
                             href = links[0].get('href', [])
-                            print(f"Found images with links: {href}")
+                            #print(f"Found images with links: {href}")
                         else:
                             href = image
                         html_out = html_out + f'<div class="projects clearfix">\n'
                         html_out = html_out + f' <a href="{href}">\n'
-                        html_out = html_out + f'  <img src = "{image}">\n'
+                        if "Sponsored+by+PCBWay" in image:
+                            print("Found sponsored by PCBWay")
+                            html_out = html_out + f'  <img class = "pcbway" src = "{image}">\n'
+                        else:
+                            html_out = html_out + f'  <img src = "{image}">\n'
                         html_out = html_out + f' </a>\n'
                         html_out = html_out + f'</div>\n'
                     html_out = html_out + "<br>\n\n"
@@ -155,7 +159,7 @@ def extract_items_from_xml(xml_file):
                     html_file.write("layout: post\n")
                     html_file.write(f"uid: {link}\n")
                     html_file.write(f"title:  '{title}'\n")
-                    if ("touchpad" in link) or ("procharge" in link):
+                    if (link == "touchpad") or (link == "procharge"):
                         html_file.write(f"tags: portfolio\n")
                     else:
                         html_file.write(f"tags: portfolio arrows\n")

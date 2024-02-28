@@ -20,8 +20,18 @@ tags: portfolio arrows
 
 <ul class="projects clearfix">
   <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/customisable-led-panel/IMG_20180726_151041.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/customisable-led-panel/IMG_20180726_151041.jpg"></a>
+    </div>
+  </li>
+  <li>
     <div class="project" style='background-image: url({{ site.url }}/images/portfolio/customisable-led-panel/IMG_20180829_183928.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/customisable-led-panel/IMG_20180829_183928.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/customisable-led-panel/IMG_20180828_103713.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/customisable-led-panel/IMG_20180828_103713.jpg"></a>
     </div>
   </li>
   <li>
@@ -32,16 +42,6 @@ tags: portfolio arrows
   <li>
     <div class="project" style='background-image: url({{ site.url }}/images/portfolio/customisable-led-panel/IMG_20180726_151207.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/customisable-led-panel/IMG_20180726_151207.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/customisable-led-panel/IMG_20180726_151041.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/customisable-led-panel/IMG_20180726_151041.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/customisable-led-panel/IMG_20180828_103713.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/customisable-led-panel/IMG_20180828_103713.jpg"></a>
     </div>
   </li>
   <li>

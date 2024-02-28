@@ -2,7 +2,10 @@
  * ==|== normalize ==========================================================
  */
 
-
+.pcbway {
+  max-width: 25%;
+  float: right;
+}
  
 .code_block {
   background-color:lightgray;
