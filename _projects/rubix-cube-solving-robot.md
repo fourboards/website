@@ -5,10 +5,12 @@ title:  'Rubix Cube Solving Robot'
 tags: portfolio arrows
 ---
 
-<a href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/IMG_4858+-+Banner.jpg">
-<img src = "{{ site.url }}/images/portfolio/rubix-cube-solving-robot/IMG_4858+-+Banner.jpg">
-</a>
-
+<div class="projects clearfix">
+ <a href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/IMG_4858+-+Banner.jpg">
+  <img src = "{{ site.url }}/images/portfolio/rubix-cube-solving-robot/IMG_4858+-+Banner.jpg">
+ </a>
+</div>
+<br>
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -24,7 +26,10 @@ tags: portfolio arrows
 </div>
 
 
+<div class="projects clearfix">
 <iframe src="//www.youtube.com/embed/QOdQKW8wp44?wmode=opaque&enablejsapi=1" height="480" width="854" scrolling="no" frameborder="0" allowfullscreen=""><br/></iframe>
+<br>
+
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -47,13 +52,8 @@ tags: portfolio arrows
 
 <ul class="projects clearfix">
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/rubix-cube-solving-robot/Claw+Complete5.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/Claw+Complete5.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/rubix-cube-solving-robot/Claw+Complete2.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/Claw+Complete2.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/rubix-cube-solving-robot/Claw+Complete3.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/Claw+Complete3.jpg"></a>
     </div>
   </li>
   <li>
@@ -62,8 +62,8 @@ tags: portfolio arrows
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/rubix-cube-solving-robot/Claw+Complete3.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/Claw+Complete3.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/rubix-cube-solving-robot/Claw+Complete2.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/Claw+Complete2.jpg"></a>
     </div>
   </li>
   <li>
@@ -76,9 +76,14 @@ tags: portfolio arrows
       <a class="cover" href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/Claw+Complete1.jpg"></a>
     </div>
   </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/rubix-cube-solving-robot/Claw+Complete5.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/Claw+Complete5.jpg"></a>
+    </div>
+  </li>
 </ul>
 <br>
-
+<br>
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -99,10 +104,12 @@ tags: portfolio arrows
 </div>
 
 
-<a href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/image-asset-1.png">
-<img src = "{{ site.url }}/images/portfolio/rubix-cube-solving-robot/image-asset-1.png">
-</a>
-
+<div class="projects clearfix">
+ <a href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/image-asset-1.png">
+  <img src = "{{ site.url }}/images/portfolio/rubix-cube-solving-robot/image-asset-1.png">
+ </a>
+</div>
+<br>
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -118,7 +125,10 @@ tags: portfolio arrows
 </div>
 
 
+<div class="projects clearfix">
 <iframe src="//www.youtube.com/embed/xL93pM4YcC4?wmode=opaque&enablejsapi=1" height="480" width="854" scrolling="no" frameborder="0" allowfullscreen=""><br/></iframe>
+<br>
+
 
 <hr>
 
@@ -148,10 +158,12 @@ tags: portfolio arrows
 </div>
 
 
-<a href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/image-asset-2.png">
-<img src = "{{ site.url }}/images/portfolio/rubix-cube-solving-robot/image-asset-2.png">
-</a>
-
+<div class="projects clearfix">
+ <a href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/image-asset-2.png">
+  <img src = "{{ site.url }}/images/portfolio/rubix-cube-solving-robot/image-asset-2.png">
+ </a>
+</div>
+<br>
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -160,10 +172,12 @@ tags: portfolio arrows
 </div>
 
 
-<a href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/image-asset-3.png">
-<img src = "{{ site.url }}/images/portfolio/rubix-cube-solving-robot/image-asset-3.png">
-</a>
-
+<div class="projects clearfix">
+ <a href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/image-asset-3.png">
+  <img src = "{{ site.url }}/images/portfolio/rubix-cube-solving-robot/image-asset-3.png">
+ </a>
+</div>
+<br>
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -174,10 +188,12 @@ tags: portfolio arrows
 
 <hr>
 
-<a href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/image-asset-4.png">
-<img src = "{{ site.url }}/images/portfolio/rubix-cube-solving-robot/image-asset-4.png">
-</a>
-
+<div class="projects clearfix">
+ <a href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/image-asset-4.png">
+  <img src = "{{ site.url }}/images/portfolio/rubix-cube-solving-robot/image-asset-4.png">
+ </a>
+</div>
+<br>
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -210,10 +226,12 @@ tags: portfolio arrows
 </div>
 
 
-<a href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/image-asset-5.png">
-<img src = "{{ site.url }}/images/portfolio/rubix-cube-solving-robot/image-asset-5.png">
-</a>
-
+<div class="projects clearfix">
+ <a href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/image-asset-5.png">
+  <img src = "{{ site.url }}/images/portfolio/rubix-cube-solving-robot/image-asset-5.png">
+ </a>
+</div>
+<br>
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -249,8 +267,10 @@ tags: portfolio arrows
 </div>
 
 
-<a href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/rubix-robot.png">
-<img src = "{{ site.url }}/images/portfolio/rubix-cube-solving-robot/rubix-robot.png">
-</a>
-
+<div class="projects clearfix">
+ <a href="{{ site.url }}/images/portfolio/rubix-cube-solving-robot/rubix-robot.png">
+  <img src = "{{ site.url }}/images/portfolio/rubix-cube-solving-robot/rubix-robot.png">
+ </a>
+</div>
+<br>
 

@@ -5,10 +5,12 @@ title:  'ProCharge'
 tags: portfolio
 ---
 
-<a href="{{ site.url }}/images/portfolio/procharge/IMG_5804.jpg">
-<img src = "{{ site.url }}/images/portfolio/procharge/IMG_5804.jpg">
-</a>
-
+<div class="projects clearfix">
+ <a href="{{ site.url }}/images/portfolio/procharge/IMG_5804.jpg">
+  <img src = "{{ site.url }}/images/portfolio/procharge/IMG_5804.jpg">
+ </a>
+</div>
+<br>
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -38,8 +40,8 @@ tags: portfolio
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/procharge/IMG_5833+copy.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/procharge/IMG_5833+copy.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/procharge/IMG_5971.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/procharge/IMG_5971.jpg"></a>
     </div>
   </li>
   <li>
@@ -48,8 +50,8 @@ tags: portfolio
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/procharge/IMG_5968.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/procharge/IMG_5968.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/procharge/IMG_5833+copy.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/procharge/IMG_5833+copy.jpg"></a>
     </div>
   </li>
   <li>
@@ -58,13 +60,13 @@ tags: portfolio
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/procharge/IMG_5971.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/procharge/IMG_5971.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/procharge/IMG_5968.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/procharge/IMG_5968.jpg"></a>
     </div>
   </li>
 </ul>
 <br>
-
+<br>
 
 <hr>
 
@@ -95,5 +97,8 @@ tags: portfolio
 
 <hr>
 
+<div class="projects clearfix">
 <iframe src="//www.youtube.com/embed/BRUdkvakV0s?wmode=opaque&enablejsapi=1" height="480" width="854" scrolling="no" frameborder="0" allowfullscreen=""><br/></iframe>
+<br>
+
 

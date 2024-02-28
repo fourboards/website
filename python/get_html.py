@@ -30,7 +30,7 @@ def process_html(html_in, filename):
                 all_classes.update([div_class])
 
                 if div_class == "source-code":
-                    print(f"found source code {html.text}")
+                    #print(f"found source code {html.text}")
                     html_out = html_out + '<div class="code_block">\n'
                     html_out = html_out + ' <p>\n'
                     html_out = html_out + '   ' + html.text.replace('\n', '<br>') + '<br>\n'
@@ -41,6 +41,8 @@ def process_html(html_in, filename):
                     # Find all <img> tags within the current div
                     images = html.find_all('img')
                     unique_images = set()
+
+
 
                     for image in images:
                         image = image['src'].rsplit('/', 1)[-1]
@@ -58,10 +60,18 @@ def process_html(html_in, filename):
                         html_out = html_out + '</ul>\n'
                         html_out = html_out + '<br>\n'
                     elif div_class == "image-block-outer-wrapper":
-                        html_out = html_out + f'<a href="{image}">\n'
-                        html_out = html_out + f'<img src = "{image}">\n'
-                        html_out = html_out + f'</a>\n'
-                    html_out = html_out + "\n\n"
+                        links = html.find_all('a')
+                        if len(links) > 0:
+                            href = links[0].get('href', [])
+                            print(f"Found images with links: {href}")
+                        else:
+                            href = image
+                        html_out = html_out + f'<div class="projects clearfix">\n'
+                        html_out = html_out + f' <a href="{href}">\n'
+                        html_out = html_out + f'  <img src = "{image}">\n'
+                        html_out = html_out + f' </a>\n'
+                        html_out = html_out + f'</div>\n'
+                    html_out = html_out + "<br>\n\n"
 
                 elif div_class == "sqs-html-content":
                     html_out = html_out + html.prettify()
@@ -86,13 +96,15 @@ def process_html(html_in, filename):
 
                 elif div_class == "intrinsic":
                     div = html.find_all('div', recursive=True)
-                    html_out = html_out + div[1].get('data-html', [])
+                    html_out = html_out + '<div class="projects clearfix">\n'
+                    html_out = html_out + div[1].get('data-html', []) + "\n"
+                    html_out = html_out + '<br>\n'
                     html_out = html_out + "\n\n"
 
     #html_out = html_in
 
     if 'href="/s' in html_out:
-        print(f"detected file download in {filename}")
+        #print(f"detected file download in {filename}")
         html_out = html_out.replace('href="/s', 'href="{{ site.url }}/files/'+filename)
         output_dir = Path("C:/Users/10sta/GoogleDrive/Four Boards/Website New/fourboards/files/" + filename)
         try:
@@ -101,7 +113,7 @@ def process_html(html_in, filename):
             pass
 
     if 'href="/' in html_out:
-        print(f"detected local page link in {filename}")
+        #print(f"detected local page link in {filename}")
         html_out = html_out.replace('href="/', 'href="{{ site.url }}/')
 
     return html_out
@@ -126,7 +138,7 @@ def extract_items_from_xml(xml_file):
                 title = title_element.text
                 content_encoded = content_encoded_element.text
 
-                print(f"processing {link}")
+                #print(f"processing {link}")
                 content = process_html(content_encoded, link)
 
                 extension = "md"
@@ -151,9 +163,11 @@ def extract_items_from_xml(xml_file):
                     html_file.write("\n")
                     html_file.write(f"{content}")
             else:
-                print(f"Skipped (not in list) {link}")
+                #print(f"Skipped (not in list) {link}")
+                pass
         else:
-            print(f"Skipped (element is none) {link_element}")
+            #print(f"Skipped (element is none) {link_element}")
+            pass
 
 
 if __name__ == "__main__":

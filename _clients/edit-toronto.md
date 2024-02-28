@@ -5,10 +5,12 @@ title:  'EDIT Toronto'
 tags: portfolio arrows
 ---
 
-<a href="{{ site.url }}/images/portfolio/edit-toronto/received_1674918059205097_crop.jpeg">
-<img src = "{{ site.url }}/images/portfolio/edit-toronto/received_1674918059205097_crop.jpeg">
-</a>
-
+<div class="projects clearfix">
+ <a href="{{ site.url }}/images/portfolio/edit-toronto/received_1674918059205097_crop.jpeg">
+  <img src = "{{ site.url }}/images/portfolio/edit-toronto/received_1674918059205097_crop.jpeg">
+ </a>
+</div>
+<br>
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -34,26 +36,6 @@ tags: portfolio arrows
 
 <ul class="projects clearfix">
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/edit-toronto/IMG_20170823_090332.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/edit-toronto/IMG_20170823_090332.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/edit-toronto/IMG_20170920_151001.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/edit-toronto/IMG_20170920_151001.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/edit-toronto/IMG_20170920_151012.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/edit-toronto/IMG_20170920_151012.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/edit-toronto/IMG_20170915_125802.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/edit-toronto/IMG_20170915_125802.jpg"></a>
-    </div>
-  </li>
-  <li>
     <div class="project" style='background-image: url({{ site.url }}/images/portfolio/edit-toronto/IMG_20170804_125941.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/edit-toronto/IMG_20170804_125941.jpg"></a>
     </div>
@@ -63,7 +45,27 @@ tags: portfolio arrows
       <a class="cover" href="{{ site.url }}/images/portfolio/edit-toronto/IMG_20170823_095912.jpg"></a>
     </div>
   </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/edit-toronto/IMG_20170823_090332.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/edit-toronto/IMG_20170823_090332.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/edit-toronto/IMG_20170920_151012.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/edit-toronto/IMG_20170920_151012.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/edit-toronto/IMG_20170920_151001.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/edit-toronto/IMG_20170920_151001.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/edit-toronto/IMG_20170915_125802.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/edit-toronto/IMG_20170915_125802.jpg"></a>
+    </div>
+  </li>
 </ul>
 <br>
-
+<br>
 

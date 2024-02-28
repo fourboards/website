@@ -5,10 +5,12 @@ title:  'CNC Upgrade'
 tags: portfolio arrows
 ---
 
-<a href="{{ site.url }}/images/portfolio/cnc-upgrade/IMAG1771.jpg">
-<img src = "{{ site.url }}/images/portfolio/cnc-upgrade/IMAG1771.jpg">
-</a>
-
+<div class="projects clearfix">
+ <a href="{{ site.url }}/images/portfolio/cnc-upgrade/IMAG1771.jpg">
+  <img src = "{{ site.url }}/images/portfolio/cnc-upgrade/IMAG1771.jpg">
+ </a>
+</div>
+<br>
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -38,6 +40,16 @@ tags: portfolio arrows
 
 <ul class="projects clearfix">
   <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/cnc-upgrade/IMAG1737.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/cnc-upgrade/IMAG1737.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/cnc-upgrade/IMAG1733.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/cnc-upgrade/IMAG1733.jpg"></a>
+    </div>
+  </li>
+  <li>
     <div class="project" style='background-image: url({{ site.url }}/images/portfolio/cnc-upgrade/IMAG1774.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/cnc-upgrade/IMAG1774.jpg"></a>
     </div>
@@ -48,18 +60,8 @@ tags: portfolio arrows
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/cnc-upgrade/IMAG1733.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/cnc-upgrade/IMAG1733.jpg"></a>
-    </div>
-  </li>
-  <li>
     <div class="project" style='background-image: url({{ site.url }}/images/portfolio/cnc-upgrade/IMAG1515.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/cnc-upgrade/IMAG1515.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/cnc-upgrade/IMAG1737.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/cnc-upgrade/IMAG1737.jpg"></a>
     </div>
   </li>
   <li>
@@ -69,5 +71,5 @@ tags: portfolio arrows
   </li>
 </ul>
 <br>
-
+<br>
 

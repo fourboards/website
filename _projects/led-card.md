@@ -5,10 +5,12 @@ title:  'LED Card'
 tags: portfolio arrows
 ---
 
-<a href="{{ site.url }}/images/portfolio/led-card/IMG_5059.jpg">
-<img src = "{{ site.url }}/images/portfolio/led-card/IMG_5059.jpg">
-</a>
-
+<div class="projects clearfix">
+ <a href="{{ site.url }}/images/portfolio/led-card/IMG_5059.jpg">
+  <img src = "{{ site.url }}/images/portfolio/led-card/IMG_5059.jpg">
+ </a>
+</div>
+<br>
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -19,15 +21,19 @@ tags: portfolio arrows
 
 <hr>
 
-<a href="{{ site.url }}/images/portfolio/led-card/image-asset.png">
-<img src = "{{ site.url }}/images/portfolio/led-card/image-asset.png">
-</a>
+<div class="projects clearfix">
+ <a href="{{ site.url }}/images/portfolio/led-card/image-asset1.png">
+  <img src = "{{ site.url }}/images/portfolio/led-card/image-asset1.png">
+ </a>
+</div>
+<br>
 
-
-<a href="{{ site.url }}/images/portfolio/led-card/image-asset.png">
-<img src = "{{ site.url }}/images/portfolio/led-card/image-asset.png">
-</a>
-
+<div class="projects clearfix">
+ <a href="{{ site.url }}/images/portfolio/led-card/image-asset2.png">
+  <img src = "{{ site.url }}/images/portfolio/led-card/image-asset2.png">
+ </a>
+</div>
+<br>
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -64,10 +70,12 @@ tags: portfolio arrows
 </div>
 
 
-<a href="{{ site.url }}/images/portfolio/led-card/image-asset.png">
-<img src = "{{ site.url }}/images/portfolio/led-card/image-asset.png">
-</a>
-
+<div class="projects clearfix">
+ <a href="{{ site.url }}/images/portfolio/led-card/image-asset3.png">
+  <img src = "{{ site.url }}/images/portfolio/led-card/image-asset3.png">
+ </a>
+</div>
+<br>
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -84,10 +92,12 @@ tags: portfolio arrows
 </div>
 
 
-<a href="{{ site.url }}/images/portfolio/led-card/Code1.png">
-<img src = "{{ site.url }}/images/portfolio/led-card/Code1.png">
-</a>
-
+<div class="projects clearfix">
+ <a href="{{ site.url }}/images/portfolio/led-card/Code1.png">
+  <img src = "{{ site.url }}/images/portfolio/led-card/Code1.png">
+ </a>
+</div>
+<br>
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -111,5 +121,8 @@ tags: portfolio arrows
 </div>
 
 
+<div class="projects clearfix">
 <iframe src="//www.youtube.com/embed/uXhqPxu4wf8?wmode=opaque&enablejsapi=1" height="480" width="854" scrolling="no" frameborder="0" allowfullscreen=""><br/></iframe>
+<br>
+
 

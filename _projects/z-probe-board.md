@@ -5,10 +5,12 @@ title:  'Z-Probe Board'
 tags: portfolio arrows
 ---
 
-<a href="{{ site.url }}/images/portfolio/z-probe-board/IMG_4807.jpg">
-<img src = "{{ site.url }}/images/portfolio/z-probe-board/IMG_4807.jpg">
-</a>
-
+<div class="projects clearfix">
+ <a href="{{ site.url }}/images/portfolio/z-probe-board/IMG_4807.jpg">
+  <img src = "{{ site.url }}/images/portfolio/z-probe-board/IMG_4807.jpg">
+ </a>
+</div>
+<br>
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -28,10 +30,12 @@ tags: portfolio arrows
 
 <hr>
 
-<a href="{{ site.url }}/images/portfolio/z-probe-board/image-asset.jpeg">
-<img src = "{{ site.url }}/images/portfolio/z-probe-board/image-asset.jpeg">
-</a>
-
+<div class="projects clearfix">
+ <a href="{{ site.url }}/images/portfolio/z-probe-board/image-asset.jpeg">
+  <img src = "{{ site.url }}/images/portfolio/z-probe-board/image-asset.jpeg">
+ </a>
+</div>
+<br>
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -52,10 +56,12 @@ tags: portfolio arrows
 </div>
 
 
-<a href="{{ site.url }}/images/portfolio/z-probe-board/image-asset.png">
-<img src = "{{ site.url }}/images/portfolio/z-probe-board/image-asset.png">
-</a>
-
+<div class="projects clearfix">
+ <a href="{{ site.url }}/images/portfolio/z-probe-board/image-asset.png">
+  <img src = "{{ site.url }}/images/portfolio/z-probe-board/image-asset.png">
+ </a>
+</div>
+<br>
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -86,6 +92,11 @@ tags: portfolio arrows
     </div>
   </li>
   <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/z-probe-board/IMAG0875.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/z-probe-board/IMAG0875.jpg"></a>
+    </div>
+  </li>
+  <li>
     <div class="project" style='background-image: url({{ site.url }}/images/portfolio/z-probe-board/IMAG0882.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/z-probe-board/IMAG0882.jpg"></a>
     </div>
@@ -96,8 +107,8 @@ tags: portfolio arrows
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/z-probe-board/IMAG0875.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/z-probe-board/IMAG0875.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/z-probe-board/IMG_4807+-+Banner.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/z-probe-board/IMG_4807+-+Banner.jpg"></a>
     </div>
   </li>
   <li>
@@ -105,14 +116,9 @@ tags: portfolio arrows
       <a class="cover" href="{{ site.url }}/images/portfolio/z-probe-board/IMAG0870+%281%29.jpg"></a>
     </div>
   </li>
-  <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/z-probe-board/IMG_4807+-+Banner.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/z-probe-board/IMG_4807+-+Banner.jpg"></a>
-    </div>
-  </li>
 </ul>
 <br>
-
+<br>
 
 <hr>
 
@@ -123,7 +129,10 @@ tags: portfolio arrows
 </div>
 
 
+<div class="projects clearfix">
 <iframe src="//www.youtube.com/embed/NNZLVAwPn-Q?wmode=opaque&enablejsapi=1" height="480" width="854" scrolling="no" frameborder="0" allowfullscreen=""><br/></iframe>
+<br>
+
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -148,18 +157,13 @@ tags: portfolio arrows
     </div>
   </li>
   <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/z-probe-board/IMG_5076.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/z-probe-board/IMG_5076.jpg"></a>
+    </div>
+  </li>
+  <li>
     <div class="project" style='background-image: url({{ site.url }}/images/portfolio/z-probe-board/IMG_5071.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/z-probe-board/IMG_5071.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/z-probe-board/IMG_5073.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/z-probe-board/IMG_5073.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/z-probe-board/IMG_5080.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/z-probe-board/IMG_5080.jpg"></a>
     </div>
   </li>
   <li>
@@ -168,11 +172,16 @@ tags: portfolio arrows
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/z-probe-board/IMG_5076.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/z-probe-board/IMG_5076.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/z-probe-board/IMG_5080.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/z-probe-board/IMG_5080.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/z-probe-board/IMG_5073.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/z-probe-board/IMG_5073.jpg"></a>
     </div>
   </li>
 </ul>
 <br>
-
+<br>
 

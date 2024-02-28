@@ -5,10 +5,12 @@ title:  'Scalextric Start Gate'
 tags: portfolio arrows
 ---
 
-<a href="{{ site.url }}/images/portfolio/scalextric-start-gate/IMG_4834.jpg">
-<img src = "{{ site.url }}/images/portfolio/scalextric-start-gate/IMG_4834.jpg">
-</a>
-
+<div class="projects clearfix">
+ <a href="{{ site.url }}/images/portfolio/scalextric-start-gate/IMG_4834.jpg">
+  <img src = "{{ site.url }}/images/portfolio/scalextric-start-gate/IMG_4834.jpg">
+ </a>
+</div>
+<br>
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -17,8 +19,10 @@ tags: portfolio arrows
 </div>
 
 
-<a href="{{ site.url }}/images/portfolio/scalextric-start-gate/Scalextric+Start+Gate.png">
-<img src = "{{ site.url }}/images/portfolio/scalextric-start-gate/Scalextric+Start+Gate.png">
-</a>
-
+<div class="projects clearfix">
+ <a href="{{ site.url }}/files/scalextric-start-gate/Four_Boards_Scalextrics_Start_Gate.pdf">
+  <img src = "{{ site.url }}/images/portfolio/scalextric-start-gate/Scalextric+Start+Gate.png">
+ </a>
+</div>
+<br>
 

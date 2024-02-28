@@ -5,10 +5,12 @@ title:  'Bike Speakers'
 tags: portfolio arrows
 ---
 
-<a href="{{ site.url }}/images/portfolio/bike-speakers/IMG_4820.jpg">
-<img src = "{{ site.url }}/images/portfolio/bike-speakers/IMG_4820.jpg">
-</a>
-
+<div class="projects clearfix">
+ <a href="{{ site.url }}/images/portfolio/bike-speakers/IMG_4820.jpg">
+  <img src = "{{ site.url }}/images/portfolio/bike-speakers/IMG_4820.jpg">
+ </a>
+</div>
+<br>
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -19,10 +21,12 @@ tags: portfolio arrows
 
 <hr>
 
-<a href="{{ site.url }}/images/portfolio/bike-speakers/image-asset.jpeg">
-<img src = "{{ site.url }}/images/portfolio/bike-speakers/image-asset.jpeg">
-</a>
-
+<div class="projects clearfix">
+ <a href="{{ site.url }}/images/portfolio/bike-speakers/image-asset.jpeg">
+  <img src = "{{ site.url }}/images/portfolio/bike-speakers/image-asset.jpeg">
+ </a>
+</div>
+<br>
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -54,23 +58,13 @@ tags: portfolio arrows
 
 <ul class="projects clearfix">
   <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/bike-speakers/Complete+Speakers1.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/bike-speakers/Complete+Speakers1.jpg"></a>
+    </div>
+  </li>
+  <li>
     <div class="project" style='background-image: url({{ site.url }}/images/portfolio/bike-speakers/Complete+Speakers2.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/bike-speakers/Complete+Speakers2.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/bike-speakers/Complete+Speakers5.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/bike-speakers/Complete+Speakers5.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/bike-speakers/Complete+Speakers3.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/bike-speakers/Complete+Speakers3.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/bike-speakers/Complete+Speakers4.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/bike-speakers/Complete+Speakers4.jpg"></a>
     </div>
   </li>
   <li>
@@ -79,13 +73,23 @@ tags: portfolio arrows
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/bike-speakers/Complete+Speakers1.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/bike-speakers/Complete+Speakers1.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/bike-speakers/Complete+Speakers4.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/bike-speakers/Complete+Speakers4.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/bike-speakers/Complete+Speakers3.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/bike-speakers/Complete+Speakers3.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/bike-speakers/Complete+Speakers5.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/bike-speakers/Complete+Speakers5.jpg"></a>
     </div>
   </li>
 </ul>
 <br>
-
+<br>
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -108,26 +112,6 @@ tags: portfolio arrows
 
 <ul class="projects clearfix">
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/bike-speakers/IMG_4818.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/bike-speakers/IMG_4818.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/bike-speakers/IMG_4821.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/bike-speakers/IMG_4821.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/bike-speakers/IMG_4813.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/bike-speakers/IMG_4813.jpg"></a>
-    </div>
-  </li>
-  <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/bike-speakers/IMG_4829.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/bike-speakers/IMG_4829.jpg"></a>
-    </div>
-  </li>
-  <li>
     <div class="project" style='background-image: url({{ site.url }}/images/portfolio/bike-speakers/IMG_4823.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/bike-speakers/IMG_4823.jpg"></a>
     </div>
@@ -137,7 +121,27 @@ tags: portfolio arrows
       <a class="cover" href="{{ site.url }}/images/portfolio/bike-speakers/IMG_4824.jpg"></a>
     </div>
   </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/bike-speakers/IMG_4813.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/bike-speakers/IMG_4813.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/bike-speakers/IMG_4821.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/bike-speakers/IMG_4821.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/bike-speakers/IMG_4818.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/bike-speakers/IMG_4818.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/bike-speakers/IMG_4829.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/bike-speakers/IMG_4829.jpg"></a>
+    </div>
+  </li>
 </ul>
 <br>
-
+<br>
 

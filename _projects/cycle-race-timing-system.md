@@ -5,10 +5,12 @@ title:  'Cycle Race Timing System'
 tags: portfolio arrows
 ---
 
-<a href="{{ site.url }}/images/portfolio/cycle-race-timing-system/IMG_20190402_153322.jpg">
-<img src = "{{ site.url }}/images/portfolio/cycle-race-timing-system/IMG_20190402_153322.jpg">
-</a>
-
+<div class="projects clearfix">
+ <a href="{{ site.url }}/images/portfolio/cycle-race-timing-system/IMG_20190402_153322.jpg">
+  <img src = "{{ site.url }}/images/portfolio/cycle-race-timing-system/IMG_20190402_153322.jpg">
+ </a>
+</div>
+<br>
 
 <div class="sqs-html-content">
  <p class="" style="text-align:center;white-space:pre-wrap;">
@@ -17,8 +19,10 @@ tags: portfolio arrows
 </div>
 
 
-<a href="{{ site.url }}/images/portfolio/cycle-race-timing-system/Cycle+Club+Race+Timing+System.png">
-<img src = "{{ site.url }}/images/portfolio/cycle-race-timing-system/Cycle+Club+Race+Timing+System.png">
-</a>
-
+<div class="projects clearfix">
+ <a href="{{ site.url }}/files/cycle-race-timing-system/COMP3200_Final_Report.pdf">
+  <img src = "{{ site.url }}/images/portfolio/cycle-race-timing-system/Cycle+Club+Race+Timing+System.png">
+ </a>
+</div>
+<br>
 

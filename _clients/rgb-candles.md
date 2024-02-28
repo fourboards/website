@@ -11,10 +11,12 @@ tags: portfolio arrows
 </div>
 
 
-<a href="{{ site.url }}/images/portfolio/rgb-candles/IMG_20180726_142934.jpg">
-<img src = "{{ site.url }}/images/portfolio/rgb-candles/IMG_20180726_142934.jpg">
-</a>
-
+<div class="projects clearfix">
+ <a href="{{ site.url }}/images/portfolio/rgb-candles/IMG_20180726_142934.jpg">
+  <img src = "{{ site.url }}/images/portfolio/rgb-candles/IMG_20180726_142934.jpg">
+ </a>
+</div>
+<br>
 
 <ul class="projects clearfix">
   <li>
@@ -23,8 +25,8 @@ tags: portfolio arrows
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/rgb-candles/IMG_20180726_142825.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/rgb-candles/IMG_20180726_142825.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/rgb-candles/IMG_20180706_173504.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/rgb-candles/IMG_20180706_173504.jpg"></a>
     </div>
   </li>
   <li>
@@ -33,21 +35,21 @@ tags: portfolio arrows
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/rgb-candles/IMG_20180706_173457.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/rgb-candles/IMG_20180706_173457.jpg"></a>
-    </div>
-  </li>
-  <li>
     <div class="project" style='background-image: url({{ site.url }}/images/portfolio/rgb-candles/IMG_20180726_142735.jpg)'>
       <a class="cover" href="{{ site.url }}/images/portfolio/rgb-candles/IMG_20180726_142735.jpg"></a>
     </div>
   </li>
   <li>
-    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/rgb-candles/IMG_20180706_173504.jpg)'>
-      <a class="cover" href="{{ site.url }}/images/portfolio/rgb-candles/IMG_20180706_173504.jpg"></a>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/rgb-candles/IMG_20180726_142825.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/rgb-candles/IMG_20180726_142825.jpg"></a>
+    </div>
+  </li>
+  <li>
+    <div class="project" style='background-image: url({{ site.url }}/images/portfolio/rgb-candles/IMG_20180706_173457.jpg)'>
+      <a class="cover" href="{{ site.url }}/images/portfolio/rgb-candles/IMG_20180706_173457.jpg"></a>
     </div>
   </li>
 </ul>
 <br>
-
+<br>
 
