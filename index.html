@@ -17,21 +17,22 @@ js:
   function changeBanner() {
     const banners = ["IMG_0346.jpg", "IMG_0853.jpg", "IMG_2202.jpg", "IMG_4866.jpg", "IMG_4896.jpg", "IMG_5299.jpg", "IMG_5352.jpg", "IMG_5465.jpg", "IMG_20190402_153322.jpg", "RGB1.jpg"];
     
-    banner = banner + 1;
-    if(banner >= banners.length){
-      banner = 0;
-    }
-    
-    var image = document.getElementById('banner1');
-    /*image.src = "{{ site.url }}/images/banners/" + banners[banner];*/
-
-    fadeOutAndCallback(image,
-      function(){
-        image.src = "{{ site.url }}/images/banners/" + banners[banner];
-        fadeIn(image);
+    if (!document.hidden) {
+      banner = banner + 1;
+      if(banner >= banners.length){
+        banner = 0;
       }
-    );
-    
+      
+      var image = document.getElementById('banner1');
+      /*image.src = "{{ site.url }}/images/banners/" + banners[banner];*/
+
+      fadeOutAndCallback(image,
+        function(){
+          image.src = "{{ site.url }}/images/banners/" + banners[banner];
+          fadeIn(image);
+        }
+      );
+    }
   }
 
   function fadeIn(image) {
