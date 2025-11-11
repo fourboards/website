@@ -147,7 +147,7 @@ tags: portfolio arrows
   7. The panels must now be joined together.  From experience I learnt it is best to do the final assembly in position as it becomes very difficult to line up all the LED connections once the cube is soldered together.  I used Jenga blocks and another jig to get the panels square to each other before soldering more horizontal anode connections to connect each panel to the next.  At this point I had used all the wire I needed with just inches to spare.
  </p>
  <p class="" style="text-align:center;white-space:pre-wrap;">
-  And that's it, the cube was finished!  Below are all the CAD files I used, although the wooden jigs aren't included in this it is quite simple to make your own, the only real requirement is that the spacing remains at 40mm between each LED centre.
+  And that's it, the cube was finished!
  </p>
 </div>
 
@@ -216,16 +216,6 @@ tags: portfolio arrows
 </ul>
 <br>
 <br>
-
-<div class="sqs-html-content">
- <p class="" style="text-align:center;white-space:pre-wrap;">
-  Download (Various CAD):
-  <a href="https://drive.google.com/open?id=0B2f5D6TncWHDTmVwMXVXcV9vTDg" target="_blank">
-   CAD.zip
-  </a>
- </p>
-</div>
-
 
 <hr>
 

@@ -85,15 +85,6 @@ tags: portfolio arrows
 <br>
 <br>
 
-<div class="sqs-html-content">
- <p class="" style="text-align:center;white-space:pre-wrap;">
-  Download (Various CAD):
-  <a href="https://drive.google.com/open?id=0B2f5D6TncWHDS19LV2FJUXU1Z2M" target="_blank">
-   CAD.zip
-  </a>
- </p>
-</div>
-
 
 <hr>
 
