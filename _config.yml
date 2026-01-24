@@ -2,8 +2,8 @@
 ## Site settings                    ##
 ######################################
 title:       Four Boards
-email:       jacob@fourboards.co.uk
-author:      Jacob Burge
+email:       
+author:      
 description: "A striking black-white Jekyll theme."
 baseurl:     "https://fourboards.co.uk/"
 url:         "https://fourboards.co.uk"
@@ -58,7 +58,7 @@ twitter_username:
 skype_username:
 steam_nickname:
 google_plus_id:
-linkedin_username: jacob-burge
+linkedin_username:
 angellist_username:
 medium_id: 
 youtube_channel_id: UC-MBExflq44QO73OKo3Buhw
